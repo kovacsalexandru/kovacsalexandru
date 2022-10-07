@@ -1,88 +1,90 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Vígjáték" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Comedy-PNG-Free-Download.png" group-title="24/7 Film",24/7 Vígjáték
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12738
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Akció" tvg-logo="https://www.seekpng.com/png/detail/13-134642_action-sticker.png" group-title="24/7 Film",24/7 Akció
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12516
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kaland & Fantasy" tvg-logo="https://static.wikia.nocookie.net/whitewolf/images/8/84/AdventureLogo.png/revision/latest?cb=20050604225017" group-title="24/7 Film",24/7 Kaland & Fantasy
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12736
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sci-fi" tvg-logo="https://www.pngall.com/wp-content/uploads/6/Science-Fiction-PNG-High-Quality-Image.png" group-title="24/7 Film",24/7 Sci-fi
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12739
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Horror" tvg-logo="https://i2.wp.com/www.jumbojetje.nl/tutorials/wp-content/uploads/2009/07/horror-tekst-19.jpg" group-title="24/7 Film",24/7 Horror
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12546
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Thriller" tvg-logo="https://www.pngkey.com/png/detail/306-3069820_sip-creatives-michael-jackson-thriller-logo-png.png" group-title="24/7 Film",24/7 Thriller
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12737
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Romantikus" tvg-logo="https://www.pngall.com/wp-content/uploads/2/Romantic-PNG-File.png" group-title="24/7 Film",24/7 Romantikus
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12741
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dráma" tvg-logo="https://www.pngkey.com/png/full/489-4898403_50-musical-theatrical-and-instrumental-shows-performed-theatre.png" group-title="24/7 Film",24/7 Dráma
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12740
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Filmek az egész családnak" tvg-logo="https://www.pngitem.com/pimgs/m/49-493423_transparent-walk-clipart-family-with-kids-png-png.png" group-title="24/7 Film",24/7 Filmek az egész családnak
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12493
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Western" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Western-Cowboy-Hat-No-Background.png" group-title="24/7 Film",24/7 Western
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12735
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hősök & antihősök" tvg-logo="https://www.pngkit.com/bigpic/u2w7a9o0i1u2i1u2/" group-title="24/7 Film",24/7 Hősök & antihősök
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12544
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animáció" tvg-logo="https://p.kindpng.com/picc/s/137-1371319_shrek-meme-birthday-card-shrek-emoji-png-transparent.png" group-title="24/7 Film",24/7 Animáció
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12688
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Disney" tvg-logo="https://pngpress.com/wp-content/uploads/2020/03/Disney-Logo-PNG-Clipart.png" group-title="24/7 Film",24/7 Disney
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12687
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Marvel univerzum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png" group-title="24/7 Film",24/7 Marvel univerzum
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12413
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Adam Sandler" tvg-logo="https://www.pngitem.com/pimgs/m/28-282055_adam-sandler-hd-png-download-adam-sandler-png.png" group-title="24/7 Film",24/7 Adam Sandler
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12487
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jim Carrey" tvg-logo="https://www.pngkit.com/png/detail/172-1726227_mask-themask-jimcarrey-jim-carrey-jim-carrey-the.png" group-title="24/7 Film",24/7 Jim Carrey
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12909
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jackie Chan" tvg-logo="https://www.pngall.com/wp-content/uploads/12/Jackie-Chan-No-Background.png" group-title="24/7 Film",24/7 Jackie Chan
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/13594
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Cruise" tvg-logo="https://www.pngall.com/wp-content/uploads/8/Tom-Cruise-PNG-High-Quality-Image.png" group-title="24/7 Film",24/7 Tom Cruise
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12488
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Nicolas Cage" tvg-logo="https://a1png.com/wp-content/uploads/2021/06/Nicolas-Cage-10.png" group-title="24/7 Film",24/7 Nicolas Cage
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/13218
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Arnold Schwarzenegger" tvg-logo="https://toppng.com/uploads/preview/arnold-schwarzenegger-face-png-graphic-library-download-arnold-schwarzenegger-face-11563008984jd2ajaccya.png" group-title="24/7 Film",24/7 Arnold Schwarzenegger
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12473
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sylvester Stallone" tvg-logo="https://www.kindpng.com/picc/m/48-482149_sylvester-stallone-png-image-free-download-searchpng-sylvester.png" group-title="24/7 Film",24/7 Sylvester Stallone
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12472
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Eddie Murphy" tvg-logo="https://www.pnglib.com/wp-content/uploads/2020/01/eddie-murphy-portrait_5e2ee53b73d43.png" group-title="24/7 Film",24/7 Eddie Murphy
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12539
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Denzel Washington" tvg-logo="https://www.celebrity-cutouts.com/wp-content/uploads/2020/01/denzel-washington-young-celebrity-mask.png" group-title="24/7 Film",24/7 Denzel Washington
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12541
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tim Burton" tvg-logo="https://www.pngkit.com/png/full/712-7127340_tim-burton-png.png" group-title="24/7 Film",24/7 Tim Burton
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12542
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Stephen King" tvg-logo="https://www.pnglib.com/wp-content/uploads/2020/01/stephen-king-portrait_5e2750cd456a6.png" group-title="24/7 Film",24/7 Stephen King
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12491
-#EXTINF:-1 tvg-id="" tvg-name="24/7 M. Night Shyamalan" tvg-logo="https://images.nymag.com/images/2/daily/2010/07/20100701_mnightshyamalan-silo_250x375.png" group-title="24/7 Film",24/7 M. Night Shyamalan
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12543
-#EXTINF:-1 tvg-id="" tvg-name="24/7 A sötétség titkai" tvg-logo="https://fanart.tv/fanart/tv/347115/hdtvlogo/into-the-dark-5bdeb15f29b34.png" group-title="24/7 Film",24/7 A sötétség titkai
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12527
-#EXTINF:-1 tvg-id="" tvg-name="24/7 James Bond" tvg-logo="https://fanart.tv/fanart/movies/645/hdmovielogo/james-bond-collection-5283f5fa2e995.png" group-title="24/7 Film",24/7 James Bond
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12540
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Halálos iramban" tvg-logo="https://fanart.tv/fanart/movies/13804/hdmovielogo/fast--furious-51aa54243d4b4.png" group-title="24/7 Film",24/7 Halálos iramban
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12455
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter" tvg-logo="https://fanart.tv/fanart/movies/1241/hdmovielogo/harry-potter-collection-51f37de5ea109.png" group-title="24/7 Film",24/7 Harry Potter
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12490
-#EXTINF:-1 tvg-id="" tvg-name="24/7 A Gyűrűk ura" tvg-logo="https://fanart.tv/fanart/movies/119/hdmovielogo/the-lord-of-the-rings-collection-566f9e5e0af2c.png" group-title="24/7 Film",24/7 A Gyűrűk ura
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12476
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star wars" tvg-logo="https://fanart.tv/fanart/movies/10/hdmovielogo/star-wars-collection-548cb7d30e1bd.png" group-title="24/7 Film",24/7 Star wars
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12461
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star trek" tvg-logo="https://fanart.tv/fanart/movies/13475/hdmovielogo/star-trek-55ad6fc59d701.png" group-title="24/7 Film",24/7 Star trek
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12545
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Alien" tvg-logo="https://images.fanart.tv/fanart/alien-5a8096da5583e.png" group-title="24/7 Film",24/7 Alien
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/13652
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fűrész" tvg-logo="https://fanart.tv/fanart/movies/656/hdmovielogo/saw-collection-5529db44d9486.png" group-title="24/7 Film",24/7 Fűrész
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12460
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Paranormal activity" tvg-logo="https://fanart.tv/fanart/movies/23827/hdmovielogo/paranormal-activity-524ec7a8d1847.png" group-title="24/7 Film",24/7 Paranormal activity
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12433
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Resident evil" tvg-logo="https://images.fanart.tv/fanart/resident-evil-collection-51f85ed09d2a9.png" group-title="24/7 Film",24/7 Resident evil
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/13651
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gyerekjáték" tvg-logo="https://fanart.tv/fanart/tv/349415/hdtvlogo/chucky-6136506bb6a5c.png" group-title="24/7 Film",24/7 Gyerekjáték
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12469
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Péntek 13" tvg-logo="https://fanart.tv/fanart/movies/13207/hdmovielogo/friday-the-13th-585a41cfe15b1.png" group-title="24/7 Film",24/7 Péntek 13
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12453
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rémálom az Elm utcában" tvg-logo="https://fanart.tv/fanart/movies/8581/hdmovielogo/a-nightmare-on-elm-street-collection-51fe3d52b5870.png" group-title="24/7 Film",24/7 Rémálom az Elm utcában
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12454
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hellraiser" tvg-logo="https://fanart.tv/fanart/movies/9003/hdmovieclearart/hellraiser-5714ffdc2a4a6.png" group-title="24/7 Film",24/7 Hellraiser
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12470
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Halloween" tvg-logo="https://fanart.tv/fanart/movies/948/hdmovieclearart/halloween-517af43a7cb62.png" group-title="24/7 Film",24/7 Halloween
-http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12480
+#EXTINF:-1 tvg-id="12738" tvg-name="24/7 Vígjáték" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Comedy-PNG-Free-Download.png" group-title="24/7 Film",24/7 Vígjáték
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15533
+#EXTINF:-1 tvg-id="12516" tvg-name="24/7 Akció" tvg-logo="https://www.seekpng.com/png/detail/13-134642_action-sticker.png" group-title="24/7 Film",24/7 Akció
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15491
+#EXTINF:-1 tvg-id="12736" tvg-name="24/7 Kaland & Fantasy" tvg-logo="https://static.wikia.nocookie.net/whitewolf/images/8/84/AdventureLogo.png/revision/latest?cb=20050604225017" group-title="24/7 Film",24/7 Kaland & Fantasy
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15492
+#EXTINF:-1 tvg-id="12739" tvg-name="24/7 Sci-fi" tvg-logo="https://www.pngall.com/wp-content/uploads/6/Science-Fiction-PNG-High-Quality-Image.png" group-title="24/7 Film",24/7 Sci-fi
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15493
+#EXTINF:-1 tvg-id="12546" tvg-name="24/7 Horror" tvg-logo="https://i2.wp.com/www.jumbojetje.nl/tutorials/wp-content/uploads/2009/07/horror-tekst-19.jpg" group-title="24/7 Film",24/7 Horror
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15494
+#EXTINF:-1 tvg-id="12737" tvg-name="24/7 Thriller" tvg-logo="https://www.pngkey.com/png/detail/306-3069820_sip-creatives-michael-jackson-thriller-logo-png.png" group-title="24/7 Film",24/7 Thriller
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15495
+#EXTINF:-1 tvg-id="12741" tvg-name="24/7 Romantikus" tvg-logo="https://www.pngall.com/wp-content/uploads/2/Romantic-PNG-File.png" group-title="24/7 Film",24/7 Romantikus
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15496
+#EXTINF:-1 tvg-id="12740" tvg-name="24/7 Dráma" tvg-logo="https://www.pngkey.com/png/full/489-4898403_50-musical-theatrical-and-instrumental-shows-performed-theatre.png" group-title="24/7 Film",24/7 Dráma
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15497
+#EXTINF:-1 tvg-id="12493" tvg-name="24/7 Filmek az egész családnak" tvg-logo="https://www.pngitem.com/pimgs/m/49-493423_transparent-walk-clipart-family-with-kids-png-png.png" group-title="24/7 Film",24/7 Filmek az egész családnak
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15498
+#EXTINF:-1 tvg-id="12735" tvg-name="24/7 Western" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Western-Cowboy-Hat-No-Background.png" group-title="24/7 Film",24/7 Western
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15499
+#EXTINF:-1 tvg-id="12544" tvg-name="24/7 Hősök & antihősök" tvg-logo="https://images.fanart.tv/fanart/batman-547bf36587ea9.png" group-title="24/7 Film",24/7 Hősök & antihősök
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15500
+#EXTINF:-1 tvg-id="12688" tvg-name="24/7 Animáció" tvg-logo="https://p.kindpng.com/picc/s/137-1371319_shrek-meme-birthday-card-shrek-emoji-png-transparent.png" group-title="24/7 Film",24/7 Animáció
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15501
+#EXTINF:-1 tvg-id="12687" tvg-name="24/7 Disney" tvg-logo="https://pngpress.com/wp-content/uploads/2020/03/Disney-Logo-PNG-Clipart.png" group-title="24/7 Film",24/7 Disney
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15502
+#EXTINF:-1 tvg-id="12413" tvg-name="24/7 Marvel univerzum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png" group-title="24/7 Film",24/7 Marvel univerzum
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15503
+#EXTINF:-1 tvg-id="12487" tvg-name="24/7 Adam Sandler" tvg-logo="https://www.pngitem.com/pimgs/m/28-282055_adam-sandler-hd-png-download-adam-sandler-png.png" group-title="24/7 Film",24/7 Adam Sandler
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15504
+#EXTINF:-1 tvg-id="12909" tvg-name="24/7 Jim Carrey" tvg-logo="https://www.pngkit.com/png/detail/172-1726227_mask-themask-jimcarrey-jim-carrey-jim-carrey-the.png" group-title="24/7 Film",24/7 Jim Carrey
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15505
+#EXTINF:-1 tvg-id="15425" tvg-name="24/7 Liam Neeson" tvg-logo="https://i1.wp.com/www.pnglib.com/wp-content/uploads/2020/01/liam-neeson-taken_5e2f12471f7bd.png?resize=680%2C680&ssl=1" group-title="24/7 Film",24/7 Liam Neeson
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15506
+#EXTINF:-1 tvg-id="13594" tvg-name="24/7 Jackie Chan" tvg-logo="https://www.pngall.com/wp-content/uploads/12/Jackie-Chan-No-Background.png" group-title="24/7 Film",24/7 Jackie Chan
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15507
+#EXTINF:-1 tvg-id="12488" tvg-name="24/7 Tom Cruise" tvg-logo="https://www.pngall.com/wp-content/uploads/8/Tom-Cruise-PNG-High-Quality-Image.png" group-title="24/7 Film",24/7 Tom Cruise
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15508
+#EXTINF:-1 tvg-id="13218" tvg-name="24/7 Nicolas Cage" tvg-logo="https://a1png.com/wp-content/uploads/2021/06/Nicolas-Cage-10.png" group-title="24/7 Film",24/7 Nicolas Cage
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15509
+#EXTINF:-1 tvg-id="12473" tvg-name="24/7 Arnold Schwarzenegger" tvg-logo="https://toppng.com/uploads/preview/arnold-schwarzenegger-face-png-graphic-library-download-arnold-schwarzenegger-face-11563008984jd2ajaccya.png" group-title="24/7 Film",24/7 Arnold Schwarzenegger
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15510
+#EXTINF:-1 tvg-id="12472" tvg-name="24/7 Sylvester Stallone" tvg-logo="https://www.kindpng.com/picc/m/48-482149_sylvester-stallone-png-image-free-download-searchpng-sylvester.png" group-title="24/7 Film",24/7 Sylvester Stallone
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15511
+#EXTINF:-1 tvg-id="12539" tvg-name="24/7 Eddie Murphy" tvg-logo="https://www.pnglib.com/wp-content/uploads/2020/01/eddie-murphy-portrait_5e2ee53b73d43.png" group-title="24/7 Film",24/7 Eddie Murphy
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15512
+#EXTINF:-1 tvg-id="12541" tvg-name="24/7 Denzel Washington" tvg-logo="https://www.celebrity-cutouts.com/wp-content/uploads/2020/01/denzel-washington-young-celebrity-mask.png" group-title="24/7 Film",24/7 Denzel Washington
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15513
+#EXTINF:-1 tvg-id="12542" tvg-name="24/7 Tim Burton" tvg-logo="https://www.pngkit.com/png/full/712-7127340_tim-burton-png.png" group-title="24/7 Film",24/7 Tim Burton
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15514
+#EXTINF:-1 tvg-id="12491" tvg-name="24/7 Stephen King" tvg-logo="https://www.pnglib.com/wp-content/uploads/2020/01/stephen-king-portrait_5e2750cd456a6.png" group-title="24/7 Film",24/7 Stephen King
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15515
+#EXTINF:-1 tvg-id="12543" tvg-name="24/7 M. Night Shyamalan" tvg-logo="https://images.nymag.com/images/2/daily/2010/07/20100701_mnightshyamalan-silo_250x375.png" group-title="24/7 Film",24/7 M. Night Shyamalan
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15516
+#EXTINF:-1 tvg-id="12527" tvg-name="24/7 A sötétség titkai" tvg-logo="https://images.fanart.tv/fanart/into-the-dark-5b9b66d5f3d92.png" group-title="24/7 Film",24/7 A sötétség titkai
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15517
+#EXTINF:-1 tvg-id="12540" tvg-name="24/7 James Bond" tvg-logo="https://images.fanart.tv/fanart/james-bond-collection-51f3b5c745f9d.png" group-title="24/7 Film",24/7 James Bond
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15518
+#EXTINF:-1 tvg-id="12455" tvg-name="24/7 Halálos iramban" tvg-logo="https://images.fanart.tv/fanart/the-fast-and-the-furious-51967ada8296f.png" group-title="24/7 Film",24/7 Halálos iramban
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15519
+#EXTINF:-1 tvg-id="12490" tvg-name="24/7 Harry Potter" tvg-logo="https://images.fanart.tv/fanart/harry-potter-collection-51f37de5ea109.png" group-title="24/7 Film",24/7 Harry Potter
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15520
+#EXTINF:-1 tvg-id="12476" tvg-name="24/7 A Gyűrűk ura" tvg-logo="https://images.fanart.tv/fanart/the-lord-of-the-rings-collection-616e92c84961b.png" group-title="24/7 Film",24/7 A Gyűrűk ura
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15521
+#EXTINF:-1 tvg-id="12461" tvg-name="24/7 Star wars" tvg-logo="https://images.fanart.tv/fanart/star-wars-collection-52dad3a70f76e.png" group-title="24/7 Film",24/7 Star wars
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15522
+#EXTINF:-1 tvg-id="12545" tvg-name="24/7 Star trek" tvg-logo="https://images.fanart.tv/fanart/star-trek-alternate-reality-collection-5306075037322.png" group-title="24/7 Film",24/7 Star trek
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15523
+#EXTINF:-1 tvg-id="13652" tvg-name="24/7 Alien" tvg-logo="https://images.fanart.tv/fanart/alien-anthology-5313049c37164.png" group-title="24/7 Film",24/7 Alien
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15524
+#EXTINF:-1 tvg-id="12460" tvg-name="24/7 Fűrész" tvg-logo="https://images.fanart.tv/fanart/saw-collection-5529db44d9486.png" group-title="24/7 Film",24/7 Fűrész
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15525
+#EXTINF:-1 tvg-id="12433" tvg-name="24/7 Paranormal activity" tvg-logo="https://images.fanart.tv/fanart/paranormal-activity-collection-520a89ced61f2.png" group-title="24/7 Film",24/7 Paranormal activity
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15526
+#EXTINF:-1 tvg-id="13651" tvg-name="24/7 Resident evil" tvg-logo="https://images.fanart.tv/fanart/resident-evil-collection-5787518083bb2.png" group-title="24/7 Film",24/7 Resident evil
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15527
+#EXTINF:-1 tvg-id="12469" tvg-name="24/7 Gyerekjáték" tvg-logo="https://images.fanart.tv/fanart/childs-play-collection-520a62ed38377.png" group-title="24/7 Film",24/7 Gyerekjáték
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15528
+#EXTINF:-1 tvg-id="12453" tvg-name="24/7 Péntek 13" tvg-logo="https://images.fanart.tv/fanart/friday-the-13th-collection-520c8cb97f6c1.png" group-title="24/7 Film",24/7 Péntek 13
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15529
+#EXTINF:-1 tvg-id="12454" tvg-name="24/7 Rémálom az Elm utcában" tvg-logo="https://images.fanart.tv/fanart/a-nightmare-on-elm-street-collection-52e392fcd8359.PNG" group-title="24/7 Film",24/7 Rémálom az Elm utcában
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15530
+#EXTINF:-1 tvg-id="12470" tvg-name="24/7 Hellraiser" tvg-logo="https://images.fanart.tv/fanart/hellraiser-collection-5347d5252096e.png" group-title="24/7 Film",24/7 Hellraiser
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15531
+#EXTINF:-1 tvg-id="12480" tvg-name="24/7 Halloween" tvg-logo="https://images.fanart.tv/fanart/halloween-collection-5ce03110e05d9.png" group-title="24/7 Film",24/7 Halloween
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15532
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Jóbarátok" tvg-logo="https://fanart.tv/fanart/tv/79168/hdtvlogo/friends-504699065606d.png" group-title="24/7 Sorozat",24/7 Jóbarátok
 http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12405
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Így jártam anyátokkal" tvg-logo="https://fanart.tv/fanart/tv/75760/hdtvlogo/how-i-met-your-mother-518ff64639b49.png" group-title="24/7 Sorozat",24/7 Így jártam anyátokkal
@@ -235,7 +237,7 @@ http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12410
 http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12489
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Varázslók a Waverly helyből" tvg-logo="https://images.fanart.tv/fanart/wizards-of-waverly-place-5155e9e5c646a.png" group-title="24/7 Sorozat",24/7 Varázslók a Waverly helyből
 http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12535
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star trek" tvg-logo="https://fanart.tv/fanart/tv/77526/hdtvlogo/star-trek-5082d55f5aa92.png" group-title="24/7 Sorozat",24/7 Star trek
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Star trek: Űrszekerek" tvg-logo="https://fanart.tv/fanart/tv/77526/hdtvlogo/star-trek-5082d55f5aa92.png" group-title="24/7 Sorozat",24/7 Star trek: Űrszekerek
 http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12468
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Star trek: Az új nemzedék" tvg-logo="https://fanart.tv/fanart/tv/71470/hdtvlogo/star-trek-the-next-generation-5082d58c0f771.png" group-title="24/7 Sorozat",24/7 Star trek: Az új nemzedék
 http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12471
@@ -351,6 +353,44 @@ http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12507
 http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/12506
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Bing nyuszi" tvg-logo="https://images.fanart.tv/fanart/bing-54f980b2a3a1a.png" group-title="24/7 Kids",24/7 Bing nyuszi
 http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/13382
+#EXTINF:-1 tvg-id="" tvg-name="M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png" group-title="TV",M1
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15619
+#EXTINF:-1 tvg-id="" tvg-name="M2" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png" group-title="TV",M2
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15620
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png" group-title="TV",M5
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15617
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2 " tvg-logo="http://berotel.hu/wp-content/uploads/2020/10/TV2_HD.png" group-title="TV",TV2 
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15569
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="RTL KLUB" tvg-logo="https://brandeps.com/logo-download/R/RTL-Klub-logo-vector-01.svg" group-title="TV",RTL KLUB
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15570
+#EXTINF:-1 tvg-id="SuperTV2.hu" tvg-name="SUPER TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png" group-title="TV",SUPER TV2
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15581
+#EXTINF:-1 tvg-id="RTL2.hu" tvg-name="RTL II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RTL_II_Hungary_logo.svg/1280px-RTL_II_Hungary_logo.svg.png" group-title="TV",RTL II
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15572
+#EXTINF:-1 tvg-id="Viasat3.hu" tvg-name="VIASAT 3" tvg-logo="https://logo.iptveditor.com/viasat3.png" group-title="TV",VIASAT 3
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15576
+#EXTINF:-1 tvg-id="FilmPlus.hu" tvg-name="FILM+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png" group-title="TV",FILM+
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15575
+#EXTINF:-1 tvg-id="MoziPlus.hu" tvg-name="MOZI+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1200px-Mozi%2B_logo.svg.png" group-title="TV",MOZI+
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15578
+#EXTINF:-1 tvg-id="AMC.hu" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/2560px-AMC_logo_2016.svg.png" group-title="TV",AMC
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15580
+#EXTINF:-1 tvg-id="ComedyCentral.hu" tvg-name="COMEDY CENTRAL" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/comedy_central_2019_wide.png" group-title="TV",COMEDY CENTRAL
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15600
+#EXTINF:-1 tvg-id="Cool.hu" tvg-name="COOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cool_TV_logo_2004.svg/1024px-Cool_TV_logo_2004.svg.png" group-title="TV",COOL TV
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15571
+#EXTINF:-1 tvg-id="RTLGold.hu" tvg-name="RTL GOLD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/69/RTL_Gold_%282017-.n.v.%29.png/revision/latest?cb=20210114202805" group-title="TV",RTL GOLD
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15573
+#EXTINF:-1 tvg-id="RTLplus.hu" tvg-name="RTL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/1200px-RTL%2B_logo.svg.png" group-title="TV",RTL+
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15574
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png" group-title="TV",M4 SPORT
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15621
+#EXTINF:-1 tvg-id="Arena4.hu" tvg-name="ARÉNA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Arena4_log%C3%B3.svg/2560px-Arena4_log%C3%B3.svg.png" group-title="TV",ARÉNA 4
+http://31.220.40.122:8801/olahkornel/uR55Nqzn6y/15624
+#EXTINF:-1 tvg-id="" tvg-name="Énidő (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVEDx0YTKcHamni8bXShdEau0KL.jpg" group-title="Vígjáték",Énidő (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindörökké Jackass (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozJSmbCiz6N7begttL0CnxuaYSf.jpg" group-title="Vígjáték",Mindörökké Jackass (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15393.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Út a díjesőig (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77PxecsA0YhnZIvKNqyrjlwZRHP.jpg" group-title="Vígjáték",Út a díjesőig (2021)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15140.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Szupermanus (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66ZmCtN9j0D6PTBf5HOQ8HZmkvp.jpg" group-title="Vígjáték",Szupermanus (1994)
@@ -881,6 +921,8 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/9965.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/9966.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Zsenikém-Az ügynök haláli (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xh75zP4D8d5BDZpVYbyMqgigbT.jpg" group-title="Vígjáték",Zsenikém-Az ügynök haláli (2008)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/9967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harrigan úr telefonja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPn9e8eP7TeKQU4IeWAMzOajR40.jpg" group-title="Horror",Harrigan úr telefonja (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15623.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A cenzor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6n42atk8qR8iEdJUro2UGWvRvq.jpg" group-title="Horror",A cenzor (2021)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15325.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Démonok (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM55GW8yxBq11Uby4FFxcrMrsND.jpg" group-title="Horror",Démonok (1985)
@@ -1633,6 +1675,14 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14395.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14487.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Agyrém (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1P9LqNrKABPXeCtkzkg2EuP9RuS.jpg" group-title="Horror",Agyrém (1994)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Páratlan prédikátor (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuOIgrf8OsEBddffIbvqIl7J9IQ.jpg" group-title="Vígjáték",Páratlan prédikátor (1992)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pajzán kísértetek (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7j7Pyn9mW9VxXLqP3Pqh4sJvPf.jpg" group-title="Vígjáték",Pajzán kísértetek (1988)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Outfit (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg" group-title="Thriller",The Outfit (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beugrottam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/856bLLUvEYu3dRDXCCoRE7oxO0V.jpg" group-title="Thriller",Beugrottam (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15397.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A hó rabja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1QVVDTNiJdC604uIawUkhlPLd5.jpg" group-title="Thriller",A hó rabja (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14928.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Arany (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApcsCFkE4kWbXVepZME3TF8c5of.jpg" group-title="Thriller",Arany (2022)
@@ -1995,11 +2045,35 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14386.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14388.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tökéletes másolat (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1dUiZT89iK1VqKYbennC1ofIys.jpg" group-title="Thriller",Tökéletes másolat (1995)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A gyanú árnyéka (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK8UKDrjFS14OFoihaQPfmmMOyI.jpg" group-title="Thriller",A gyanú árnyéka (1996)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A halott túlélő (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i70WO26a2w0nDgJ2YiY3QOf1KZ.jpg" group-title="Thriller",A halott túlélő (2009)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chloe-A kísértés iskolája (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8s02TsVTURGk9VLZS9nuyTj2yk.jpg" group-title="Thriller",Chloe-A kísértés iskolája (2010)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Holtbiztos tipp (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUKPbON0N6QebJNHsQG0s9Gi2QY.jpg" group-title="Thriller",Holtbiztos tipp (1988)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ismeretlen férfi (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viK9fUdmn2xfrxCaUJbe3SgpJSS.jpg" group-title="Thriller",Ismeretlen férfi (2011)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nyughatatlan özvegyek (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akbnXiXVRoSbYYHeJeJoHWbOF01.jpg" group-title="Thriller",Nyughatatlan özvegyek (2018)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Öt perc mennyország (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gvo1QUjyAwNfBVrMgGiHkVRQdx.jpg" group-title="Thriller",Öt perc mennyország (2009)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A következő három nap (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzSA1LKP4LYVj8WrKe2y24ecH.jpg" group-title="Thriller",A következő három nap (2010)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panama (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9DzgsmssidygWuORgYzhi317vj.jpg" group-title="Akció",Panama (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vak végzet (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLmTWPrXoWwt92d5MbB2KFqg4Hm.jpg" group-title="Akció",Vak végzet (1989)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nappali műszak (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cerq62TyZVsZDKNh9IDfQ3asw9W.jpg" group-title="Akció",Nappali műszak (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rohammentő (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHJnZqnnjMLmLbThBFbMgad6dao.jpg" group-title="Akció",Rohammentő (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15337.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spitfire-Égi csata (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WfgrhW9FJ5obrymcEucllDIqVp.jpg" group-title="Akció",Spitfire-Égi csata (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15335.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A szürke ember (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jphdnCQ8qK5ed0kmDvGKs4kkmM6.jpg" group-title="Akció",A szürke ember (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A tortontoi ember (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20kLFPdms1r7VQbZGuaQL8YTKh.jpg" group-title="Akció",A tortontoi ember (2022)
+#EXTINF:-1 tvg-id="" tvg-name="A torontoi ember (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20kLFPdms1r7VQbZGuaQL8YTKh.jpg" group-title="Akció",A torontoi ember (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14745.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pokoli küldetés (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36lbVIjtFl5zR3NWuUNh1xq1x4P.jpg" group-title="Akció",Pokoli küldetés (2020)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14622.mkv
@@ -2579,6 +2653,14 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14160.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14401.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fuss és lőj! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qlq5gPzWDZRfXJC9qgv9SfTThr.jpg" group-title="Akció",Fuss és lőj! (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darkman (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOGyHbdLSEwH4IFcVwzJbOvD9fc.jpg" group-title="Akció",Darkman (1990)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dermesztő hajsza (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39dm4stIoCL5LR2UTrzYoENDSLk.jpg" group-title="Akció",Dermesztő hajsza (2019)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Éjszakai hajsza (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjIJDHe78ErabLBzPAYDbF16kJk.jpg" group-title="Akció",Éjszakai hajsza (2015)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zsaru pánikban (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXOpmbb3KsF9Lxds6W0hb9DgveG.jpg" group-title="Akció",Zsaru pánikban (2000)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15421.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Préda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAiK7MmJiTT5ok1RlJJDAvb3nWt.jpg" group-title="Sci-fi",Préda (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15324.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lézerharc (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6up0kNHwEcbcyT56YYIEOlKejRS.jpg" group-title="Sci-fi",Lézerharc (2022)
@@ -3771,6 +3853,24 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14409.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14410.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Szahara (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m70gXfzSveUJxNqidjNCURIbFGC.jpg" group-title="Dráma",Szahara (1995)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A gyanúsított (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL79lrrMgRZO21otWbTTiljufeU.jpg" group-title="Dráma",A gyanúsított (1987)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Felhők közül a nap (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QSB2apeRfN3FMUsW9btv0JNUve.jpg" group-title="Dráma",Felhők közül a nap (1992)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ima egy haldoklóért (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pKIE70dQdW8nUqNWPNhRFvtCzy.jpg" group-title="Dráma",Ima egy haldoklóért (1987)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kinsey-Mindenki másképp csinálja (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cODCjWNRcZkwe4ONQs1GzRqYtRb.jpg" group-title="Dráma",Kinsey-Mindenki másképp csinálja (2004)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mélytorok: A Watergate-sztori (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTwyVqjShfnK82hu7cpa6IxQztd.jpg" group-title="Dráma",Mélytorok: A Watergate-sztori (2017)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael Collins (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg" group-title="Dráma",Michael Collins (1996)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A nyomorultak (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAXHdj41FIxRbSAmhvlAcGT4jQR.jpg" group-title="Dráma",A nyomorultak (1998)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reggeli a Plútón (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stqcdonFtpy5AHgretJH0j9fAes.jpg" group-title="Dráma",Reggeli a Plútón (2005)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eszelős szerelem (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6FfdvsggQdi0hMzZwSs6S4TCsX.jpg" group-title="Romantikus",Eszelős szerelem (1995)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15366.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kötelező táncok (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnXr1AkYvojL8DddNZtINW9GlQH.jpg" group-title="Romantikus",Kötelező táncok (1992)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14933.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vegyél el (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1TVTyZRSNIWwxMzxxCRbceCj5v.jpg" group-title="Romantikus",Vegyél el (2022)
@@ -4235,6 +4335,12 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14146.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14389.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fogd a nőt és fuss (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMUDdB5yIuRL7VBaD4eVLYgmid7.jpg" group-title="Romantikus",Fogd a nőt és fuss (1991)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A másik férfi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHF78WxtwEHVlnkz28fvSPsc2D2.jpg" group-title="Romantikus",A másik férfi (2008)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harmadik fél (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAyrSedhfFgwrqsJyoBslIDxmBF.jpg" group-title="Romantikus",Harmadik fél (2013)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az Északi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5i7s73329ekqT0lXCoPVgtmmJxR.jpg" group-title="Kaland",Az Északi (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15396.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Az elveszett város (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Zz6L6rYuXApccdlrJEWiQa5YwO.jpg" group-title="Kaland",Az elveszett város (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14625.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBvppiY4alivFoMt1agN17HyjLf.jpg" group-title="Kaland",Uncharted (2022)
@@ -4775,6 +4881,12 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/13369.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/13383.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A vadnyugat fiai 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DNdIaAf1aqaEoI6OrHHZddEtye.jpg" group-title="Western",A vadnyugat fiai 2 (1990)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/13384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hókusz pókusz 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cOfVYrj5kBiwwrIVi8z8y3st0X.jpg" group-title="Családi",Hókusz pókusz 2 (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinokkió (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDDTX1xlr91J0388ndNweCsXDRQ.jpg" group-title="Családi",Pinokkió (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nate az embered (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8tXzWQ5TG4AE9c5RynMit2g312.jpg" group-title="Családi",Nate az embered (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15348.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chip és Dale: A Csipet Csapat (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJvvkrlq9zBCUME88EZed8D2mET.jpg" group-title="Családi",Chip és Dale: A Csipet Csapat (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14934.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cipőpipőke (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyWODo01ju0hYQY9LjFvP1VoBIs.jpg" group-title="Családi",Cipőpipőke (2022)
@@ -5177,6 +5289,8 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12906.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/13221.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lakat alatt (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Aao1YBLytOQ5XWyVOREwJHLIat.jpg" group-title="Családi",Lakat alatt (1996)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/13233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DC Szuperállatok ligája (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIOHBeDrRKD5bAS8gbWr2glKf4r.jpg" group-title="Animáció",DC Szuperállatok ligája (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15368.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sárkánylovas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg" group-title="Animáció",Sárkánylovas (2020)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15138.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A rosszfiúk (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocFG1cYpiyQ29TezvYYBGp623x0.jpg" group-title="Animáció",A rosszfiúk (2022)
@@ -5761,6 +5875,8 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/13302.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/13303.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Karácsony törölve (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vivy2G7Kx8duhN35eUG74B8JXK.jpg" group-title="Karácsonyi filmek",Karácsony törölve (2021)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/13374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Szerelem és mennydörgés (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0x6WAIRnfupWi5bGTgxQ3JK2HV.jpg" group-title="Marvel univerzum",Thor: Szerelem és mennydörgés (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15478.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Strange az őrület multiverzumában (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2elKJvY70TQx3jW9GQum3SCQ0xk.jpg" group-title="Marvel univerzum",Doctor Strange az őrület multiverzumában (2022)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/14732.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg" group-title="Marvel univerzum",Morbius (2022)
@@ -6007,6 +6123,8 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/11858.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/11866.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hubie a halloween hőse (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydQpguJVxdW64i1uYQv3sCKMEM1.jpg" group-title="Adam Sandler filmek",Hubie a halloween hőse (2020)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/11871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Szamaritánus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg" group-title="Sylvester Stallone filmek",Szamaritánus (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15392.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Lordok Bandája (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fks9lRtd3zpio0zvCIye2iZQ10g.jpg" group-title="Sylvester Stallone filmek",A Lordok Bandája (1974)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/11896.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halálos futam 2000 (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erEsIV3i1uI7oop26fVKzqlHF9f.jpg" group-title="Sylvester Stallone filmek",Halálos futam 2000 (1975)
@@ -6491,6 +6609,12 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12132.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12133.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Solo: Egy Star Wars-történet (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6nAqRHTlOmKY5ZrLcziMMEPX86.jpg" group-title="Star Wars pack",Solo: Egy Star Wars-történet (2018)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ragyogás (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vpmdgmzCcIv1bQv6hPsEjlFjlJ.jpg" group-title="Stephen King filmek",Ragyogás (1980)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tűzgyújtó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2gj2Tk0uTvYmX2dbf3ZIHqO9sX.jpg" group-title="Stephen King filmek",Tűzgyújtó (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TF6bGBZh5ZVoJjzskr3eHLjZNj.jpg" group-title="Stephen King filmek",Carrie (2013)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15548.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Carrie (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg" group-title="Stephen King filmek",Carrie (1976)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12154.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A gonosz háza (1979)" tvg-logo="https://www.mafab.hu/static/profiles/2014/293/11/46234_9.jpg" group-title="Stephen King filmek",A gonosz háza (1979)
@@ -6571,7 +6695,7 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12134.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12137.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dolan és a Cadillac (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIpONb6H0JXZDpXrPMsCV113k0K.jpg" group-title="Stephen King filmek",Dolan és a Cadillac (2009)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Carrie (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TF6bGBZh5ZVoJjzskr3eHLjZNj.jpg" group-title="Stephen King filmek",Carrie (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Düh-Carrie 2. (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDQwzbU95OIzCiO4UCm5luzc6K.jpg" group-title="Stephen King filmek",Düh-Carrie 2. (1999)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12155.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kegyelem (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiYki9Cz1SCsKzERLd9dABC8Q5r.jpg" group-title="Stephen King filmek",Kegyelem (2014)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12183.mkv
@@ -6613,6 +6737,8 @@ http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12145.mkv
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12159.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tóparti kísértetek II. (2011)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM4ODk4YTEtMWIwMS00ZjgxLTk0N2EtOGEyMTc2MTAzY2U3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Stephen King filmek",Tóparti kísértetek II. (2011)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE5QXHsIZhM8m2LmIU6Elhhcq8w.jpg" group-title="Tom Cruise filmek",Top Gun: Maverick (2022)
+http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/15367.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Végtelen szerelem (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j37bv6dlWSg7zIWttnwVEMQwqJh.jpg" group-title="Tom Cruise filmek",Végtelen szerelem (1981)
 http://31.220.40.122:8801/movie/olahkornel/uR55Nqzn6y/12230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kockázatos üzlet (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66RhYUR4fUi31y0zomxh3mbE1yE.jpg" group-title="Tom Cruise filmek",Kockázatos üzlet (1983)
@@ -8281,6 +8407,22 @@ http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/12842.mkv
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/12843.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms6gsaGcCdOApInjixbTlYR5aWJ.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S02 E10
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/12844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjEOOvekeNnW4IeVy5eHSCCIm0f.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S03 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAZEXfX89iOygYxt8Nb1aH0tw3K.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S03 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhTNXaPVIL9c5QAyQLVill4Gw3I.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S03 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13mxdc3RAttkqY6Gzp4N2iETcW4.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S03 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mSXFpcyQYNNaMpSAX1y5uYl97y.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S03 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5eLefpjvlhPGyrusXdpMdwrjaW.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S03 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOUrsuENZB7WflqfGj5YpDpwlxJ.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S03 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key–Kulcs a zárját S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7sY4sDTaonLWyYOOU2u8xTczJ0.jpg" group-title="Locke and Key - Kulcs a zárját",Locke & Key–Kulcs a zárját S03 E08
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15356.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lost in Space-Elveszve az űrben S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dh8Gs0BRrGcF9KLE3XfJXjFe6m.jpg" group-title="Lost in space",Lost in Space-Elveszve az űrben S01 E01
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/699.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lost in Space-Elveszve az űrben S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUgj1Ji93rkhBdYNGrLsMydURZd.jpg" group-title="Lost in space",Lost in Space-Elveszve az űrben S01 E02
@@ -8541,26 +8683,6 @@ http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/809.mkv
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/810.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lucifer az Újvilágban S03 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjUBs9W4xJa7sAWHsKmXQK7ajR3.jpg" group-title="Lucifer az újvilágban",Lucifer az Újvilágban S03 E26
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/811.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AHTIxGYIBmFxl33hffD2fQG3BR.jpg" group-title="Másik élet",Másik élet S01 E01
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/812.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ol99mydGgGln1BIZ8KQzlNFVPyP.jpg" group-title="Másik élet",Másik élet S01 E02
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/813.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQ4X73EMsewC6qbt0zTTQdv0mSC.jpg" group-title="Másik élet",Másik élet S01 E03
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/814.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7nf8QBcCUkf51khc8yDLrI5AQs.jpg" group-title="Másik élet",Másik élet S01 E04
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/815.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogswjFHPHYbOlMzBfvH8J2Eig6E.jpg" group-title="Másik élet",Másik élet S01 E05
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/816.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDzeWtVxoec08OSTmxfkxpioZ9B.jpg" group-title="Másik élet",Másik élet S01 E06
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/817.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5RvHgQCVwxjBhr8pa7liGsZJ9N.jpg" group-title="Másik élet",Másik élet S01 E07
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/818.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f3K0qpVzxn3pk8yTXyCGbdbxyf.jpg" group-title="Másik élet",Másik élet S01 E08
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/819.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pDQyGrUas6wGZ8Pk6XAFCf9eQN.jpg" group-title="Másik élet",Másik élet S01 E09
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/820.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Másik élet S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3vlMi1C5k8EhUmOQ4YlhxG4pUt.jpg" group-title="Másik élet",Másik élet S01 E10
-http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/821.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mocsárlény: A sorozat S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4s7MmHnDFrKfmSnc0sM1RipeZU.jpg" group-title="Mocsárlény",Mocsárlény: A sorozat S01 E01
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mocsárlény: A sorozat S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94gn5ddCtTsYb34AqU2tqQ6fx8U.jpg" group-title="Mocsárlény",Mocsárlény: A sorozat S01 E02
@@ -8681,6 +8803,26 @@ http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/879.mkv
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/880.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1FR0KwyfKK1d5tY3EbL210EVMR.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S01 E10
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FeNgeXmvTk8aNcuswzJ45lUAT1.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QMMitXOXlrnB328rnXpPGjRFmd.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZbommzo91dfAOl4AZvgjmiKQq.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z63PW0Lv1w2ftbMT6LKwEVevYWZ.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohC9qfQRN2ClJJHkOa1KBsk80SG.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu1BjzGQ3iakAXYrPDZrr4kbmi9.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgmpFRSIAz70gqkieWIJKldRfme.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iX09R210hHx0zbpcV44pbaFJCCV.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E08
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waFILtAUen4VQhHDoKnaZnyZrkX.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E09
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nagy Katalin-A kezdetek S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzgztVpVoH9XslOFfVnQXZ19XzZ.jpg" group-title="Nagy Katalin - A kezdetek",Nagy Katalin-A kezdetek S02 E10
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15545.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nagypályások S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJoM5pKiDIMVrluugTGtrafUQEV.jpg" group-title="Nagypályások",Nagypályások S01 E01
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/882.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nagypályások S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sJ1RZHGrtG1obnLYjSPjhK2bZ4.jpg" group-title="Nagypályások",Nagypályások S01 E02
@@ -8947,6 +9089,32 @@ http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/1012.mkv
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/1013.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jP6eIRlsaRT7dP4aJxr4iiJOZ3I.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S02 E13
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/1014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shq2tPVjGSFhHy0X7qKza9X4MUY.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Kap8i8XDitCa7iPo58fi2e3YlD.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FwDOMKEUzkLfDTvgCmTDbFGFWj.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BV6GL9foMUGjIjq7ozFjAxJdN.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LAXB3oL5DSpCgevsDK5XbJKiXB.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5qCSXYRW4caR47bkrymhhVPrnb.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t93O5AIBX47lyU1otfu0mZ7iLfi.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67ouKEEIbrp8in5MfnFk0tr0Unc.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E08
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvM6ANWnBjjnBsAjuyfRejAHS2.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E09
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tFAM7Tjlm3eztY6OWAeQiXtzUj.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E10
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m28OI3nfdrYNGc3lxiLouRFgIyc.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E11
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgvh6P1EZa6xd7AyDs67njJbAC0.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E12
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roswell-Új Mexikó S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGR4XtSuqxJzLo42SabwyJZI2Vu.jpg" group-title="Roswell - Új Mexikó",Roswell-Új Mexikó S03 E13
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15565.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marvel Runaways S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AyyZXC9vCo4u7osOJrtyoDz3hH.jpg" group-title="Runaways",Marvel Runaways S01 E01
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/1015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marvel Runaways S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mr7odiSwi80zl3ORjWh3WyDAlmU.jpg" group-title="Runaways",Marvel Runaways S01 E02
@@ -21221,6 +21389,50 @@ http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/7168.mkv
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/7169.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE3ikYKsBo5s6nHJqdzm9HRNj1g.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S04 E18
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/7170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG5LaaxH0uZUWIZUWnKLNsNqmye.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wyW5bhCMLjgSIzRS4JTOR4a7Ak.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMPNSoA5bKLPkyIOG8KWVitz4Fz.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YL0EF1nSHHkeoJPaDoOJuHME3d.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWwUiQL1aUvjegT5GEb9SDK3T2t.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cviIge26xfT7ZdC80tD744SedmK.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4uSGuTgk98c4llSOmRsxuUXzGF.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xklR0JG5HMS5zgBtHoAEcFthsgv.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E08
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu8F3aPhCA8Qk8U2Kp72gcTPBtj.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E09
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysc9uzSiCHOAKMxrOy2VLPpe2DA.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E10
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIY0kJ0PwdAiaUzDUbGgP1dvkPj.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E11
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4Cr870S99jAbWX4GZTTO9KOKuK.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E12
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRNR8gh7akLy4GAYMjAc7ZRtBfK.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E13
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD2kcX1cDDXTTZFMZfD09n9AFzF.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E14
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8JD0k8KaWrJ6NEXBZtpIDB0xU0.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E15
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ToDAPDHY4rNw4BrNZbpFNcwYlI.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E16
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVG5JKY6rxDQVOnqkuLByWFNt2r.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E17
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nl6cOufYzrucF5NbJj4NhokUgT.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E18
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgz6Ck2PwYUzSx8TpoWNz0fTgvx.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E19
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktSRd6ckTCLsEHJI7HqRrnFXirf.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E20
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V8rnun4WswjH1TTdqNNVp76s5o.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E21
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ifjú Sheldon S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVt68Wmhrr38Z7WgyXbX6N1KPls.jpg" group-title="Az ifjú Sheldon",Az ifjú Sheldon S05 E22
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15390.mkv
 #EXTINF:-1 tvg-id="" tvg-name="South Park S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgyrYN2A1XohDG3FyydiHu1o6iM.jpg" group-title="South park",South Park S01 E01
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/7171.mkv
 #EXTINF:-1 tvg-id="" tvg-name="South Park S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7yTSmSZo6I6Kfilp8lCoM4WNS9.jpg" group-title="South park",South Park S01 E02
@@ -25913,6 +26125,10 @@ http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/14818.mkv
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/14819.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEHzVNfgEY0jfgOLwSQ21100hNm.jpg" group-title="The walking dead",The Walking Dead S11 E08
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/14820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E09" tvg-logo="https://image.tmdb.org/t/p/w300/89HKQyyt7njX97PXKKt4kYOLT9v.jpg" group-title="The walking dead",The Walking Dead S11 E09
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S11 E10" tvg-logo="https://image.tmdb.org/t/p/w300/zF2Ggj72KVzgrO81iwjhMo6RLD6.jpg" group-title="The walking dead",The Walking Dead S11 E10
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15363.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WandaVízió S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNCzeCXFanVEWNpzRzyffhLLfZs.jpg" group-title="Wandavision",WandaVízió S01 E01
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/9488.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WandaVízió S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg" group-title="Wandavision",WandaVízió S01 E02
@@ -27549,6 +27765,12 @@ http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/14794.mkv
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/14821.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Superman és Lois S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/gs9EWPtNhBeKNB9chLBek8gaXzc.jpg" group-title="Superman és Lois",Superman és Lois S02 E12
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superman és Lois S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/5kM4Y6alVxtDgPDAwpruAoTCvsH.jpg" group-title="Superman és Lois",Superman és Lois S02 E13
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superman és Lois S02 E14" tvg-logo="https://image.tmdb.org/t/p/w300/neYPRJatoOppN7Q8JMXB74WgofU.jpg" group-title="Superman és Lois",Superman és Lois S02 E14
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superman és Lois S02 E15" tvg-logo="https://image.tmdb.org/t/p/w300/dBon6wXRhzFJuB3iDtjFHFfsWbT.jpg" group-title="Superman és Lois",Superman és Lois S02 E15
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15360.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sólyomszem S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwCNTaG7VPVwaBRSZkvQUMEfyuZ.jpg" group-title="Sólyomszem",Sólyomszem S01 E01
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/13341.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sólyomszem S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6DjX5jATXUpkILMFMEOR61PWr5.jpg" group-title="Sólyomszem",Sólyomszem S01 E02
@@ -30309,3 +30531,127 @@ http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15331.mkv
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15332.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A besúgó S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCeyhtiAG7BrWY2w9FVMSLXfzDw.jpg" group-title="A besúgó",A besúgó S01 E08
 http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0LvYwVcJYOq7YmABqXs41HWBEr.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGsvL1VEcpSirQK9fHmv1IsjUG2.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tge5yBQKktKmsvtqoXWBYndAwxW.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PUXbuhmp39jN5f7miSOWGIBq76.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyAxCf27BFCL3eNaLPiyh44kVMv.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IpMD0EYgQ6nS23tTmoAP2lLAz0.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Raj4r9uG4noZNTb7hYffkmut8.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhaJ4kktv8zFK0D1tov78B2Xxa9.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E08
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AjMlbxXVnKyVvPzN2N7kJcZ7Tc.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E09
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandman: Az álmok fejedelme S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1twJ2VTnvyUI7IbEZ0nG10YPb9.jpg" group-title="Sandman: Az álmok fejedelme ",Sandman: Az álmok fejedelme S01 E10
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon: Ügyvéd S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/AhvWtFjxuJexnYM6lCYTNeFCKYZ.jpg" group-title="Amazon ügyvéd",Amazon: Ügyvéd S01 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon: Ügyvéd S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iTZOuOLeNN54Gm8piWSnLmN265V.jpg" group-title="Amazon ügyvéd",Amazon: Ügyvéd S01 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon: Ügyvéd S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/m8yN9B7UVnNv15G2F7i8WUgUNiO.jpg" group-title="Amazon ügyvéd",Amazon: Ügyvéd S01 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon: Ügyvéd S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/tEgjEkcoA7JQyMec0Lpa4SaTKYC.jpg" group-title="Amazon ügyvéd",Amazon: Ügyvéd S01 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon: Ügyvéd S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/aAsQynnt7PLaEep4knZi4qDaqYR.jpg" group-title="Amazon ügyvéd",Amazon: Ügyvéd S01 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon: Ügyvéd S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/Au0lAIG4U9b5VxarSZgqsUboRtb.jpg" group-title="Amazon ügyvéd",Amazon: Ügyvéd S01 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amazon: Ügyvéd S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8SnKuRKeAjTjehmKk2xA4S2A3uz.jpg" group-title="Amazon ügyvéd",Amazon: Ügyvéd S01 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sárkányok háza S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3oumSnkavc4pcMFvPbgWDUTclNb.jpg" group-title="Sárkányok háza",Sárkányok háza S01 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sárkányok háza S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/uyWlPCKMPcjxjiKY6xFKtdbkFSR.jpg" group-title="Sárkányok háza",Sárkányok háza S01 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sárkányok háza S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fP1HCPFgwfXCcGHhjhgf0sndWAH.jpg" group-title="Sárkányok háza",Sárkányok háza S01 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sárkányok háza S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2p3u9ERDrF9xx4zJtPQC6s6HKDu.jpg" group-title="Sárkányok háza",Sárkányok háza S01 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sárkányok háza S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/xee6kQm6uMiGKHMCKZpFGVIAGe7.jpg" group-title="Sárkányok háza",Sárkányok háza S01 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sárkányok háza S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/lcBTDoCkBTJAdi8VagMQdzB6RYi.jpg" group-title="Sárkányok háza",Sárkányok háza S01 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sárkányok háza S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/xA7nljMF7gkV4YMvnuOlsenFuSl.jpg" group-title="Sárkányok háza",Sárkányok háza S01 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Gyűrűk Ura: A Hatalom Gyűrűi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15UCiKw7ujYq0W7nQ4u06l6oENn.jpg" group-title="A Gyűrűk Ura: A Hatalom Gyűrűi ",A Gyűrűk Ura: A Hatalom Gyűrűi S01 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Gyűrűk Ura: A Hatalom Gyűrűi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLp4wvv7WqGK9fvY70d4hSibV83.jpg" group-title="A Gyűrűk Ura: A Hatalom Gyűrűi ",A Gyűrűk Ura: A Hatalom Gyűrűi S01 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Gyűrűk Ura: A Hatalom Gyűrűi S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/phPzXd42PjpcZc5jkVGVwxTY1kA.jpg" group-title="A Gyűrűk Ura: A Hatalom Gyűrűi ",A Gyűrűk Ura: A Hatalom Gyűrűi S01 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Gyűrűk Ura: A Hatalom Gyűrűi S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/hkdQY91zh0fSXbYZ8IU1uEPvzAe.jpg" group-title="A Gyűrűk Ura: A Hatalom Gyűrűi ",A Gyűrűk Ura: A Hatalom Gyűrűi S01 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Gyűrűk Ura: A Hatalom Gyűrűi S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jLxeqABrd8nqKq6aLa7wPIszRMU.jpg" group-title="A Gyűrűk Ura: A Hatalom Gyűrűi ",A Gyűrűk Ura: A Hatalom Gyűrűi S01 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Gyűrűk Ura: A Hatalom Gyűrűi S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oGaGLjtdRMXPTcgymD4pUiwD9j1.jpg" group-title="A Gyűrűk Ura: A Hatalom Gyűrűi ",A Gyűrűk Ura: A Hatalom Gyűrűi S01 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ördög Ohióban S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdJ98bbSpQqph7XYiPvhj1puRoa.jpg" group-title="Az ördög Ohióban",Az ördög Ohióban S01 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ördög Ohióban S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkz22KW2clQuTewLsqrO7KfWiHc.jpg" group-title="Az ördög Ohióban",Az ördög Ohióban S01 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ördög Ohióban S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xvcndXOO1DdvUJIk9HS9QLjsT4.jpg" group-title="Az ördög Ohióban",Az ördög Ohióban S01 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ördög Ohióban S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0lqf7jDa0jMJRWfbJIKSYWkpAv.jpg" group-title="Az ördög Ohióban",Az ördög Ohióban S01 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ördög Ohióban S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srMMhxoEPIa7DUyLCxvJLyYvOVn.jpg" group-title="Az ördög Ohióban",Az ördög Ohióban S01 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ördög Ohióban S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3xGU7Hcvxn947jrDzCdlzIVFQS.jpg" group-title="Az ördög Ohióban",Az ördög Ohióban S01 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ördög Ohióban S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sTP7hAdvN8myHB9n8AnecwyD4Y.jpg" group-title="Az ördög Ohióban",Az ördög Ohióban S01 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az ördög Ohióban S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rBSXXSPYrcWs8kIoGh75BQzTd9.jpg" group-title="Az ördög Ohióban",Az ördög Ohióban S01 E08
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a83R6vXXHnJnzaJpfwc4cHruKPk.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldmJXyvMxBu2fa0B9L5jZDZUw2t.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40TNl5j2FZ95u7bhvNqPwHdIvj0.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Tnq7CWZOxjwP0vzwYwRZc9Dj3B.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLZOjIA9aK90Wti67e3RUAOCbZ.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3z8cyW0N6gOblFZVizfyRxO5aq7.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfZEQC2D6w5pHRsD7oAFtknB7lY.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SaEhvz3aZaaK0GtNSBy3OctxG3.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E08
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdák az utakon S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/magIv71REHj30RQtw44EL6wHNb8.jpg" group-title="Verdák az utakon ",Verdák az utakon S01 E09
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Andor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g951txsYhXLg8Rr18fBm2q0fBA.jpg" group-title="Star Wars: Andor",Star Wars: Andor S01 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Andor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whihcfB2dZ0PEZC1bzux56B09pK.jpg" group-title="Star Wars: Andor",Star Wars: Andor S01 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Andor S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9M5mXdX8kfsopbuc9X6aBbyKNmw.jpg" group-title="Star Wars: Andor",Star Wars: Andor S01 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Andor S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mTjpxQW2xekhOkTbihvtjQ9vL1i.jpg" group-title="Star Wars: Andor",Star Wars: Andor S01 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Andor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/9XHSNgFHDybU94ql9NuHNgOqNYe.jpg" group-title="Star Wars: Andor",Star Wars: Andor S01 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVarmFYSuNWOfjAqqELJKHgk4w0.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E01
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZrp8fEDCq9Y72SZ3ToYhg5Nu6W.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E02
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DpF6tVChbztftqaD81XOSWb4S3.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E03
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehQoLsZxCBW9WoK6ti3Uruil4oB.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E04
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGAG6owd6tddAPhtZugxgARI6m5.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E05
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePYmNqpYBjX8DjePBZLZmEuhal8.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E06
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAJiB6Fyd2hn6plkgsuycCcY3xa.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E07
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPv3tWMPJHVSz9LlTtItVNbzCYC.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E08
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2THC99x8seyDOGckftvi1rtOvg.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E09
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDxNCBZp0qU7CKcW9NVWDY8HzLI.jpg" group-title="Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori",Dahmer–Szörnyeteg: A Jeffrey Dahmer-sztori S01 E10
+http://31.220.40.122:8801/series/olahkornel/uR55Nqzn6y/15594.mkv
