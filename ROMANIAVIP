@@ -1,0 +1,427 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="1" tvg-id="PRO TV HD" tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png" tvg-name="",PRO TV HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.8fEs1N
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="2" tvg-id="PRO TV HD" tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png" tvg-name="",PRO TV HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.8fEs1N.2
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="3" tvg-id="PRO TV INTERNATIONAL" tvg-logo="https://i.postimg.cc/x8SssgF7/Pro-TV-International.png" tvg-name="",PRO TV INTERNATIONAL
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.YJiXOW
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="4" tvg-id="Antena 1 HD" tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png" tvg-name="",Antena 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.LgBOUM
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="5" tvg-id="Antena 1 HD" tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png" tvg-name="",Antena 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.LgBOUM.1
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="6" tvg-id="Prima TV HD" tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png" tvg-name="",Prima TV HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.DLBNhL
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="7" tvg-id="Kanal D HD" tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png" tvg-name="",Kanal D HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.4hC1Gm
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="8" tvg-id="Kanal D HD" tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png" tvg-name="",Kanal D HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.4hC1Gm.2
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="9" tvg-id="TVR 1 HD" tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png" tvg-name="",TVR 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.a0zOQ0
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="10" tvg-id="TVR 1 HD" tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png" tvg-name="",TVR 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.a0zOQ0.1
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="11" tvg-id="TVR 2 HD" tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png" tvg-name="",TVR 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ZpNhMZ
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="12" tvg-id="TVR 2 HD" tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png" tvg-name="",TVR 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ZpNhMZ.1
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="13" tvg-id="TVR 3" tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png" tvg-name="",TVR 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.XXZjdn
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="14" tvg-id="TVR 3" tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png" tvg-name="",TVR 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.XXZjdn.1
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="15" tvg-id="TVR International" tvg-logo="https://i.postimg.cc/Dfd5vrNv/TVR_International.png" tvg-name="",TVR International
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.T%2FgHzK
+
+#EXTINF:-1 group-title="[COLORred]Generaliste[/COLOR]" tvg-chno="16" tvg-id="National TV" tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png" tvg-name="",National TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.md3z2h
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="17" tvg-id="National 24 Plus" tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png" tvg-name="",National 24 Plus
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.fWjcfQ
+
+#EXTINF:-1 group-title="[COLORpink]Monden[/COLOR]" tvg-chno="18" tvg-id="Acasa HD" tvg-logo="https://i.postimg.cc/d3dBrdsB/AcasA.png" tvg-name="",Acasa HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.5iN2L6
+
+#EXTINF:-1 group-title="[COLORpink]Monden[/COLOR]" tvg-chno="19" tvg-id="Acasa HD" tvg-logo="https://i.postimg.cc/d3dBrdsB/AcasA.png" tvg-name="",Acasa HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.5iN2L6.1
+
+#EXTINF:-1 group-title="[COLORpink]Monden[/COLOR]" tvg-chno="20" tvg-id="Acasa" tvg-logo="https://i.postimg.cc/d3dBrdsB/AcasA.png" tvg-name="",Acasa
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.h9OGGQ
+
+#EXTINF:-1 group-title="[COLORpink]Monden[/COLOR]" tvg-chno="21" tvg-id="Acasa GOLD HD" tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png" tvg-name="",Acasa GOLD HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.tpfWla
+
+#EXTINF:-1 group-title="[COLORpink]Monden[/COLOR]" tvg-chno="22" tvg-id="Antena Stars HD" tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png" tvg-name="",Antena Stars HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.eusMUU
+
+#EXTINF:-1 group-title="[COLORpink]Monden[/COLOR]" tvg-chno="23" tvg-id="Antena Stars HD" tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png" tvg-name="",Antena Stars HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.eusMUU.1
+
+#EXTINF:-1 group-title="[COLORpink]Monden[/COLOR]" tvg-chno="24" tvg-id="Happy Channel HD" tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy_Channel.png" tvg-name="",Happy Channel HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2BCz1Cf
+
+#EXTINF:-1 group-title="[COLORpink]Monden[/COLOR]" tvg-chno="25" tvg-id="Happy Channel HD" tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy_Channel.png" tvg-name="",Happy Channel HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2BCz1Cf.1
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="26" tvg-id="Digi 24 HD" tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png" tvg-name="",Digi 24 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Cn%2B7ay
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="27" tvg-id="Digi 24 HD" tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png" tvg-name="",Digi 24 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Cn%2B7ay.1
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="28" tvg-id="Digi 24 HD" tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png" tvg-name="",Digi 24 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Cn%2B7ay.2
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="29" tvg-id="Realitatea Plus" tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png" tvg-name="",Realitatea Plus
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Qbd0u2
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="30" tvg-id="Realitatea Plus" tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png" tvg-name="",Realitatea Plus
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Qbd0u2.1
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="31" tvg-id="Realitatea Plus" tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png" tvg-name="",Realitatea Plus
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Qbd0u2.2
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="32" tvg-id="România TV" tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png" tvg-name="",România TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kLiSPo
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="33" tvg-id="Antena 3 HD" tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png" tvg-name="",Antena 3 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.V9Q46Q
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="34" tvg-id="Antena 3 HD" tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png" tvg-name="",Antena 3 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.V9Q46Q.1
+
+#EXTINF:-1 group-title="[COLORorange]News[/COLOR]" tvg-chno="35" tvg-id="B1 TV" tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png" tvg-name="",B1 TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Z1i0Mb
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="36" tvg-id="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" tvg-name="",Eurosport 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ql0pCB
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="37" tvg-id="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" tvg-name="",Eurosport 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ql0pCB.1
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="38" tvg-id="Eurosport 2 HD" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" tvg-name="",Eurosport 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2B4Rrrb
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="39" tvg-id="Eurosport 2 HD" tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" tvg-name="",Eurosport 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2B4Rrrb.1
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="40" tvg-id="Digi Sport 1 HD" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" tvg-name="",Digi Sport 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.PToDtN
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="41" tvg-id="Digi Sport 1 HD" tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" tvg-name="",Digi Sport 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.PToDtN.1
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="42" tvg-id="Digi Sport 2 HD" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" tvg-name="",Digi Sport 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Jye8Ps
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="43" tvg-id="Digi Sport 2 HD" tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" tvg-name="",Digi Sport 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Jye8Ps.1
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="44" tvg-id="Digi Sport 3 HD" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" tvg-name="",Digi Sport 3 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.sJKKq5
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="45" tvg-id="Digi Sport 3 HD" tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" tvg-name="",Digi Sport 3 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.sJKKq5.1
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="46" tvg-id="Digi Sport 4" tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" tvg-name="",Digi Sport 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.HscTZu
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="47" tvg-id="Orange Sport 1 HD" tvg-logo="https://i.postimg.cc/NjQ3GGDV/Orange_Sport_1.png" tvg-name="",Orange Sport 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.R9PsCX
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="48" tvg-id="Orange Sport 1 HD" tvg-logo="https://i.postimg.cc/NjQ3GGDV/Orange_Sport_1.png" tvg-name="",Orange Sport 1 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.R9PsCX.1
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="49" tvg-id="Orange Sport 2" tvg-logo="https://i.postimg.cc/Hk3frGPL/Orange_Sport_2.png" tvg-name="",Orange Sport 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.BuW3VG
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="50" tvg-id="Orange Sport 3" tvg-logo="https://i.postimg.cc/0NQhmtL0/Orange_Sport_3.png" tvg-name="",Orange Sport 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2BgxzIW
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="51" tvg-id="Orange Sport 4" tvg-logo="https://i.postimg.cc/PqR9MWHs/Orange_Sport_4.png" tvg-name="",Orange Sport 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.qT9aFl
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="52" tvg-id="Prima SPORT 1" tvg-logo="https://i.postimg.cc/gj97CGrg/Prima_Sport_1.png" tvg-name="",Prima SPORT 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.mwGM2V
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="53" tvg-id="Prima SPORT 2" tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima_Sport_2.png" tvg-name="",Prima SPORT 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.CCm08w
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="54" tvg-id="Prima SPORT 3" tvg-logo="https://i.postimg.cc/s2v01Mhn/Prima_Sport_3.png" tvg-name="",Prima SPORT 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.xznzQU
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="55" tvg-id="Prima SPORT 4" tvg-logo="https://i.postimg.cc/ydRQX2nc/Prima_Sport_4.png" tvg-name="",Prima SPORT 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.IBUAwO
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="56" tvg-id="Fight Box HD" tvg-logo="https://i.postimg.cc/tT9yLdf1/FightBox.png" tvg-name="",Fight Box HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.oYAqAf
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="57" tvg-id="Pro Arena HD" tvg-logo="https://i.postimg.cc/W19H2GhF/Pro_ArenA.png" tvg-name="",Pro Arena HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.XdjLEg
+
+#EXTINF:-1 group-title="[COLORlime]Sport[/COLOR]" tvg-chno="58" tvg-id="Extreme Sports" tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png" tvg-name="",Extreme Sports
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.qkS%2FVz
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="59" tvg-id="HBO HD" tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png" tvg-name="",HBO HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.bFPZE6
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="60" tvg-id="HBO 2 HD" tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png" tvg-name="",HBO 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ezk52e
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="61" tvg-id="HBO 2 HD" tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png" tvg-name="",HBO 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ezk52e.1
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="62" tvg-id="HBO 3 HD" tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png" tvg-name="",HBO 3 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.cpHpzp
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="63" tvg-id="HBO 3 HD" tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png" tvg-name="",HBO 3 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.cpHpzp.1
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="64" tvg-id="CineMAX" tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png" tvg-name="",CineMAX
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.EnkkMK
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="65" tvg-id="Cinemax 2 HD" tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png" tvg-name="",Cinemax 2 HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kUAg5e
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="66" tvg-id="Filmbox" tvg-logo="https://i.postimg.cc/fyLsbzMD/Filmbox.png" tvg-name="",Filmbox
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.toaKsB
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="67" tvg-id="FilmBox Extra HD" tvg-logo="https://i.postimg.cc/ryncPr9m/Filmbox_Extra.png" tvg-name="",FilmBox Extra HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.q7xFs7
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="68" tvg-id="Filmbox Premium" tvg-logo="https://i.postimg.cc/k4jrz0KZ/FilmBox_Premium.png" tvg-name="",Filmbox Premium
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ExIHLj
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="69" tvg-id="Filmbox Stars" tvg-logo="https://i.postimg.cc/pXmxbL0B/Filmbox_Plus.png" tvg-name="",Filmbox Stars
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6EyRBe
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="70" tvg-id="FilmBox Family" tvg-logo="https://i.postimg.cc/fyrNtGbX/Filmbox_Family.png" tvg-name="",FilmBox Family
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.rwSU9%2B
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="71" tvg-id="TV1000" tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png" tvg-name="",TV1000
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.LK2Dbu
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="72" tvg-id="Warner TV" tvg-logo="https://i.postimg.cc/tJX3ZccX/Warner.png" tvg-name="",Warner TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.zIQ60%2B
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="73" tvg-id="AXN HD" tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png" tvg-name="",AXN HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.zyjBUj
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="74" tvg-id="AXN HD" tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png" tvg-name="",AXN HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.zyjBUj.1
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="75" tvg-id="AXN White" tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png" tvg-name="",AXN White
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.eDMLk0
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="76" tvg-id="AXN Black" tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png" tvg-name="",AXN Black
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.KZTJL7
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="77" tvg-id="AXN Spin" tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png" tvg-name="",AXN Spin
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.uOKPep
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="78" tvg-id="Diva" tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png" tvg-name="",Diva
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ct4gwQ
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="79" tvg-id="PRO CINEMA HD" tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro_Cinema.png" tvg-name="",PRO CINEMA HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.xP96PK
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="80" tvg-id="Film Now HD" tvg-logo="https://i.postimg.cc/5tBb7KPd/Film_Now.png" tvg-name="",Film Now HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.giIx%2Fq
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="81" tvg-id="Film Now HD" tvg-logo="https://i.postimg.cc/5tBb7KPd/Film_Now.png" tvg-name="",Film Now HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.giIx%2Fq.1
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="82" tvg-id="FILMCAFE" tvg-logo="https://i.postimg.cc/C1JYYBTc/Film_cafe.png" tvg-name="",FILMCAFE
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Kk%2BuAX
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="83" tvg-id="Epic Drama" tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png" tvg-name="",Epic Drama
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.OF%2FPH3
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="84" tvg-id="Comedy Central HD" tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png" tvg-name="",Comedy Central HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6U4UMx
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="85" tvg-id="Bollywood TV" tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png" tvg-name="",Bollywood TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Cr0D6m
+
+#EXTINF:-1 group-title="[COLORblue]Movies[/COLOR]" tvg-chno="86" tvg-id="Bollywood Classic" tvg-logo="https://i.postimg.cc/ncp70N0Z/Bollywood-Clasic.png" tvg-name="",Bollywood Classic
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.UqS6BL
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="87" tvg-id="Discovery Channel" tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png" tvg-name="",Discovery Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.pJCuda
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="88" tvg-id="Discovery Science HD" tvg-logo="https://i.postimg.cc/761hzZvz/Discovery-Science.png" tvg-name="",Discovery Science HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.0PmkO8
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="89" tvg-id="Love Nature" tvg-logo="https://i.postimg.cc/7b8KW9sd/Love_Nature_TV.png" tvg-name="",Love Nature
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wJ%2Fanw
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="90" tvg-id="ID Investigation Discovery HD" tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png" tvg-name="",ID Investigation Discovery HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.PPtdTc
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="91" tvg-id="Animal Planet HD" tvg-logo="https://i.postimg.cc/fTcCbxgW/Animal-Planet.png" tvg-name="",Animal Planet HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.9w7%2Bge
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="92" tvg-id="National Geographic HD" tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png" tvg-name="",National Geographic HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ok2EWo
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="93" tvg-id="National Geographic HD" tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png" tvg-name="",National Geographic HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ok2EWo.1
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="94" tvg-id="National Geographic Wild HD" tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png" tvg-name="",National Geographic Wild HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.MyYmju
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="95" tvg-id="National Geographic Wild HD" tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png" tvg-name="",National Geographic Wild HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.MyYmju.1
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="96" tvg-id="Viasat History" tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png" tvg-name="",Viasat History
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.U1nyHm
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="97" tvg-id="Viasat Nature" tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png" tvg-name="",Viasat Nature
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.RS6ukI
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="98" tvg-id="Viasat Explore" tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png" tvg-name="",Viasat Explore
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.9Gsssp
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="99" tvg-id="TLC" tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png" tvg-name="",TLC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.4SqLbh
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="100" tvg-id="E! Entertainment HD" tvg-logo="https://i.postimg.cc/LsL8d88W/E.png" tvg-name="",E! Entertainment HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.U5B8hP
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="101" tvg-id="Travel Channel HD" tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png" tvg-name="",Travel Channel HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.sADahc
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="102" tvg-id="Travel Channel HD" tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png" tvg-name="",Travel Channel HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.sADahc.1
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="103" tvg-id="DaVinci Learning" tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png" tvg-name="",DaVinci Learning
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.oOnfST
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="104" tvg-id="DocuBox HD" tvg-logo="https://i.postimg.cc/NfjFytdy/DocuBox.png" tvg-name="",DocuBox HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.7Zy5SP
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="105" tvg-id="Digi Life HD" tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png" tvg-name="",Digi Life HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.dF9vNP
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="106" tvg-id="Digi Life HD" tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png" tvg-name="",Digi Life HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.dF9vNP.1
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="107" tvg-id="Digi Animal World HD" tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png" tvg-name="",Digi Animal World HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.9dz8rq
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="108" tvg-id="Digi Animal World HD" tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png" tvg-name="",Digi Animal World HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.9dz8rq.1
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="109" tvg-id="Digi World HD" tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png" tvg-name="",Digi World HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.d%2FzA%2Bw
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="110" tvg-id="Digi World HD" tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png" tvg-name="",Digi World HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.d%2FzA%2Bw.1
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="111" tvg-id="CBS Reality" tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png" tvg-name="",CBS Reality
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.k1qgQK
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="112" tvg-id="auto motor und sport channel HD" tvg-logo="https://i.postimg.cc/fRHx357s/Auto-Motor-i-Sport.png" tvg-name="",auto motor und sport channel HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kd%2Fvjp
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="113" tvg-id="Discovery Turbo Xtra HD" tvg-logo="https://i.postimg.cc/9Q4fpp5C/DTX-Discovery.png" tvg-name="",Discovery Turbo Xtra HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.JLb3lx
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="114" tvg-id="Travel Mix" tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel_Mix.png" tvg-name="",Travel Mix
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.uUMHg3
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="115" tvg-id="Travel Mix" tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel_Mix.png" tvg-name="",Travel Mix
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.uUMHg3.1
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="116" tvg-id="TV Paprika" tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" tvg-name="",TV Paprika
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.iC4pya
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="117" tvg-id="The Fishing & Hunting Channel HD" tvg-logo="https://i.postimg.cc/GhKMQFP7/The_Fishing_&_Hunting.png" tvg-name="",The Fishing & Hunting Channel HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.EPyiCL
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="118" tvg-id="Food Network HD" tvg-logo="https://i.postimg.cc/wBQYcyv9/Food_Network.png" tvg-name="",Food Network HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.mG7JXS
+
+#EXTINF:-1 group-title="[COLORyellow]Documentare[/COLOR]" tvg-chno="119" tvg-id="Food Network HD" tvg-logo="https://i.postimg.cc/wBQYcyv9/Food_Network.png" tvg-name="",Food Network HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.mG7JXS.1
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="120" tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png" tvg-name="",Cartoon Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.i%2BXj9h
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="121" tvg-id="Boomerang" tvg-logo="https://i.postimg.cc/Vv1SZb94/Boomerang.png" tvg-name="",Boomerang
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.jJ2Wse
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="122" tvg-id="Duck TV HD" tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png" tvg-name="",Duck TV HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.9%2BxgcU
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="123" tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png" tvg-name="",Disney Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.vY8tiu
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="124" tvg-id="Disney Junior" tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png" tvg-name="",Disney Junior
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.G9qFcA
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="125" tvg-id="https://i.postimg.cc/R05vTxLL/Disney-Junior.png" tvg-logo="" tvg-name="",Disney Junior
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.x3m30d
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="126" tvg-id="Nickelodeon HD" tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png" tvg-name="",Nickelodeon HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.MoRiTy
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="127" tvg-id="Jimjam" tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png" tvg-name="",Jimjam
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.gZnBYc
+
+#EXTINF:-1 group-title="[COLORdodgerblue]Kids[/COLOR]" tvg-chno="128" tvg-id="Minimax" tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png" tvg-name="",Minimax
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.OAwY4j
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="129" tvg-id="MTV 80s" tvg-logo="https://i.postimg.cc/qv0TtxJ1/MTV_80s.png" tvg-name="",MTV 80s
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.klp6L0
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="130" tvg-id="MTV 90s" tvg-logo="https://i.postimg.cc/vBpRGW2L/MTV_90s.png" tvg-name="",MTV 90s
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.NKeLHC
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="131" tvg-id="MTV 00s" tvg-logo="https://i.postimg.cc/Fs0vsB4f/MTV_00s.png" tvg-name="",MTV 00s
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.etLg6i
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="132" tvg-id="MTV Live HD" tvg-logo="https://i.postimg.cc/sgcR5G1s/MTV_Live.png" tvg-name="",MTV Live HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.hu1AFc
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="133" tvg-id="MTV Hits" tvg-logo="https://i.postimg.cc/1z7hjxpd/MTV_Hits.png" tvg-name="",MTV Hits
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.3N6ZWB
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="134" tvg-id="Music Channel" tvg-logo="https://i.postimg.cc/cHKyqDhL/Music_Channel.png" tvg-name="",Music Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.gGqFJr
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="135" tvg-id="Kiss TV" tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss_TV.png" tvg-name="",Kiss TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Ul01WF
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="136" tvg-id="UTV HD" tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" tvg-name="",UTV HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6b6aML
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="137" tvg-id="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU_TV.png" tvg-name="",ZU TV HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.EwjfFj
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="138" tvg-id="ZU TV HD" tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU_TV.png" tvg-name="",ZU TV HD
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.EwjfFj.1
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="139" tvg-id="Taraf TV" tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf_TV.png" tvg-name="",Taraf TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.hrtaoU
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="140" tvg-id="Favorit" tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit_TV.png" tvg-name="",Favorit
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.SNCCwx
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="141" tvg-id="Etno TV" tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" tvg-name="",Etno TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.PvQsgO
+
+#EXTINF:-1 group-title="[COLORaqua]Music[/COLOR]" tvg-chno="142" tvg-id="Hora TV" tvg-logo="https://i.postimg.cc/sXL6pspV/Hora_TV.png" tvg-name="",Hora TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.L3kaDC
