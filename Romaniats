@@ -1,0 +1,511 @@
+
+#EXTINF:0 tvg-id="FilmBoxFamily.ro" group-title="Romania",Filmbox Family (RON)
+http://tv.share1.cc/live/domm1/123456/1514.ts
+#EXTINF:0 tvg-id="Antena1.ro" group-title="Romania",Antena 1 HD (RON)
+http://tv.share1.cc/live/domm1/123456/1551.ts
+#EXTINF:0 tvg-id="KanalD.ro" group-title="Romania",Kanal D HD (RON)
+http://tv.share1.cc/live/domm1/123456/1556.ts
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Romania",DIGI 24 HD (RON)
+http://tv.share1.cc/live/domm1/123456/1565.ts
+#EXTINF:0 tvg-id="DivaUniversal.ro" group-title="Romania",Diva (RON)
+http://tv.share1.cc/live/domm1/123456/1566.ts
+#EXTINF:0 tvg-id="KanalD.ro" group-title="Romania",Kanal D (RON)
+http://tv.share1.cc/live/domm1/123456/1567.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Romania TV (RON)
+http://tv.share1.cc/live/domm1/123456/1570.ts
+#EXTINF:0 tvg-id="AgroTV.ro" group-title="Romania",Agro TV (RON)
+http://tv.share1.cc/live/domm1/123456/1571.ts
+#EXTINF:0 tvg-id="DisneyJunior.ro" group-title="Romania",Disney JR (RON)
+http://tv.share1.cc/live/domm1/123456/1572.ts
+#EXTINF:0 tvg-id="HBO.ro" group-title="Romania",HBO (RON)
+http://tv.share1.cc/live/domm1/123456/1577.ts
+#EXTINF:0 tvg-id="MusicChannel.ro" group-title="Romania",Music Channel (RON)
+http://tv.share1.cc/live/domm1/123456/1582.ts
+#EXTINF:0 tvg-id="NationalTV.ro" group-title="Romania",National TV (RON)
+http://tv.share1.cc/live/domm1/123456/1583.ts
+#EXTINF:0 tvg-id="TarafTV.ro" group-title="Romania",Taraf (RON)
+http://tv.share1.cc/live/domm1/123456/1585.ts
+#EXTINF:0 tvg-id="Boomerang.ro" group-title="Romania",Boomerang (RON)
+http://tv.share1.cc/live/domm1/123456/1611.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Cinemax (RON)
+http://tv.share1.cc/live/domm1/123456/1619.ts
+#EXTINF:0 tvg-id="HBO2.ro" group-title="Romania",HBO2 (RON)
+http://tv.share1.cc/live/domm1/123456/1629.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",JimJam (RON)
+http://tv.share1.cc/live/domm1/123456/1633.ts
+#EXTINF:0 tvg-id="BollywoodTV.ro" group-title="Romania",Bollywood TV (RON)
+http://tv.share1.cc/live/domm1/123456/1644.ts
+#EXTINF:0 tvg-id="NatGeoWild.ro" group-title="Romania",Nat Geo Wild (RON)
+http://tv.share1.cc/live/domm1/123456/1652.ts
+#EXTINF:0 tvg-id="AMC.ro" group-title="Romania",AMC (RON)
+http://tv.share1.cc/live/domm1/123456/1659.ts
+#EXTINF:0 tvg-id="Antena1.ro" group-title="Romania",Antena 1 (RON)
+http://tv.share1.cc/live/domm1/123456/1660.ts
+#EXTINF:0 tvg-id="Antena3.ro" group-title="Romania",Antena 3 (RON)
+http://tv.share1.cc/live/domm1/123456/1661.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Antena Stars (RON)
+http://tv.share1.cc/live/domm1/123456/1662.ts
+#EXTINF:0 tvg-id="Favorit.ro" group-title="Romania",Favorit TV (RON)
+http://tv.share1.cc/live/domm1/123456/1668.ts
+#EXTINF:0 tvg-id="FilmCafe.ro" group-title="Romania",Film Cafe (RON)
+http://tv.share1.cc/live/domm1/123456/1669.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Happy Channel (RON)
+http://tv.share1.cc/live/domm1/123456/1671.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Minimax (RON)
+http://tv.share1.cc/live/domm1/123456/1672.ts
+#EXTINF:0 tvg-id="PrimaTV.ro" group-title="Romania",Prima TV (RON)
+http://tv.share1.cc/live/domm1/123456/1674.ts
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Romania",TVR 1 (RON)
+http://tv.share1.cc/live/domm1/123456/1678.ts
+#EXTINF:0 tvg-id="TVR3.ro" group-title="Romania",TVR 3 (RON)
+http://tv.share1.cc/live/domm1/123456/1679.ts
+#EXTINF:0 tvg-id="ZUTV.ro" group-title="Romania",Zu TV (RON)
+http://tv.share1.cc/live/domm1/123456/1680.ts
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Romania",TVR 1 HD (RON)
+http://tv.share1.cc/live/domm1/123456/1696.ts
+#EXTINF:0 tvg-id="ComedyCentral.ro" group-title="Romania",Comedy Central HD (RON)
+http://tv.share1.cc/live/domm1/123456/1697.ts
+#EXTINF:0 tvg-id="Nickelodeon.ro" group-title="Romania",Nickelodeon (RON)
+http://tv.share1.cc/live/domm1/123456/1702.ts
+#EXTINF:0 tvg-id="NickToons.ro" group-title="Romania",Nicktoons (RON)
+http://tv.share1.cc/live/domm1/123456/1711.ts
+#EXTINF:0 tvg-id="TeenNick.ro" group-title="Romania",TeenNick (RON)
+http://tv.share1.cc/live/domm1/123456/1716.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",AXN Black (RON)
+http://tv.share1.cc/live/domm1/123456/1719.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",AXN White (RON)
+http://tv.share1.cc/live/domm1/123456/1727.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO TV (RON)
+http://tv.share1.cc/live/domm1/123456/1752.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO 2 (RON)
+http://tv.share1.cc/live/domm1/123456/1781.ts
+#EXTINF:0 tvg-id="ProGold.ro" group-title="Romania",PRO GOLD (RON)
+http://tv.share1.cc/live/domm1/123456/1782.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO X HD (RON)
+http://tv.share1.cc/live/domm1/123456/1783.ts
+#EXTINF:0 tvg-id="TLC.ro" group-title="Romania",TLC (RON)
+http://tv.share1.cc/live/domm1/123456/1784.ts
+#EXTINF:0 tvg-id="TVR2.ro" group-title="Romania",TVR 2 (RON)
+http://tv.share1.cc/live/domm1/123456/1786.ts
+#EXTINF:0 tvg-id="Eurosport2.ro" group-title="Romania",Eurosport 2 HD (RON)
+http://tv.share1.cc/live/domm1/123456/2911.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Fishing and Hunting (RON)
+http://tv.share1.cc/live/domm1/123456/2912.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Disney Channel (RON)
+http://tv.share1.cc/live/domm1/123456/2913.ts
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="Romania",Digi Sport 1 HD (RON)
+http://tv.share1.cc/live/domm1/123456/2924.ts
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="Romania",Digi Sport 2 HD (RON)
+http://tv.share1.cc/live/domm1/123456/2925.ts
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="Romania",Digi Sport 3 HD (RON)
+http://tv.share1.cc/live/domm1/123456/2926.ts
+#EXTINF:0 tvg-id="DigiSport4.ro" group-title="Romania",Digi Sport 4 HD (RON)
+http://tv.share1.cc/live/domm1/123456/2927.ts
+#EXTINF:0 tvg-id="AnimalPlanet.ro" group-title="Romania",Animal Planet HD (RON)
+http://tv.share1.cc/live/domm1/123456/2928.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",1 Music Channel (RON)
+http://tv.share1.cc/live/domm1/123456/4934.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",1000 (RON)
+http://tv.share1.cc/live/domm1/123456/4935.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",1000 HD (RON)
+http://tv.share1.cc/live/domm1/123456/4936.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",A7 (RON)
+http://tv.share1.cc/live/domm1/123456/4937.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",A7 HD (RON)
+http://tv.share1.cc/live/domm1/123456/4938.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Aleph News HD (RON)
+http://tv.share1.cc/live/domm1/123456/4939.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Alfa & Omega TV (RON)
+http://tv.share1.cc/live/domm1/123456/4940.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Alpha Media TV (RON)
+http://tv.share1.cc/live/domm1/123456/4941.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",AMC HD (RON)
+http://tv.share1.cc/live/domm1/123456/4942.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Antena 3 HD (RON)
+http://tv.share1.cc/live/domm1/123456/4943.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Antena Comedy HD (RON)
+http://tv.share1.cc/live/domm1/123456/4944.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Antena Cook and Play HD (RON)
+http://tv.share1.cc/live/domm1/123456/4945.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Antena Stars HD (RON)
+http://tv.share1.cc/live/domm1/123456/4946.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Auto Motor Sport HD (RON)
+http://tv.share1.cc/live/domm1/123456/4947.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",AXN (RON)
+http://tv.share1.cc/live/domm1/123456/4948.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",AXN HD (RON)
+http://tv.share1.cc/live/domm1/123456/4949.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",AXN Spin (RON)
+http://tv.share1.cc/live/domm1/123456/4950.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",AXN Spin HD (RON)
+http://tv.share1.cc/live/domm1/123456/4951.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",AXN With (RON)
+http://tv.share1.cc/live/domm1/123456/4952.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",B1 (RON)
+http://tv.share1.cc/live/domm1/123456/4953.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",B1 Channel HD (RON)
+http://tv.share1.cc/live/domm1/123456/4954.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Balkanika Music TV (RON)
+http://tv.share1.cc/live/domm1/123456/4955.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",BBC Earth HD (RON)
+http://tv.share1.cc/live/domm1/123456/4956.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Bollywood (RON)
+http://tv.share1.cc/live/domm1/123456/4957.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Bollywood Classic (RON)
+http://tv.share1.cc/live/domm1/123456/4958.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Bollywood Film (RON)
+http://tv.share1.cc/live/domm1/123456/4959.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Bollywood HD (RON)
+http://tv.share1.cc/live/domm1/123456/4960.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Bucovina TV (RON)
+http://tv.share1.cc/live/domm1/123456/4961.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Bucuresti HD (RON)
+http://tv.share1.cc/live/domm1/123456/4962.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Canal 33 (RON)
+http://tv.share1.cc/live/domm1/123456/4963.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Cartoon Network (RON)
+http://tv.share1.cc/live/domm1/123456/4964.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",CBS Reality (RON)
+http://tv.share1.cc/live/domm1/123456/4965.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",CineMaraton HD (RON)
+http://tv.share1.cc/live/domm1/123456/4966.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Cinemax 2 (RON)
+http://tv.share1.cc/live/domm1/123456/4967.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Cinemax 2 HD (RON)
+http://tv.share1.cc/live/domm1/123456/4968.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Cinemax HD (RON)
+http://tv.share1.cc/live/domm1/123456/4969.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Cinethronix HD (RON)
+http://tv.share1.cc/live/domm1/123456/4970.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Classica (RON)
+http://tv.share1.cc/live/domm1/123456/4971.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",CNN HD (RON)
+http://tv.share1.cc/live/domm1/123456/4972.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Comedy Central (RON)
+http://tv.share1.cc/live/domm1/123456/4973.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Comedy Est (RON)
+http://tv.share1.cc/live/domm1/123456/4974.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Comedy Est HD (RON)
+http://tv.share1.cc/live/domm1/123456/4975.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Cornea HD (RON)
+http://tv.share1.cc/live/domm1/123456/4976.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Credo HD (RON)
+http://tv.share1.cc/live/domm1/123456/4977.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Crime & Investigation Network (RON)
+http://tv.share1.cc/live/domm1/123456/4978.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Crime+ Investigation (RON)
+http://tv.share1.cc/live/domm1/123456/4979.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Cromtel TV (RON)
+http://tv.share1.cc/live/domm1/123456/4980.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Da Vinci Learning (RON)
+http://tv.share1.cc/live/domm1/123456/4981.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DaVinci Learning (RON)
+http://tv.share1.cc/live/domm1/123456/4982.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Diaspora HD (RON)
+http://tv.share1.cc/live/domm1/123456/4983.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Dibi HD (RON)
+http://tv.share1.cc/live/domm1/123456/4984.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI 24 (RON)
+http://tv.share1.cc/live/domm1/123456/4985.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI 24 Craiova (RON)
+http://tv.share1.cc/live/domm1/123456/4986.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI 24 Galati (RON)
+http://tv.share1.cc/live/domm1/123456/4987.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI Animal World (RON)
+http://tv.share1.cc/live/domm1/123456/4988.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI Animal World HD (RON)
+http://tv.share1.cc/live/domm1/123456/4989.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI Life (RON)
+http://tv.share1.cc/live/domm1/123456/4990.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Digi Life HD (RON)
+http://tv.share1.cc/live/domm1/123456/4991.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI Sport 1 (RON)
+http://tv.share1.cc/live/domm1/123456/4992.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI Sport 2 (RON)
+http://tv.share1.cc/live/domm1/123456/4993.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI Sport 3 (RON)
+http://tv.share1.cc/live/domm1/123456/4994.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI Sport 4 (RON)
+http://tv.share1.cc/live/domm1/123456/4995.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI World (RON)
+http://tv.share1.cc/live/domm1/123456/4996.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIGI World HD (RON)
+http://tv.share1.cc/live/domm1/123456/4997.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Discovery Channel HD (RON)
+http://tv.share1.cc/live/domm1/123456/4998.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Discovery HD (RON)
+http://tv.share1.cc/live/domm1/123456/4999.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Discovery HD Showcase (RON)
+http://tv.share1.cc/live/domm1/123456/5000.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Discovery Science HD (RON)
+http://tv.share1.cc/live/domm1/123456/5001.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Discovery Turbo XTRA (RON)
+http://tv.share1.cc/live/domm1/123456/5002.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Disney Junior (RON)
+http://tv.share1.cc/live/domm1/123456/5003.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DIVA Universal (RON)
+http://tv.share1.cc/live/domm1/123456/5004.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DocuBox (RON)
+http://tv.share1.cc/live/domm1/123456/5005.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DocuBox HD (RON)
+http://tv.share1.cc/live/domm1/123456/5006.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DTX HD (RON)
+http://tv.share1.cc/live/domm1/123456/5007.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Duck (RON)
+http://tv.share1.cc/live/domm1/123456/5008.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Duck TV (RON)
+http://tv.share1.cc/live/domm1/123456/5009.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",DW HD (RON)
+http://tv.share1.cc/live/domm1/123456/5010.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",E! Entertainment HD (RON)
+http://tv.share1.cc/live/domm1/123456/5011.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",E! HD (RON)
+http://tv.share1.cc/live/domm1/123456/5012.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Epic Drama HD (RON)
+http://tv.share1.cc/live/domm1/123456/5013.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Etno TV (RON)
+http://tv.share1.cc/live/domm1/123456/5014.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Euronews (RON)
+http://tv.share1.cc/live/domm1/123456/5015.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Eurosport 1 (RON)
+http://tv.share1.cc/live/domm1/123456/5016.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Eurosport 1 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5017.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Eurosport 2 (RON)
+http://tv.share1.cc/live/domm1/123456/5018.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Extreme Sports Channel (RON)
+http://tv.share1.cc/live/domm1/123456/5019.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",FightBox HD (RON)
+http://tv.share1.cc/live/domm1/123456/5020.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Film Now (RON)
+http://tv.share1.cc/live/domm1/123456/5021.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Film Now HD (RON)
+http://tv.share1.cc/live/domm1/123456/5022.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",FilmBox (RON)
+http://tv.share1.cc/live/domm1/123456/5023.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",FilmBox Extra HD (RON)
+http://tv.share1.cc/live/domm1/123456/5024.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",FilmBox Plus (RON)
+http://tv.share1.cc/live/domm1/123456/5025.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",FilmBox Premium (RON)
+http://tv.share1.cc/live/domm1/123456/5026.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Fishing & Hunting (RON)
+http://tv.share1.cc/live/domm1/123456/5027.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Food Network (RON)
+http://tv.share1.cc/live/domm1/123456/5028.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",HAPPY Channel HD (RON)
+http://tv.share1.cc/live/domm1/123456/5029.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",HBO 1 (RON)
+http://tv.share1.cc/live/domm1/123456/5030.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",HBO 1 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5031.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",HBO2 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5032.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",HBO3 (RON)
+http://tv.share1.cc/live/domm1/123456/5033.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",HBO3 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5034.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",HGTV HD (RON)
+http://tv.share1.cc/live/domm1/123456/5035.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",HIstoric (RON)
+http://tv.share1.cc/live/domm1/123456/5036.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",History Channel (RON)
+http://tv.share1.cc/live/domm1/123456/5037.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Hit Music Channel (RON)
+http://tv.share1.cc/live/domm1/123456/5038.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Hora TV (RON)
+http://tv.share1.cc/live/domm1/123456/5039.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",iConcerts (RON)
+http://tv.share1.cc/live/domm1/123456/5040.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",ID Investigation Discovery HD (RON)
+http://tv.share1.cc/live/domm1/123456/5041.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Inedit HD (RON)
+http://tv.share1.cc/live/domm1/123456/5042.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Intermedia TV (RON)
+http://tv.share1.cc/live/domm1/123456/5043.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Investigation Discovery (RON)
+http://tv.share1.cc/live/domm1/123456/5044.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Kiss (RON)
+http://tv.share1.cc/live/domm1/123456/5045.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Kiss TV (RON)
+http://tv.share1.cc/live/domm1/123456/5046.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Light Channel (RON)
+http://tv.share1.cc/live/domm1/123456/5047.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Look Sport 2 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5048.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Look Sport 3 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5049.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Look Sport HD (RON)
+http://tv.share1.cc/live/domm1/123456/5050.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Look Sport Plus HD (RON)
+http://tv.share1.cc/live/domm1/123456/5051.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Look TV (RON)
+http://tv.share1.cc/live/domm1/123456/5052.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Love Nature HD (RON)
+http://tv.share1.cc/live/domm1/123456/5053.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Magic HD (RON)
+http://tv.share1.cc/live/domm1/123456/5054.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Maria TV (RON)
+http://tv.share1.cc/live/domm1/123456/5055.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Media Sud (RON)
+http://tv.share1.cc/live/domm1/123456/5056.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Medika TV (RON)
+http://tv.share1.cc/live/domm1/123456/5057.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Mezzo (RON)
+http://tv.share1.cc/live/domm1/123456/5058.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Mooz Dance (RON)
+http://tv.share1.cc/live/domm1/123456/5059.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Mooz Dance HD (RON)
+http://tv.share1.cc/live/domm1/123456/5060.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Mooz Hits (RON)
+http://tv.share1.cc/live/domm1/123456/5061.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Mooz RO! (RON)
+http://tv.share1.cc/live/domm1/123456/5062.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",MTV (RON)
+http://tv.share1.cc/live/domm1/123456/5063.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",MTV Club (RON)
+http://tv.share1.cc/live/domm1/123456/5064.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",MTV Hits (RON)
+http://tv.share1.cc/live/domm1/123456/5065.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",MTV Live HD (RON)
+http://tv.share1.cc/live/domm1/123456/5066.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Nasul HD (RON)
+http://tv.share1.cc/live/domm1/123456/5067.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Nat Geo (RON)
+http://tv.share1.cc/live/domm1/123456/5068.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Nat Geo Wild HD (RON)
+http://tv.share1.cc/live/domm1/123456/5069.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",National (RON)
+http://tv.share1.cc/live/domm1/123456/5070.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",National 24 Plus HD (RON)
+http://tv.share1.cc/live/domm1/123456/5071.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",National Geografic HD (RON)
+http://tv.share1.cc/live/domm1/123456/5072.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",NCN Cluj (RON)
+http://tv.share1.cc/live/domm1/123456/5073.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Nick Jr. (RON)
+http://tv.share1.cc/live/domm1/123456/5074.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Nick Junior (RON)
+http://tv.share1.cc/live/domm1/123456/5075.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Nickelodeon HD (RON)
+http://tv.share1.cc/live/domm1/123456/5076.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Nova Brasov (RON)
+http://tv.share1.cc/live/domm1/123456/5077.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Paprika (RON)
+http://tv.share1.cc/live/domm1/123456/5078.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Prima (RON)
+http://tv.share1.cc/live/domm1/123456/5079.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO 2 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5080.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO Cinema (RON)
+http://tv.share1.cc/live/domm1/123456/5081.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Pro Cinema HD (RON)
+http://tv.share1.cc/live/domm1/123456/5082.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Pro Gold HD (RON)
+http://tv.share1.cc/live/domm1/123456/5083.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO HD (RON)
+http://tv.share1.cc/live/domm1/123456/5084.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Pro INT (RON)
+http://tv.share1.cc/live/domm1/123456/5085.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO International HD (RON)
+http://tv.share1.cc/live/domm1/123456/5086.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO News (RON)
+http://tv.share1.cc/live/domm1/123456/5087.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",PRO Stirile HD (RON)
+http://tv.share1.cc/live/domm1/123456/5088.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Profit HD (RON)
+http://tv.share1.cc/live/domm1/123456/5089.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Realitatea Plus HD (RON)
+http://tv.share1.cc/live/domm1/123456/5090.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Rock TV (RON)
+http://tv.share1.cc/live/domm1/123456/5091.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Romania (RON)
+http://tv.share1.cc/live/domm1/123456/5092.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Sangeorz HD (RON)
+http://tv.share1.cc/live/domm1/123456/5093.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Speranta HD (RON)
+http://tv.share1.cc/live/domm1/123456/5094.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Sport Extra HD (RON)
+http://tv.share1.cc/live/domm1/123456/5095.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Sport.ro HD (RON)
+http://tv.share1.cc/live/domm1/123456/5096.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Sud Est (RON)
+http://tv.share1.cc/live/domm1/123456/5097.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telekom Sport 1 (RON)
+http://tv.share1.cc/live/domm1/123456/5098.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telekom Sport 1 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5099.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telekom Sport 2 (RON)
+http://tv.share1.cc/live/domm1/123456/5100.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telekom Sport 2 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5101.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telekom Sport 3 (RON)
+http://tv.share1.cc/live/domm1/123456/5102.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telekom Sport 3 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5103.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telekom Sport 4 (RON)
+http://tv.share1.cc/live/domm1/123456/5104.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telekom Sport 4 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5105.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telestar1 (RON)
+http://tv.share1.cc/live/domm1/123456/5106.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Tezaur TV (RON)
+http://tv.share1.cc/live/domm1/123456/5107.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TNT (RON)
+http://tv.share1.cc/live/domm1/123456/5108.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TNT HD (RON)
+http://tv.share1.cc/live/domm1/123456/5109.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Traditional HD (RON)
+http://tv.share1.cc/live/domm1/123456/5110.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Travel Channel (RON)
+http://tv.share1.cc/live/domm1/123456/5111.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Travel Channel HD (RON)
+http://tv.share1.cc/live/domm1/123456/5112.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Travel Mix (RON)
+http://tv.share1.cc/live/domm1/123456/5113.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Trinitas TV (RON)
+http://tv.share1.cc/live/domm1/123456/5114.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TV5 Monde HD (RON)
+http://tv.share1.cc/live/domm1/123456/5115.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVPlus Regional (RON)
+http://tv.share1.cc/live/domm1/123456/5116.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR 2 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5117.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR 3 HD (RON)
+http://tv.share1.cc/live/domm1/123456/5118.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR Cluj HD (RON)
+http://tv.share1.cc/live/domm1/123456/5119.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR Craiova HD (RON)
+http://tv.share1.cc/live/domm1/123456/5120.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR HD (RON)
+http://tv.share1.cc/live/domm1/123456/5121.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR Iași (RON)
+http://tv.share1.cc/live/domm1/123456/5122.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR International (RON)
+http://tv.share1.cc/live/domm1/123456/5123.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR International HD (RON)
+http://tv.share1.cc/live/domm1/123456/5124.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR Moldova (RON)
+http://tv.share1.cc/live/domm1/123456/5125.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVR Timișoara (RON)
+http://tv.share1.cc/live/domm1/123456/5126.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVSat (RON)
+http://tv.share1.cc/live/domm1/123456/5127.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",UTV (RON)
+http://tv.share1.cc/live/domm1/123456/5128.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",UTV HD (RON)
+http://tv.share1.cc/live/domm1/123456/5129.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Viasat Explore (RON)
+http://tv.share1.cc/live/domm1/123456/5130.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Viasat Exporer (RON)
+http://tv.share1.cc/live/domm1/123456/5131.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Viasat History (RON)
+http://tv.share1.cc/live/domm1/123456/5132.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Viasat History HD (RON)
+http://tv.share1.cc/live/domm1/123456/5133.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Viasat Nature (RON)
+http://tv.share1.cc/live/domm1/123456/5134.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Viasat Nature HD (RON)
+http://tv.share1.cc/live/domm1/123456/5135.ts
+#EXTINF:0 tvg-id="ext" group-title="Romania",Vocea Basarabiei (RON)
+http://tv.share1.cc/live/domm1/123456/5136.ts
