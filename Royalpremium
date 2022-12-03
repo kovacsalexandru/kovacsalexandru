@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="82b3b5368834a8092fd663e69c630096",AXN MOVIES HD
+http://87.229.85.185:55510/stream/channelid/917877634?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="fda1e08da42676169f2c6e0494e8c106",DISNEY CHANNEL
+http://87.229.85.185:55510/stream/channelid/232825341?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="6ed027b196aa1f283fe80ac89af61bef",DISNEY CINEMA HD
+http://87.229.85.185:55510/stream/channelid/824692846?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="12f6878b0e25246e06158d880d0e1508",DISNEY JUNIOR HD
+http://87.229.85.185:55510/stream/channelid/193459730?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="d5a3bbccf5d53fb8a6ef6c6ccfd98d1b",DISNEY+ HD
+http://87.229.85.185:55510/stream/channelid/1287365589?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="12a40768079b55cd39e95322fdf8ec93",FILM CAFE HD
+http://87.229.85.185:55510/stream/channelid/1745331218?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="fd07452a1ba6b398c2143d4eff418c6e",FILM MANIA HD
+http://87.229.85.185:55510/stream/channelid/709167101?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="f56cf7444daaa4cf7ad63088801e74d9",FILM+
+http://87.229.85.185:55510/stream/channelid/1157065973?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="134f3f41e1c16d8e1c05cc5509f426cd",FILM+ 2HD
+http://87.229.85.185:55510/stream/channelid/1094668051?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="1072efa9dad964d318f8ac44ccb8c18b",FILM+ 4HD
+http://87.229.85.185:55510/stream/channelid/703558160?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="df225baa9f9bbb685ef8ec5f0075fa4b",FILM+ 5HD
+http://87.229.85.185:55510/stream/channelid/710615775?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="f285f947a9cb69e35882825957d8909c",FILM+ HD
+http://87.229.85.185:55510/stream/channelid/1207535090?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="fa22dda4920e05b400af087c9c0b82de",FILM+3HD
+http://87.229.85.185:55510/stream/channelid/618472186?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="9f5631992873a71b53d72ba36442e292",FILMBOX
+http://87.229.85.185:55510/stream/channelid/422663839?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="05dee580661ade2d4fb04be94704195c",FILMBOX EXTRA HD
+http://87.229.85.185:55510/stream/channelid/15064581?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="7546dc8d315a91766ccee5357cdfb1ac",FILMBOX FAMILY
+http://87.229.85.185:55510/stream/channelid/232539765?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="e09fafc77fccbf7077234b85fcf91337",FILMBOX PREMIUM
+http://87.229.85.185:55510/stream/channelid/1202692064?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="01d9af46a712a2e9bed611fbaea79a1b",HBO
+http://87.229.85.185:55510/stream/channelid/1185929473?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="16f69b9f75b491d36b3619a2f7a06254",HBO 2
+http://87.229.85.185:55510/stream/channelid/530314774?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="5451affa1e79823cfcfac66fd8b5f876",HBO 2 HD
+http://87.229.85.185:55510/stream/channelid/2058309972?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="40cd1efe3427e51f6c8e93acb086420d",HBO 3
+http://87.229.85.185:55510/stream/channelid/2115947840?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="cd5c43fd16188d21a127fce8ddf37d30",HBO 3 HD
+http://87.229.85.185:55510/stream/channelid/2101566669?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="6138e790c563b5d0c4ab7b8535686a0e",HBO COMEDY HD
+http://87.229.85.185:55510/stream/channelid/283588705?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="732723783beafcf92fd5d0d8769c828e",HBO FAMILY HD
+http://87.229.85.185:55510/stream/channelid/2015569779?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="6bc38f3990729d5a474da2c94bd0f56a",HBO GO HD
+http://87.229.85.185:55510/stream/channelid/965722987?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="92931f9d2d4da98c56be213ba88b8749",HBO HD
+http://87.229.85.185:55510/stream/channelid/488608658?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="2036b77f76dad4dee7c03ec8f91e2dd1",HBO MAX HD
+http://87.229.85.185:55510/stream/channelid/2142713376?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="d745f8e549b81927b3edb927f7e37e4e",HBO PLUS HD
+http://87.229.85.185:55510/stream/channelid/1710769623?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="c09fc2e4db7f027f919ef4d559b0e183",HBO ZONE HD
+http://87.229.85.185:55510/stream/channelid/1690476480?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="7c31a95f1070e60e480229c4922842bb",HEY KIDS HD
+http://87.229.85.185:55510/stream/channelid/1604923772?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="c1db43dd935381f37dd689e2afc2ccab",FILMBOX STARS
+http://87.229.85.185:55510/stream/channelid/1564728257?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="e630459802159a2ad83f4feef9b7a5a6",MAGIC CHANNEL HD
+http://87.229.85.185:55510/stream/channelid/407187686?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="98021cd00ca413d19df77e2a0d9733cd",MAGIC TV HD
+http://87.229.85.185:55510/stream/channelid/1344012952?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="8d9e1f5d81e574e7b00da505efe1a77a",MARVEL & DC HD
+http://87.229.85.185:55510/stream/channelid/1562353293?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="943470c9ca9756b0031c2b76744572e1",METRO GOLDWYN MAYER HD
+http://87.229.85.185:55510/stream/channelid/1232090260?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="1b9e31471dcc82cfb41cde2adbc03ff2",MINIMAX SD
+http://87.229.85.185:55510/stream/channelid/1194434075?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="0b498400c6e1aed099ae16ee6d8fddf2",MOVIES 1 HD
+http://87.229.85.185:55510/stream/channelid/8669451?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="46a1431050d1584db3d1f563f06d711b",MOVIES 2 HD
+http://87.229.85.185:55510/stream/channelid/272867654?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="ada96b8691398c04c495a029f9904047",MOVIES 3 HD
+http://87.229.85.185:55510/stream/channelid/107719085?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="c3824d72eba5243d1600fdb4b12420a6",MOVIES 4 HD
+http://87.229.85.185:55510/stream/channelid/1917682371?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="d2cea4cdf619d0344e22f9f0394568c1",MOZI +
+http://87.229.85.185:55510/stream/channelid/1302646482?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="3d0693267e606e4e454c85de8b48ecf2",MOZI + HD
+http://87.229.85.185:55510/stream/channelid/647169597?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="9802e77108c9eafbb16fe8f592b36eb9",MOZIVERZUM
+http://87.229.85.185:55510/stream/channelid/1910964888?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="1512fcca30fe76cd901884d7476c23b1",MOZIVERZUM HD
+http://87.229.85.185:55510/stream/channelid/1258033685?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="0151adc6b7400953238c956cb328f054",MR.BEAN A RAJZFILMSOROZAT HD
+http://87.229.85.185:55510/stream/channelid/1185763585?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="4c551a301af3d7868e2b20e8fc7ddc0a",NETFLIX HD
+http://87.229.85.185:55510/stream/channelid/807032140?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="2aa15c9b57ad76c8e874ddb852fd83a5",NICK JUNIOR
+http://87.229.85.185:55510/stream/channelid/459055402?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="703cd6dddd960eab506355101dc24686",PRIME HD
+http://87.229.85.185:55510/stream/channelid/1574321264?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="94ea254986fc9e7517801b9a63719230",RETRO COMEDY HD
+http://87.229.85.185:55510/stream/channelid/1227221652?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="329c3c7292186ab58cf827a182edb734",RETRO FAMILY HD
+http://87.229.85.185:55510/stream/channelid/1916574770?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="4d1c739d8fe036db623f7b9cb2fb122d",RETRO HORROR HD
+http://87.229.85.185:55510/stream/channelid/494083149?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="28b243648d65423eda4de021539a91c2",RETRO SCI-FI HD
+http://87.229.85.185:55510/stream/channelid/1682158120?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="cf6d6ae01d7ee1ddb1c5664c87f23e21",RETRO THRILLER HD
+http://87.229.85.185:55510/stream/channelid/1617587663?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="87ff84c4e6b3a0d5fb769d1aa011d761",ROYAL ADAM SANDLER HD
+http://87.229.85.185:55510/stream/channelid/1149566855?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="4dc24e7db98c087af93f36ec8706a249",ROYAL COMEDY HD
+http://87.229.85.185:55510/stream/channelid/2102313549?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="a3bee4387ab25faa5b0fcdcda504e99b",ROYAL DENZEL WASHINGTON HD
+http://87.229.85.185:55510/stream/channelid/954515107?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="8a3e4ed843aa8b9798c422ee9bb9627a",ROYAL HORROR HD
+http://87.229.85.185:55510/stream/channelid/1481522826?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="91c33bf4f2d620da92a9b0da400bff77",ROYAL JACKIE CHAN HD
+http://87.229.85.185:55510/stream/channelid/1950073745?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="ef7ef3607f86e4f08991fbd030c3d9d7",ROYAL THRILLER HD
+http://87.229.85.185:55510/stream/channelid/1626570479?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="aadd51e7e3214e76b51ea2341a51a987",SCI-FI CHANNEL HD
+http://87.229.85.185:55510/stream/channelid/1733418410?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="95aba8f8da36389ffce5c2bf76fe8b5b",STAR MOVIE CHANNEL HD
+http://87.229.85.185:55510/stream/channelid/2024319893?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
+#EXTINF:-1 tvg-id="a42175d7f9ce49f23dc6febf8e2d69f8",VIASAT FILM
+http://87.229.85.185:55510/stream/channelid/1467294116?auth=PXyvS4UgGt1-G.8d0T-KmLX0cQwk&profile=pass
