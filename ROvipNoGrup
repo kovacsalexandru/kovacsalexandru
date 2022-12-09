@@ -1,0 +1,653 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="PRO TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png" PRO TV UHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=21535&extension=ts
+#EXTINF:-1 tvg-name="PRO TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png" PRO TV FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8028&extension=ts
+#EXTINF:-1 tvg-name="PRO TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png" PRO TV HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8027&extension=ts
+#EXTINF:-1 tvg-name="PRO TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/FzgTwcMK/PRO-TV.png" PRO TV HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=4&extension=ts&play_token=
+#EXTINF:-1 tvg-name="PRO TV INTERNATIONAL"tvg-id=""tvg-logo="https://i.postimg.cc/x8SssgF7/Pro-TV-International.png" PRO TV INTERNATIONAL
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=41248&extension=ts
+#EXTINF:-1 tvg-name="PRO TV INTERNATIONAL"tvg-id=""tvg-logo="https://i.postimg.cc/x8SssgF7/Pro-TV-International.png" PRO TV INTERNATIONAL
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=57741&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Antena 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png" Antena 1 UHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=19393&extension=ts
+#EXTINF:-1 tvg-name="Antena 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png" Antena 1 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8036&extension=ts
+#EXTINF:-1 tvg-name="Antena 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png" Antena 1 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8037&extension=ts
+#EXTINF:-1 tvg-name="Antena 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/g24KVGWf/Antena-1.png" Antena 1
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=2&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Prima TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png" Prima TV HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71429&extension=ts
+#EXTINF:-1 tvg-name="Prima TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png" Prima TV HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8048&extension=ts
+#EXTINF:-1 tvg-name="Prima TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/FsV665vx/Prima_TV.png" Prima TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=59236&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Kanal D HD"tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png" Kanal D UHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=41117&extension=ts
+#EXTINF:-1 tvg-name="Kanal D HD"tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png" Kanal D FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8043&extension=ts
+#EXTINF:-1 tvg-name="Kanal D HD"tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png" Kanal D HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8044&extension=ts
+#EXTINF:-1 tvg-name="Kanal D HD"tvg-id=""tvg-logo="https://i.postimg.cc/9fJNQG0w/Kanal_D.png" Kanal D
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=6&extension=ts&play_token=
+#EXTINF:-1 tvg-name="TVR 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png" TVR 1 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8055&extension=ts
+#EXTINF:-1 tvg-name="TVR 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/wTwVJ6Hn/TVR_1.png" TVR 1 HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=12&extension=ts&play_token=
+#EXTINF:-1 tvg-name="TVR 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png" TVR 2 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73128&extension=ts
+#EXTINF:-1 tvg-name="TVR 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/fTzCJ34x/TVR_2.png" TVR 2 HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=5105&extension=ts&play_token=
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png" TVR 3
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8058&extension=ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/QdVqJRdC/TVR_3.png" TVR 3
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=84&extension=ts&play_token=
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/Dfd5vrNv/TVR_International.png" TVR International
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8207&extension=ts
+#EXTINF:-1 tvg-name="National TV"tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png" National TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8049&extension=ts
+#EXTINF:-1 tvg-name="National TV"tvg-id=""tvg-logo="https://i.postimg.cc/sxSkxvtF/National_TV.png" National TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=89&extension=ts&play_token=
+#EXTINF:-1 tvg-name="National 24 Plus"tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png" National 24 Plus
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8050&extension=ts
+#EXTINF:-1 tvg-name="National 24 Plus"tvg-id=""tvg-logo="https://i.postimg.cc/sfhdwN1n/National_24_Plus.png" National 24 Plus
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73320&extension=ts
+#EXTINF:-1 tvg-name="Acasa HD"tvg-id=""tvg-logo="https://i.postimg.cc/d3dBrdsB/AcasA.png" Acasa FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8030&extension=ts
+#EXTINF:-1 tvg-name="Acasa HD"tvg-id=""tvg-logo="https://i.postimg.cc/d3dBrdsB/AcasA.png" Acasa HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8031&extension=ts
+#EXTINF:-1 tvg-name="Acasa HD"tvg-id=""tvg-logo="https://i.postimg.cc/d3dBrdsB/AcasA.png" Acasa
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=15&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Acasa GOLD HD"tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png" Acasa GOLD HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71427&extension=ts
+#EXTINF:-1 tvg-name="Acasa GOLD HD"tvg-id=""tvg-logo="https://i.postimg.cc/hjNsXMBv/Acas-A-Gold.png" Acasa GOLD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=68802&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Antena Stars HD"tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png" Antena Stars HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8041&extension=ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/mkN9TSZ0/Antena-Stars.png" Antena Stars
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=10&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Happy Channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy_Channel.png" Happy Channel HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8046&extension=ts
+#EXTINF:-1 tvg-name="Happy Channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/xTBQ0VhV/Happy_Channel.png" Happy Channel
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=11&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi 24 HD"tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png" Digi 24 UHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8051&extension=ts
+#EXTINF:-1 tvg-name="Digi 24 HD"tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png" Digi 24 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8052&extension=ts
+#EXTINF:-1 tvg-name="Digi 24 HD"tvg-id=""tvg-logo="https://i.postimg.cc/mkwPv284/Digi24.png" Digi 24
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=8&extension=ts&play_token=
+#EXTINF:-1 tvg-name="B1 TV"tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png" B1 TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8054&extension=ts
+#EXTINF:-1 tvg-name="B1 TV"tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png" B1 TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73319&extension=ts
+#EXTINF:-1 tvg-name="B1 TV"tvg-id=""tvg-logo="https://i.postimg.cc/Kc78vCMf/B1TV.png" B1 TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=81747&extension=ts&play_token=
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png" Realitatea Plus
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8060&extension=ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png" Realitatea Plus
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73322&extension=ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/25sT62m6/Realitatea_Plus.png" Realitatea Plus
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=95&extension=ts&play_token=
+#EXTINF:-1 tvg-name="România TV"tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png" Romania TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73321&extension=ts
+#EXTINF:-1 tvg-name="România TV"tvg-id=""tvg-logo="https://i.postimg.cc/k56fqL0z/Romania_TV.png" Romania TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8059&extension=ts
+#EXTINF:-1 tvg-name="Antena 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png" Antena 3 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8039&extension=ts
+#EXTINF:-1 tvg-name="Antena 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png" Antena 3
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8040&extension=ts
+#EXTINF:-1 tvg-name="Antena 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/MpzDfvh7/Antena-3.png" Antena 3
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=7&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Aleph News"tvg-id=""tvg-logo="https://i.postimg.cc/NFrvbKfF/Aleph-News.png" Aleph News FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71449&extension=ts
+#EXTINF:-1 tvg-name="Aleph News"tvg-id=""tvg-logo="https://i.postimg.cc/NFrvbKfF/Aleph-News.png" Aleph News FHD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=52460&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Nasul TV"tvg-id=""tvg-logo="https://i.postimg.cc/NFVGJmf2/Nasul-TV.png" Nasul TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8061&extension=ts
+#EXTINF:-1 tvg-name="Nasul TV"tvg-id=""tvg-logo="https://i.postimg.cc/NFVGJmf2/Nasul-TV.png" Nasul TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=100&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Eurosport 4K"tvg-id=""tvg-logo="https://i.postimg.cc/66Y5xSBB/Eurosport-4-K.png" Eurosport 4K
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71955&extension=ts
+#EXTINF:-1 tvg-name="Eurosport 4K"tvg-id=""tvg-logo="https://i.postimg.cc/66Y5xSBB/Eurosport-4-K.png" Eurosport 4K
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=25947&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" Eurosport 1 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=30749&extension=ts
+#EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" Eurosport 1 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8125&extension=ts
+#EXTINF:-1 tvg-name="Eurosport 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/7hYHT1nv/Eurosport-1-HD.png" Eurosport 1
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=65&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" Eurosport 2 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8127&extension=ts
+#EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" Eurosport 2
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8128&extension=ts
+#EXTINF:-1 tvg-name="Eurosport 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/fLvWLqXj/Eurosport-2-HD.png" Eurosport 2
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=66&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi 4K"tvg-id=""tvg-logo="https://i.postimg.cc/Gp2xz639/4-K-Ultra-HD.png" Digi 4K
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=35093&extension=ts
+#EXTINF:-1 tvg-name="Digi 4K"tvg-id=""tvg-logo="https://i.postimg.cc/Gp2xz639/4-K-Ultra-HD.png" Digi 4K
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=9&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi Sport 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" Digi Sport 1 UHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8116&extension=ts
+#EXTINF:-1 tvg-name="Digi Sport 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" Digi Sport 1 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8117&extension=ts
+#EXTINF:-1 tvg-name="Digi Sport 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/PrSLKJCz/Digi-Sport1.png" Digi Sport 1
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=67&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi Sport 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" Digi Sport 2 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8119&extension=ts
+#EXTINF:-1 tvg-name="Digi Sport 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" Digi Sport 2 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8120&extension=ts
+#EXTINF:-1 tvg-name="Digi Sport 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/P5NC7HZG/Digi-Sport2.png" Digi Sport 2
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=68&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi Sport 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" Digi Sport 3 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8121&extension=ts
+#EXTINF:-1 tvg-name="Digi Sport 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" Digi Sport 3 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8122&extension=ts
+#EXTINF:-1 tvg-name="Digi Sport 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/wjP18rc1/Digi-Sport3.png" Digi Sport 3 HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=69&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi Sport 4"tvg-id=""tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" Digi Sport 4
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8123&extension=ts
+#EXTINF:-1 tvg-name="Digi Sport 4"tvg-id=""tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" Digi Sport 4
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8124&extension=ts
+#EXTINF:-1 tvg-name="Digi Sport 4"tvg-id=""tvg-logo="https://i.postimg.cc/mrHtbS88/Digi-Sport4.png" Digi Sport 4
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=70&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Orange Sport 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/NjQ3GGDV/Orange_Sport_1.png" Orange Sport 1 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8129&extension=ts
+#EXTINF:-1 tvg-name="Orange Sport 1 HD"tvg-id=""tvg-logo="https://i.postimg.cc/NjQ3GGDV/Orange_Sport_1.png" Orange Sport 1 HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=71&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Orange Sport 2"tvg-id=""tvg-logo="https://i.postimg.cc/Hk3frGPL/Orange_Sport_2.png" Orange Sport 2 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8130&extension=ts
+#EXTINF:-1 tvg-name="Orange Sport 2"tvg-id=""tvg-logo="https://i.postimg.cc/Hk3frGPL/Orange_Sport_2.png" Orange Sport 2
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=72&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Orange Sport 3"tvg-id=""tvg-logo="https://i.postimg.cc/0NQhmtL0/Orange_Sport_3.png" Orange Sport 3 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8131&extension=ts
+#EXTINF:-1 tvg-name="Orange Sport 3"tvg-id=""tvg-logo="https://i.postimg.cc/0NQhmtL0/Orange_Sport_3.png" Orange Sport 3
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=73&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Orange Sport 4"tvg-id=""tvg-logo="https://i.postimg.cc/PqR9MWHs/Orange_Sport_4.png" Orange Sport 4 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8132&extension=ts
+#EXTINF:-1 tvg-name="Orange Sport 4"tvg-id=""tvg-logo="https://i.postimg.cc/PqR9MWHs/Orange_Sport_4.png" Orange Sport 4
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=74&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Prima SPORT 1"tvg-id=""tvg-logo="https://i.postimg.cc/gj97CGrg/Prima_Sport_1.png" Prima SPORT 1 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73121&extension=ts
+#EXTINF:-1 tvg-name="Prima SPORT 1"tvg-id=""tvg-logo="https://i.postimg.cc/gj97CGrg/Prima_Sport_1.png" Prima SPORT 1 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73121&extension=ts
+#EXTINF:-1 tvg-name="Prima SPORT 1"tvg-id=""tvg-logo="https://i.postimg.cc/gj97CGrg/Prima_Sport_1.png" Prima SPORT 1 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73121&extension=ts
+#EXTINF:-1 tvg-name="Prima SPORT 1"tvg-id=""tvg-logo="https://i.postimg.cc/gj97CGrg/Prima_Sport_1.png" Prima SPORT 1 HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=64&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Prima SPORT 2"tvg-id=""tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima_Sport_2.png" Prima SPORT 2 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8133&extension=ts
+#EXTINF:-1 tvg-name="Prima SPORT 2"tvg-id=""tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima_Sport_2.png" Prima SPORT 2
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8134&extension=ts
+#EXTINF:-1 tvg-name="Prima SPORT 2"tvg-id=""tvg-logo="https://i.postimg.cc/bwY5cCNf/Prima_Sport_2.png" Prima SPORT 2
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=63&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Prima SPORT 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/s2v01Mhn/Prima_Sport_3.png" Prima SPORT 3 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=30747&extension=ts
+#EXTINF:-1 tvg-name="Prima SPORT 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/s2v01Mhn/Prima_Sport_3.png" Prima SPORT 3 FHD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=2143&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Prima SPORT 4"tvg-id=""tvg-logo="https://i.postimg.cc/ydRQX2nc/Prima_Sport_4.png" Prima SPORT 4 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=30746&extension=ts
+#EXTINF:-1 tvg-name="Prima SPORT 4"tvg-id=""tvg-logo="https://i.postimg.cc/ydRQX2nc/Prima_Sport_4.png" Prima SPORT 4 HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=3146&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Pro Arena HD"tvg-id=""tvg-logo="https://i.postimg.cc/W19H2GhF/Pro_ArenA.png" Pro Arena FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8032&extension=ts
+#EXTINF:-1 tvg-name="Pro Arena HD"tvg-id=""tvg-logo="https://i.postimg.cc/W19H2GhF/Pro_ArenA.png" Pro Arena HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8033&extension=ts
+#EXTINF:-1 tvg-name="Pro Arena HD"tvg-id=""tvg-logo="https://i.postimg.cc/W19H2GhF/Pro_ArenA.png" Pro Arena
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=1357&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Fight Box HD"tvg-id=""tvg-logo="https://i.postimg.cc/tT9yLdf1/FightBox.png" Fight Box HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8221&extension=ts
+#EXTINF:-1 tvg-name="Fight Box HD"tvg-id=""tvg-logo="https://i.postimg.cc/tT9yLdf1/FightBox.png" Fight Box
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=32796&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Extreme Sports"tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png" Extreme Sports
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71440&extension=ts
+#EXTINF:-1 tvg-name="Extreme Sports"tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png" Extreme Sports
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73339&extension=ts
+#EXTINF:-1 tvg-name="Extreme Sports"tvg-id=""tvg-logo="https://i.postimg.cc/8zr1WzMC/Extreme-Sports-Channel.png" Extreme Sports
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=142&extension=ts&play_token=
+#EXTINF:-1 tvg-name="HBO HD"tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png" HBO FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8096&extension=ts
+#EXTINF:-1 tvg-name="HBO HD"tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png" HBO HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8095&extension=ts
+#EXTINF:-1 tvg-name="HBO HD"tvg-id=""tvg-logo="https://i.postimg.cc/hjZwp9qR/HBO_HD.png" HBO
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=20&extension=ts&play_token=
+#EXTINF:-1 tvg-name="HBO 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png" HBO 2 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8097&extension=ts
+#EXTINF:-1 tvg-name="HBO 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png" HBO 2 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=64841&extension=ts
+#EXTINF:-1 tvg-name="HBO 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/FzqMs0PV/HBO_2.png" HBO 2
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=21&extension=ts&play_token=
+#EXTINF:-1 tvg-name="HBO 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png" HBO 3 FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8098&extension=ts
+#EXTINF:-1 tvg-name="HBO 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png" HBO 3 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=64842&extension=ts
+#EXTINF:-1 tvg-name="HBO 3 HD"tvg-id=""tvg-logo="https://i.postimg.cc/L8fp50FY/HBO_3.png" HBO 3
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=22&extension=ts&play_token=
+#EXTINF:-1 tvg-name="CineMAX"tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png" CineMAX
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8101&extension=ts
+#EXTINF:-1 tvg-name="CineMAX"tvg-id=""tvg-logo="https://i.postimg.cc/nhwDVrZc/CineMax.png" CineMAX
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=23&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Cinemax 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png" Cinemax 2 HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71445&extension=ts
+#EXTINF:-1 tvg-name="Cinemax 2 HD"tvg-id=""tvg-logo="https://i.postimg.cc/y8NRz9Mb/Cinemax-2-HD.png" Cinemax 2 HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=24&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Filmbox"tvg-id=""tvg-logo="https://i.postimg.cc/fyLsbzMD/Filmbox.png" Filmbox
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73350&extension=ts
+#EXTINF:-1 tvg-name="Filmbox"tvg-id=""tvg-logo="https://i.postimg.cc/fyLsbzMD/Filmbox.png" Filmbox
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=123&extension=ts&play_token=
+#EXTINF:-1 tvg-name="FilmBox Extra HD"tvg-id=""tvg-logo="https://i.postimg.cc/ryncPr9m/Filmbox_Extra.png" FilmBox Extra HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8237&extension=ts
+#EXTINF:-1 tvg-name="FilmBox Extra HD"tvg-id=""tvg-logo="https://i.postimg.cc/ryncPr9m/Filmbox_Extra.png" FilmBox Extra
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=17&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Filmbox Premium"tvg-id=""tvg-logo="https://i.postimg.cc/k4jrz0KZ/FilmBox_Premium.png" Filmbox Premium
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8242&extension=ts
+#EXTINF:-1 tvg-name="Filmbox Premium"tvg-id=""tvg-logo="https://i.postimg.cc/k4jrz0KZ/FilmBox_Premium.png" Filmbox Premium
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=124&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Filmbox Stars"tvg-id=""tvg-logo="https://i.postimg.cc/RFxYc2dr/Film-Box-Stars.png" Filmbox Stars
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71438&extension=ts
+#EXTINF:-1 tvg-name="Filmbox Stars"tvg-id=""tvg-logo="https://i.postimg.cc/RFxYc2dr/Film-Box-Stars.png" Filmbox Stars
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73329&extension=ts
+#EXTINF:-1 tvg-name="FilmBox Family"tvg-id=""tvg-logo="https://i.postimg.cc/fyrNtGbX/Filmbox_Family.png" FilmBox Family
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8241&extension=ts
+#EXTINF:-1 tvg-name="FilmBox Family"tvg-id=""tvg-logo="https://i.postimg.cc/fyrNtGbX/Filmbox_Family.png" FilmBox Family
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73331&extension=ts
+#EXTINF:-1 tvg-name="FilmBox Family"tvg-id=""tvg-logo="https://i.postimg.cc/fyrNtGbX/Filmbox_Family.png" FilmBox Family
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=125&extension=ts&play_token=
+#EXTINF:-1 tvg-name="TV1000"tvg-id=""tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png" TV1000
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8115&extension=ts
+#EXTINF:-1 tvg-name="TV1000"tvg-id=""tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png" TV1000
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73338&extension=ts
+#EXTINF:-1 tvg-name="TV1000"tvg-id=""tvg-logo="https://i.postimg.cc/L5RTk5JF/TV1000.png" TV1000
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=109&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Warner TV"tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png" Warner TV FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71420&extension=ts
+#EXTINF:-1 tvg-name="Warner TV"tvg-id=""tvg-logo="https://i.postimg.cc/L628LSc4/Warner.png" Warner TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=52183&extension=ts&play_token=
+#EXTINF:-1 tvg-name="TDC"tvg-id=""tvg-logo="https://i.postimg.cc/QCprTp5v/timeless-drama.png" Timeless Drama Channel
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71423&extension=ts
+#EXTINF:-1 tvg-name="TDC"tvg-id=""tvg-logo="https://i.postimg.cc/QCprTp5v/timeless-drama.png" Timeless Drama Channel
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71422&extension=ts
+#EXTINF:-1 tvg-name="TDC"tvg-id=""tvg-logo="https://i.postimg.cc/QCprTp5v/timeless-drama.png" Timeless Drama Channel
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=25946&extension=ts&play_token=
+#EXTINF:-1 tvg-name="AMC HD"tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png" AMC FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73124&extension=ts
+#EXTINF:-1 tvg-name="AMC"tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png" AMC
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=20208&extension=ts
+#EXTINF:-1 tvg-name="AMC"tvg-id=""tvg-logo="https://i.postimg.cc/8Cffg387/AMC.png" AMC
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=36481&extension=ts&play_token=
+#EXTINF:-1 tvg-name="AXN HD"tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png" AXN HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8090&extension=ts
+#EXTINF:-1 tvg-name="AXN HD"tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png" AXN HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8091&extension=ts
+#EXTINF:-1 tvg-name="AXN HD"tvg-id=""tvg-logo="https://i.postimg.cc/43qVPdFF/AXN-HD.png" AXN HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=18&extension=ts&play_token=
+#EXTINF:-1 tvg-name="AXN White"tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png" AXN White
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8094&extension=ts
+#EXTINF:-1 tvg-name="AXN White"tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png" AXN White
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73325&extension=ts
+#EXTINF:-1 tvg-name="AXN White"tvg-id=""tvg-logo="https://i.postimg.cc/d3KdMfF2/AXN-White.png" AXN White
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=112&extension=ts&play_token=
+#EXTINF:-1 tvg-name="AXN Black"tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png" AXN Black
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8092&extension=ts
+#EXTINF:-1 tvg-name="AXN Black"tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png" AXN Black
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73327&extension=ts
+#EXTINF:-1 tvg-name="AXN Black"tvg-id=""tvg-logo="https://i.postimg.cc/vBn9NsJ8/AXN-Black.png" AXN Black
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=113&extension=ts&play_token=
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png" AXN Spin
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8093&extension=ts
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png" AXN Spin
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73326&extension=ts
+#EXTINF:-1 tvg-name="AXN Spin"tvg-id=""tvg-logo="https://i.postimg.cc/VNdXXM4C/AXN-Spin.png" AXN Spin
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=114&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Diva"tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png" Diva
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8111&extension=ts
+#EXTINF:-1 tvg-name="Diva"tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png" Diva
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73346&extension=ts
+#EXTINF:-1 tvg-name="Diva"tvg-id=""tvg-logo="https://i.postimg.cc/T29hY1JM/Diva.png" Diva
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=117&extension=ts&play_token=
+#EXTINF:-1 tvg-name="PRO CINEMA HD"tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro_Cinema.png" PRO CINEMA FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71428&extension=ts
+#EXTINF:-1 tvg-name="PRO CINEMA HD"tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro_Cinema.png" PRO CINEMA
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8035&extension=ts
+#EXTINF:-1 tvg-name="PRO CINEMA HD"tvg-id=""tvg-logo="https://i.postimg.cc/GpVgDbPb/Pro_Cinema.png" PRO CINEMA
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=68801&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Film Now HD"tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film_Now.png" Film Now FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8099&extension=ts
+#EXTINF:-1 tvg-name="Film Now HD"tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film_Now.png" Film Now
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8100&extension=ts
+#EXTINF:-1 tvg-name="Film Now HD"tvg-id=""tvg-logo="https://i.postimg.cc/5tBb7KPd/Film_Now.png" Film Now
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=19&extension=ts&play_token=
+#EXTINF:-1 tvg-name="FILMCAFE"tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film_cafe.png" FILMCAFE
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8112&extension=ts
+#EXTINF:-1 tvg-name="FILMCAFE"tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film_cafe.png" FILMCAFE
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73328&extension=ts
+#EXTINF:-1 tvg-name="FILMCAFE"tvg-id=""tvg-logo="https://i.postimg.cc/C1JYYBTc/Film_cafe.png" FILMCAFE
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=47661&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png" Epic Drama FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8109&extension=ts
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png" Epic Drama
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8110&extension=ts
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://i.postimg.cc/d1FtJc7V/Epic-Drama.png" Epic Drama
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=29&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Comedy Central HD"tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png" Comedy Central HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8104&extension=ts
+#EXTINF:-1 tvg-name="Comedy Central HD"tvg-id=""tvg-logo="https://i.postimg.cc/MGCfRLvC/Comedy-Central.png" Comedy Central HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73335&extension=ts
+#EXTINF:-1 tvg-name="Bollywood TV"tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png" Bollywood TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8103&extension=ts
+#EXTINF:-1 tvg-name="Bollywood TV"tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png" Bollywood TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71446&extension=ts
+#EXTINF:-1 tvg-name="Bollywood TV"tvg-id=""tvg-logo="https://i.postimg.cc/8khMdTdt/Bollywood-TV.png" Bollywood TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=26&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Bollywood Classic"tvg-id=""tvg-logo="https://i.postimg.cc/ncp70N0Z/Bollywood-Clasic.png" Bollywood Classic
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71447&extension=ts
+#EXTINF:-1 tvg-name="Bollywood Classic"tvg-id=""tvg-logo="https://i.postimg.cc/ncp70N0Z/Bollywood-Clasic.png" Bollywood Classic
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73332&extension=ts
+#EXTINF:-1 tvg-name="Bollywood Classic"tvg-id=""tvg-logo="https://i.postimg.cc/ncp70N0Z/Bollywood-Clasic.png" Bollywood Classic
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=122&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Discovery Channel"tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png" Discovery Channel
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73125&extension=ts
+#EXTINF:-1 tvg-name="Discovery Channel"tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png" Discovery Channel
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8157&extension=ts
+#EXTINF:-1 tvg-name="Discovery Channel"tvg-id=""tvg-logo="https://i.postimg.cc/Bbq6BfsV/Discovery-Channel.png" Discovery Channel
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=36483&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Discovery Science"tvg-id=""tvg-logo="https://i.postimg.cc/761hzZvz/Discovery-Science.png" Discovery Science HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8160&extension=ts
+#EXTINF:-1 tvg-name="Discovery Science"tvg-id=""tvg-logo="https://i.postimg.cc/761hzZvz/Discovery-Science.png" Discovery Science HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73340&extension=ts
+#EXTINF:-1 tvg-name="Discovery Science"tvg-id=""tvg-logo="https://i.postimg.cc/761hzZvz/Discovery-Science.png" Discovery Science HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=34&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Love Nature"tvg-id=""tvg-logo="https://i.postimg.cc/7b8KW9sd/Love_Nature_TV.png" Love Nature
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8243&extension=ts
+#EXTINF:-1 tvg-name="Love Nature"tvg-id=""tvg-logo="https://i.postimg.cc/7b8KW9sd/Love_Nature_TV.png" Love Nature
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=61117&extension=ts&play_token=
+#EXTINF:-1 tvg-name="BBC EARTH"tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png" BBC EARTH
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=19390&extension=ts
+#EXTINF:-1 tvg-name="BBC EARTH"tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png" BBC EARTH
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8162&extension=ts
+#EXTINF:-1 tvg-name="BBC EARTH"tvg-id=""tvg-logo="https://i.postimg.cc/J4538RGG/BBC-Earth.png" BBC EARTH
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=30&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Crime + Investigation"tvg-id=""tvg-logo="https://i.postimg.cc/T37YyjfM/Crime-investigation.png" Crime + Investigation
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8223&extension=ts
+#EXTINF:-1 tvg-name="Crime + Investigation"tvg-id=""tvg-logo="https://i.postimg.cc/T37YyjfM/Crime-investigation.png" Crime + Investigation
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73341&extension=ts
+#EXTINF:-1 tvg-name="Crime + Investigation"tvg-id=""tvg-logo="https://i.postimg.cc/T37YyjfM/Crime-investigation.png" Crime + Investigation
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=146&extension=ts&play_token=
+#EXTINF:-1 tvg-name="HGTV"tvg-id=""tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" Home and Garten TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=41637&extension=ts
+#EXTINF:-1 tvg-name="HGTV"tvg-id=""tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" Home and Garten TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73122&extension=ts
+#EXTINF:-1 tvg-name="HGTV"tvg-id=""tvg-logo="https://i.postimg.cc/wMSrdgvW/HGTV.png" Home and Garten TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=21388&extension=ts&play_token=
+#EXTINF:-1  tvg-name="Exploris TV"tvg-id=""tvg-logo="https://i.postimg.cc/7ZNKdXg7/Exploris.png" Exploris TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8232&extension=ts
+#EXTINF:-1 tvg-name="ID Investigation Discovery HD"tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png" ID Investigation Discovery HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8161&extension=ts
+#EXTINF:-1 tvg-name="ID Investigation Discovery HD"tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png" ID Investigation Discovery
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73317&extension=ts
+#EXTINF:-1 tvg-name="ID Investigation Discovery HD"tvg-id=""tvg-logo="https://i.postimg.cc/9M0gRrw8/Investigation_Discovery.png" ID Investigation Discovery
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=32&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Animal Planet HD"tvg-id=""tvg-logo="https://i.postimg.cc/fTcCbxgW/Animal-Planet.png" Animal Planet HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8146&extension=ts
+#EXTINF:-1 tvg-name="Animal Planet HD"tvg-id=""tvg-logo="https://i.postimg.cc/fTcCbxgW/Animal-Planet.png" Animal Planet
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73505&extension=ts
+#EXTINF:-1 tvg-name="Animal Planet HD"tvg-id=""tvg-logo="https://i.postimg.cc/fTcCbxgW/Animal-Planet.png" Animal Planet
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=35&extension=ts&play_token=
+#EXTINF:-1 tvg-name="National Geographic HD"tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png" National Geographic FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8153&extension=ts
+#EXTINF:-1 tvg-name="National Geographic HD"tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png" National Geographic
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8154&extension=ts
+#EXTINF:-1 tvg-name="National Geographic HD"tvg-id=""tvg-logo="https://i.postimg.cc/rsSHc7rM/National_Geografic.png" National Geographic
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=154&extension=ts&play_token=
+#EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png" National Geographic Wild FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8155&extension=ts
+#EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png" National Geographic Wild
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8156&extension=ts
+#EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id=""tvg-logo="https://i.postimg.cc/28dpfLQh/Nat_Geo_Wild.png" National Geographic Wild
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=155&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Viasat History"tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png" Viasat History FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8164&extension=ts
+#EXTINF:-1 tvg-name="Viasat History"tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png" Viasat History
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8165&extension=ts
+#EXTINF:-1 tvg-name="Viasat History"tvg-id=""tvg-logo="https://i.postimg.cc/j5YQK2Qn/ViasatHistory.png" Viasat History
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=13003&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Viasat Nature"tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png" Viasat Nature FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8166&extension=ts
+#EXTINF:-1 tvg-name="Viasat Nature"tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png" Viasat Nature
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=7416&extension=ts
+#EXTINF:-1 tvg-name="Viasat Nature"tvg-id=""tvg-logo="https://i.postimg.cc/d1RR0F4H/ViasatNature.png" Viasat Nature
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=44&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Viasat Explore"tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png" Viasat Explore FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71417&extension=ts
+#EXTINF:-1 tvg-name="Viasat Explore"tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png" Viasat Explore
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8167&extension=ts
+#EXTINF:-1 tvg-name="Viasat Explore"tvg-id=""tvg-logo="https://i.postimg.cc/PqwzBYZk/ViasatExplore.png" Viasat Explore
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=12996&extension=ts&play_token=
+#EXTINF:-1 tvg-name="TLC"tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png" TLC
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8069&extension=ts
+#EXTINF:-1 tvg-name="TLC"tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png" TLC
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73337&extension=ts
+#EXTINF:-1 tvg-name="TLC"tvg-id=""tvg-logo="https://i.postimg.cc/7ZLKQ5mx/TLC.png" TLC
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=81832&extension=ts&play_token=
+#EXTINF:-1 tvg-name="E! Entertainment HD"tvg-id=""tvg-logo="https://i.postimg.cc/y8yy170M/E.png" E! Entertainment FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8083&extension=ts
+#EXTINF:-1 tvg-name="E! Entertainment HD"tvg-id=""tvg-logo="https://i.postimg.cc/y8yy170M/E.png" E! Entertainment
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8084&extension=ts
+#EXTINF:-1 tvg-name="E! Entertainment HD"tvg-id=""tvg-logo="https://i.postimg.cc/y8yy170M/E.png" E! Entertainment UHD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=28&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Travel Channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png" Travel Channel HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8085&extension=ts
+#EXTINF:-1 tvg-name="Travel Channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png" Travel Channel HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8086&extension=ts
+#EXTINF:-1 tvg-name="Travel Channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/3xbtM3c2/Travel_Channel.png" Travel Channel HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=37&extension=ts&play_token=
+#EXTINF:-1 tvg-name="DaVinci Learning"tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png" DaVinci Learning
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8067&extension=ts
+#EXTINF:-1 tvg-name="DaVinci Learning"tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png" DaVinci Learning
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73348&extension=ts
+#EXTINF:-1 tvg-name="DaVinci Learning"tvg-id=""tvg-logo="https://i.postimg.cc/B62LCCFX/Da-Vinci.png" DaVinci Learning
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=163&extension=ts&play_token=
+#EXTINF:-1 tvg-name="DocuBox HD"tvg-id=""tvg-logo="https://i.postimg.cc/NfjFytdy/DocuBox.png" DocuBox HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71441&extension=ts
+#EXTINF:-1 tvg-name="DocuBox HD"tvg-id=""tvg-logo="https://i.postimg.cc/NfjFytdy/DocuBox.png" DocuBox
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71442&extension=ts
+#EXTINF:-1 tvg-name="DocuBox HD"tvg-id=""tvg-logo="https://i.postimg.cc/NfjFytdy/DocuBox.png" DocuBox
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=47&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi Life HD"tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png" Digi Life FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8149&extension=ts
+#EXTINF:-1 tvg-name="Digi Life HD"tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png" Digi Life HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8150&extension=ts
+#EXTINF:-1 tvg-name="Digi Life HD"tvg-id=""tvg-logo="https://i.postimg.cc/5N4YwL22/Digi-Life.png" Digi Life
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=41&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi Animal World HD"tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png" Digi Animal World FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8151&extension=ts
+#EXTINF:-1 tvg-name="Digi Animal World HD"tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png" Digi Animal World HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8152&extension=ts
+#EXTINF:-1 tvg-name="Digi Animal World HD"tvg-id=""tvg-logo="https://i.postimg.cc/rm2zztHc/Digi-animal-world.png" Digi Animal World
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=43&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Digi World HD"tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png" Digi World FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8147&extension=ts
+#EXTINF:-1 tvg-name="Digi World HD"tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png" Digi World HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8148&extension=ts
+#EXTINF:-1 tvg-name="Digi World HD"tvg-id=""tvg-logo="https://i.postimg.cc/8kBfJtDY/Digi-World.png" Digi World
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=42&extension=ts&play_token=
+#EXTINF:-1 tvg-name="CBS Reality"tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png" CBS Reality
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=20207&extension=ts
+#EXTINF:-1 tvg-name="CBS Reality"tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png" CBS Reality
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73344&extension=ts
+#EXTINF:-1 tvg-name="CBS Reality"tvg-id=""tvg-logo="https://i.postimg.cc/vTqQ7104/CBS-Reality.png" CBS Reality
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=169&extension=ts&play_token=
+#EXTINF:-1 tvg-name="auto motor und sport channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/fRHx357s/Auto-Motor-i-Sport.png" Auto motor und sport channel HD
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=143&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Discovery Turbo Xtra HD"tvg-id=""tvg-logo="https://i.postimg.cc/9Q4fpp5C/DTX-Discovery.png" Discovery Turbo Xtra FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8159&extension=ts
+#EXTINF:-1 tvg-name="Discovery Turbo Xtra HD"tvg-id=""tvg-logo="https://i.postimg.cc/9Q4fpp5C/DTX-Discovery.png" Discovery Turbo Xtra
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8222&extension=ts
+#EXTINF:-1 tvg-name="Discovery Turbo Xtra HD"tvg-id=""tvg-logo="https://i.postimg.cc/9Q4fpp5C/DTX-Discovery.png" Discovery Turbo Xtra
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=40&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Travel Mix"tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel_Mix.png" Travel Mix
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8239&extension=ts
+#EXTINF:-1 tvg-name="Travel Mix"tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel_Mix.png" Travel Mix
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8087&extension=ts
+#EXTINF:-1 tvg-name="Travel Mix"tvg-id=""tvg-logo="https://i.postimg.cc/Y03xd7FG/Travel_Mix.png" Travel Mix
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=45&extension=ts&play_token=
+#EXTINF:-1 tvg-name="TV Paprika"tvg-id=""tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" TV Paprika
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8070&extension=ts
+#EXTINF:-1 tvg-name="TV Paprika"tvg-id=""tvg-logo="https://i.postimg.cc/Px1y8YrM/TV_Paprika.png" TV Paprika
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=47662&extension=ts&play_token=
+#EXTINF:-1 tvg-name="The Fishing & Hunting Channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/GhKMQFP7/The_Fishing_&_Hunting.png" The Fishing & Hunting Channel HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73345&extension=ts
+#EXTINF:-1 tvg-name="The Fishing & Hunting Channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/GhKMQFP7/The_Fishing_&_Hunting.png" The Fishing & Hunting Channel
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8163&extension=ts
+#EXTINF:-1 tvg-name="The Fishing & Hunting Channel HD"tvg-id=""tvg-logo="https://i.postimg.cc/GhKMQFP7/The_Fishing_&_Hunting.png" The Fishing & Hunting Channel
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=12838&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Food Network HD"tvg-id=""tvg-logo="https://i.postimg.cc/wBQYcyv9/Food_Network.png" Food Network HD
+http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/15435
+#EXTINF:-1 tvg-name="Food Network HD"tvg-id=""tvg-logo="https://i.postimg.cc/wBQYcyv9/Food_Network.png" Food Network HD
+http://mag.you24.online:80/sympv3rewa/C7B1bwE47IGhi/14989
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png" Cartoon Network
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8136&extension=ts
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-id=""tvg-logo="https://i.postimg.cc/7Y9zcXWz/Cartoon-Network.png" Cartoon Network
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=196&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Boomerang"tvg-id=""tvg-logo="https://i.postimg.cc/Vv1SZb94/Boomerang.png" Boomerang
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8143&extension=ts
+#EXTINF:-1 tvg-name="Boomerang"tvg-id=""tvg-logo="https://i.postimg.cc/Vv1SZb94/Boomerang.png" Boomerang
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=198&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Duck TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png" Duck TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8139&extension=ts
+#EXTINF:-1 tvg-name="Duck TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/RVpFKYYg/Duck-TV.png" Duck TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=204&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Disney Channel"tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png" Disney Channel
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8137&extension=ts
+#EXTINF:-1 tvg-name="Disney Channel"tvg-id=""tvg-logo="https://i.postimg.cc/c4C1xmJw/Disney-Channel.png" Disney Channel
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=195&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Disney Junior"tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png" Disney Junior
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8138&extension=ts
+#EXTINF:-1 tvg-name="Disney Junior"tvg-id=""tvg-logo="https://i.postimg.cc/R05vTxLL/Disney-Junior.png" Disney Junior
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=194&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Nickelodeon HD"tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png" Nickelodeon
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8142&extension=ts
+#EXTINF:-1 tvg-name="Nickelodeon HD"tvg-id=""tvg-logo="https://i.postimg.cc/1tVT78Rg/Nickelodeon.png" Nickelodeon
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=199&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Jimjam"tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png" Jimjam
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8234&extension=ts
+#EXTINF:-1 tvg-name="Jimjam"tvg-id=""tvg-logo="https://i.postimg.cc/4xR0Lfjy/JimJam.png" Jimjam
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=203&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Minimax"tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png" Minimax
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8141&extension=ts
+#EXTINF:-1 tvg-name="Minimax"tvg-id=""tvg-logo="https://i.postimg.cc/xd1V5jbH/Minimax.png" Minimax
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=197&extension=ts&play_token=
+#EXTINF:-1 tvg-name="MTV 80s"tvg-id=""tvg-logo="https://i.postimg.cc/qv0TtxJ1/MTV_80s.png" MTV 80s
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71434&extension=ts
+#EXTINF:-1 tvg-name="MTV 80s"tvg-id=""tvg-logo="https://i.postimg.cc/qv0TtxJ1/MTV_80s.png" MTV 80s
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=190&extension=ts&play_token=
+#EXTINF:-1 tvg-name="MTV 90s"tvg-id=""tvg-logo="https://i.postimg.cc/vBpRGW2L/MTV_90s.png" MTV 90s
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71433&extension=ts
+#EXTINF:-1 tvg-name="MTV 90s"tvg-id=""tvg-logo="https://i.postimg.cc/vBpRGW2L/MTV_90s.png" MTV 90s
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=185&extension=ts&play_token=
+#EXTINF:-1 tvg-name="MTV 00s"tvg-id=""tvg-logo="https://i.postimg.cc/Fs0vsB4f/MTV_00s.png" MTV 00s
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8215&extension=ts
+#EXTINF:-1 tvg-name="MTV 00s"tvg-id=""tvg-logo="https://i.postimg.cc/Fs0vsB4f/MTV_00s.png" MTV 00s
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=189&extension=ts&play_token=
+#EXTINF:-1 tvg-name="MTV Live HD"tvg-id=""tvg-logo="https://i.postimg.cc/sgcR5G1s/MTV_Live.png" MTV Live
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8171&extension=ts
+#EXTINF:-1 tvg-name="MTV Live HD"tvg-id=""tvg-logo="https://i.postimg.cc/sgcR5G1s/MTV_Live.png" MTV Live
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=56&extension=ts&play_token=
+#EXTINF:-1 tvg-name="MTV Hits"tvg-id=""tvg-logo="https://i.postimg.cc/1z7hjxpd/MTV_Hits.png" MTV Hits
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8216&extension=ts
+#EXTINF:-1 tvg-name="MTV Hits"tvg-id=""tvg-logo="https://i.postimg.cc/1z7hjxpd/MTV_Hits.png" MTV Hits
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=187&extension=ts&play_token=
+#EXTINF:-1 tvg-name="MTV Rocks"tvg-id=""tvg-logo="https://i.postimg.cc/tCY8VryF/MTV-Rocks.png" MTV Rocks
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8172&extension=ts
+#EXTINF:-1 tvg-name="MTV Club"tvg-id=""tvg-logo="https://i.postimg.cc/RC6920pL/MTV-Club.png" MTV Club
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71443&extension=ts
+#EXTINF:-1 tvg-name="MTV Club"tvg-id=""tvg-logo="https://i.postimg.cc/RC6920pL/MTV-Club.png" MTV Club
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=186&extension=ts&play_token=
+#EXTINF:-1 tvg-name="MTV Europe"tvg-id=""tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" MTV Europe
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8214&extension=ts
+#EXTINF:-1 tvg-name="MTV Europe"tvg-id=""tvg-logo="https://i.postimg.cc/G3WrR1Zw/MTV-Europe.png" MTV Europe
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=21389&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Music Channel"tvg-id=""tvg-logo="https://i.postimg.cc/cHKyqDhL/Music_Channel.png" Music Channel
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8178&extension=ts
+#EXTINF:-1 tvg-name="Music Channel"tvg-id=""tvg-logo="https://i.postimg.cc/cHKyqDhL/Music_Channel.png" Music Channel
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=191&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Kiss TV"tvg-id=""tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss_TV.png" Kiss TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8179&extension=ts
+#EXTINF:-1 tvg-name="Kiss TV"tvg-id=""tvg-logo="https://i.postimg.cc/R0MDmPSz/Kiss_TV.png" Kiss TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=52&extension=ts&play_token=
+#EXTINF:-1 tvg-name="UTV HD"tvg-id=""tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" UTV HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8176&extension=ts
+#EXTINF:-1 tvg-name="UTV HD"tvg-id=""tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" UTV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8177&extension=ts
+#EXTINF:-1 tvg-name="UTV HD"tvg-id=""tvg-logo="https://i.postimg.cc/VsRBQYS5/UTV.png" UTV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=53&extension=ts&play_token=
+#EXTINF:-1 tvg-name="ZU TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU_TV.png" ZU TV HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8170&extension=ts
+#EXTINF:-1 tvg-name="ZU TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU_TV.png" ZU TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=73123&extension=ts
+#EXTINF:-1 tvg-name="ZU TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/zv0nnjmT/ZU_TV.png" ZU TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=51&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Kronehit TV"tvg-id=""tvg-logo="https://i.postimg.cc/rF8vKDrP/kronehit.jpg" Kronehit TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8238&extension=ts
+#EXTINF:-1 tvg-name="Magic TV HD"tvg-id=""tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" Magic TV HD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71436&extension=ts
+#EXTINF:-1 tvg-name="Magic TV"tvg-id=""tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" Magic TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8173&extension=ts
+#EXTINF:-1 tvg-name="Magic TV"tvg-id=""tvg-logo="https://i.postimg.cc/D0bC6Hg1/Magic-TV.png" Magic TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=50&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Atomic TV"tvg-id=""tvg-logo="https://i.postimg.cc/K8P52YL2/Atomic-TV.png" Atomic TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=35168&extension=ts
+#EXTINF:-1 tvg-name="Atomic TV"tvg-id=""tvg-logo="https://i.postimg.cc/K8P52YL2/Atomic-TV.png" Atomic TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=82674&extension=ts&play_token=
+#EXTINF:-1 tvg-name="H!T Music Channel"tvg-id=""tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" H!T Music Channel
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8184&extension=ts
+#EXTINF:-1 tvg-name="H!T Music Channel"tvg-id=""tvg-logo="https://i.postimg.cc/bw0BKXjT/Hit-Music-Channel.png" H!T Music Channel
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=181&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Mooz Dance HD"tvg-id=""tvg-logo="https://i.postimg.cc/wMzd42Dr/Mooz-Dance.png" Mooz Dance
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8227&extension=ts
+#EXTINF:-1 tvg-name="Mooz Dance HD"tvg-id=""tvg-logo="https://i.postimg.cc/wMzd42Dr/Mooz-Dance.png" Mooz Dance
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=59757&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Mooz HD"tvg-id=""tvg-logo="https://i.postimg.cc/q7VKyd3c/mooz-HD.png" Mooz
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8169&extension=ts
+#EXTINF:-1 tvg-name="Mooz Hits"tvg-id=""tvg-logo="https://i.postimg.cc/N06HxP63/mooz-hits.png" Mooz Hits
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71435&extension=ts
+#EXTINF:-1 tvg-name="Mooz RO"tvg-id=""tvg-logo="https://i.postimg.cc/yNP05jWw/mooz-ro.png" Mooz RO!
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8228&extension=ts
+#EXTINF:-1 tvg-name="Mooz RO"tvg-id=""tvg-logo="https://i.postimg.cc/yNP05jWw/mooz-ro.png" Mooz RO!
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=188&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Stingray Classica"tvg-id=""tvg-logo="https://i.postimg.cc/C1xbV8qd/Stingray-classica.png" Stingray Classica
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71426&extension=ts
+#EXTINF:-1 tvg-name="Stingray Classica"tvg-id=""tvg-logo="https://i.postimg.cc/C1xbV8qd/Stingray-classica.png" Stingray Classica
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=55&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Stingray CMusic"tvg-id=""tvg-logo="https://i.postimg.cc/G2gG3pFK/Stingray-CMusic.png" Stingray CMusic
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71425&extension=ts
+#EXTINF:-1 tvg-name="Stingray iConcerts HD"tvg-id=""tvg-logo="https://i.postimg.cc/VvSMJc48/Stingray-i-Concerts.png" Stingray iConcerts
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=71424&extension=ts
+#EXTINF:-1 tvg-name="First Music"tvg-id=""tvg-logo="https://i.postimg.cc/xd1Rpz5j/first-music.png" First Music 4k
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8218&extension=ts
+#EXTINF:-1 tvg-name="First Music"tvg-id=""tvg-logo="https://i.postimg.cc/xd1Rpz5j/first-music.png" First Music FHD
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8217&extension=ts
+#EXTINF:-1 tvg-name="First Music"tvg-id=""tvg-logo="https://i.postimg.cc/xd1Rpz5j/first-music.png" First Music
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8229&extension=ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HkK9ZBr2/VH1.png" VH1 Classic
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8226&extension=ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HkK9ZBr2/VH1.png" VH1
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8175&extension=ts
+#EXTINF:-1 tvg-name="Taraf TV"tvg-id=""tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf_TV.png" Taraf TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8181&extension=ts
+#EXTINF:-1 tvg-name="Taraf TV"tvg-id=""tvg-logo="https://i.postimg.cc/pXRGzGj5/Taraf_TV.png" Taraf TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=57705&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Favorit"tvg-id=""tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit_TV.png" Favorit
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8182&extension=ts
+#EXTINF:-1 tvg-name="Favorit"tvg-id=""tvg-logo="https://i.postimg.cc/KvWGRMKV/Favorit_TV.png" Favorit
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=175&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Etno TV"tvg-id=""tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" Etno TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8183&extension=ts
+#EXTINF:-1 tvg-name="Etno TV"tvg-id=""tvg-logo="https://i.postimg.cc/cLVL5n0Y/Etno.png" Etno TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=57706&extension=ts&play_token=
+#EXTINF:-1 tvg-name="Hora TV"tvg-id=""tvg-logo="https://i.postimg.cc/sXL6pspV/Hora_TV.png" Hora TV
+http://provider-tv.xyz/play/live.php?mac=00:1a:79:44:28:dc&stream=8180&extension=ts
+#EXTINF:-1 tvg-name="Hora TV"tvg-id=""tvg-logo="https://i.postimg.cc/sXL6pspV/Hora_TV.png" Hora TV
+http://pstutoriale.com/play/live.php?mac=00:1A:79:08:7D:08&stream=178&extension=ts&play_token=
