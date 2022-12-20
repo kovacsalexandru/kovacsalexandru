@@ -1,0 +1,1206 @@
+#EXTINF:0,-= Germany Sandu=-
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11708&extension=ts
+#EXTINF:0,Das Erste HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35036&extension=ts
+#EXTINF:0,Das Erste FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11761&extension=ts
+#EXTINF:0,ZDF HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11760&extension=ts
+#EXTINF:0,ZDF Info DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35034&extension=ts
+#EXTINF:0,ZDF Neo HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35033&extension=ts
+#EXTINF:0,Kabel 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102600&extension=ts
+#EXTINF:0,Kabel 1 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30846&extension=ts
+#EXTINF:0,ProSieben HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102602&extension=ts
+#EXTINF:0,ProSieben FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11752&extension=ts
+#EXTINF:0,RTL HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=86943&extension=ts
+#EXTINF:0,RTL FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11759&extension=ts
+#EXTINF:0,RTL 2 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102676&extension=ts
+#EXTINF:0,RTL 2 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11758&extension=ts
+#EXTINF:0,KIKA HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202089&extension=ts
+#EXTINF:0,Kika FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11727&extension=ts
+#EXTINF:0,RTL Crime HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11756&extension=ts
+#EXTINF:0,RTL Living FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30845&extension=ts
+#EXTINF:0,RTL Nitro HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11757&extension=ts
+#EXTINF:0,RTL Passion HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11755&extension=ts
+#EXTINF:0,RTL Plus DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11754&extension=ts
+#EXTINF:0,Super RTL HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102696&extension=ts
+#EXTINF:0,Super RTL FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30562&extension=ts
+#EXTINF:0,VOX HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11753&extension=ts
+#EXTINF:0,Sat 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35984&extension=ts
+#EXTINF:0,3sat HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11748&extension=ts
+#EXTINF:0,Bild Live FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30563&extension=ts
+#EXTINF:0,DMAX HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202083&extension=ts
+#EXTINF:0,Dmax FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19519&extension=ts
+#EXTINF:0,N-TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11749&extension=ts
+#EXTINF:0,N24 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11750&extension=ts
+#EXTINF:0,Sonnenklar TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102694&extension=ts
+#EXTINF:0,DAZN Bar 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202079&extension=ts
+#EXTINF:0,DAZN Bar 1 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=26506&extension=ts
+#EXTINF:0,DAZN Bar 2 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=26505&extension=ts
+#EXTINF:0,DAZN Bar 1 2K DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=46200&extension=ts
+#EXTINF:0,DAZN Bar 2 2K DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=46201&extension=ts
+#EXTINF:0,Sky Sports F1 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=95251&extension=ts
+#EXTINF:0,Sky Sport 1 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11717&extension=ts
+#EXTINF:0,Sky Sport 2 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11716&extension=ts
+#EXTINF:0,Sky Sport 3 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30843&extension=ts
+#EXTINF:0,Sky Sport 4 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30842&extension=ts
+#EXTINF:0,Sky Sport 5 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30841&extension=ts
+#EXTINF:0,Sky Sport 6 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30840&extension=ts
+#EXTINF:0,Sky Sport 7 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30839&extension=ts
+#EXTINF:0,Sky Sport 8 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30838&extension=ts
+#EXTINF:0,Sky Sport 9 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30837&extension=ts
+#EXTINF:0,Sky Sport 10 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30836&extension=ts
+#EXTINF:0,Sky Sport 11 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30835&extension=ts
+#EXTINF:0,Sky Sport UHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=242539&extension=ts
+#EXTINF:0,Sky Sport Bundesliga 1 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11715&extension=ts
+#EXTINF:0,Sky Sport Bundesliga 2 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11714&extension=ts
+#EXTINF:0,Sky Sport Bundesliga 3 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11713&extension=ts
+#EXTINF:0,Sky Sport Bundesliga 4 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11712&extension=ts
+#EXTINF:0,Sky Sport Bundesliga 5 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11711&extension=ts
+#EXTINF:0,Sky Sport Bundesliga 6 DE FHD [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11710&extension=ts
+#EXTINF:0,Sky Sport Bundesliga 7 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11709&extension=ts
+#EXTINF:0,Sky Bundesliga UHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=242541&extension=ts
+#EXTINF:0,Sport 1 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42707&extension=ts
+#EXTINF:0,Sport 1+ HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=85897&extension=ts
+#EXTINF:0,Eurosport 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202085&extension=ts
+#EXTINF:0,Eurosport 1 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19521&extension=ts
+#EXTINF:0,Eurosport 2 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202086&extension=ts
+#EXTINF:0,Eurosport 2 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19522&extension=ts
+#EXTINF:0,Sky Sport News HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30834&extension=ts
+#EXTINF:0,Sky Sport Austria 1 FHD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=46204&extension=ts
+#EXTINF:0,Sky Sport Austria 2 FHD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=46205&extension=ts
+#EXTINF:0,Sky Sport Austria 3 FHD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=117804&extension=ts
+#EXTINF:0,Sky Sport Austria 4 FHD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=117805&extension=ts
+#EXTINF:0,-= Telekom Sport =-
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=28097&extension=ts
+#EXTINF:0,Telekom DEL Sport 1 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42200&extension=ts
+#EXTINF:0,Telekom DEL Sport 2 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42199&extension=ts
+#EXTINF:0,Telekom DEL Sport 3 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42198&extension=ts
+#EXTINF:0,Telekom DEL Sport 4 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42197&extension=ts
+#EXTINF:0,Telekom DEL Sport 5 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42196&extension=ts
+#EXTINF:0,Telekom DEL Sport 6 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42195&extension=ts
+#EXTINF:0,Telekom DEL Sport 7 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42194&extension=ts
+#EXTINF:0,Telekom Eishockey 1 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=28115&extension=ts
+#EXTINF:0,Telekom Eishockey 2 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=28116&extension=ts
+#EXTINF:0,Telekom Eishockey 3 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=28117&extension=ts
+#EXTINF:0,Telekom Eishockey 4 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=28118&extension=ts
+#EXTINF:0,Telekom Eishockey 5 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=28119&extension=ts
+#EXTINF:0,Telekom Eishockey 6 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=28120&extension=ts
+#EXTINF:0,Telekom Eishockey 7 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=28121&extension=ts
+#EXTINF:0,Telekom Magenta BBL Sport 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=110344&extension=ts
+#EXTINF:0,Telekom Magenta BBL Sport 2 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=110343&extension=ts
+#EXTINF:0,Telekom Magenta BBL Sport 3 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=110342&extension=ts
+#EXTINF:0,Telekom Magenta BBL Sport 4 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=110341&extension=ts
+#EXTINF:0,Telekom Magenta DEL Sport 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=110340&extension=ts
+#EXTINF:0,Telekom Magenta DEL Sport 2 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=110339&extension=ts
+#EXTINF:0,Telekom Magenta DEL Sport 3 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=110338&extension=ts
+#EXTINF:0,Telekom Magenta DEL Sport 4 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=110337&extension=ts
+#EXTINF:0,Telekom Magenta DEL Sport 5 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=112111&extension=ts
+#EXTINF:0,Telekom Magenta DEL Sport 6 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=112112&extension=ts
+#EXTINF:0,Telekom Magenta DEL Sport 7 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=112113&extension=ts
+#EXTINF:0,Telekom Sport BBL Sport 1 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42193&extension=ts
+#EXTINF:0,Telekom Sport BBL Sport 2 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42192&extension=ts
+#EXTINF:0,Telekom Sport BBL Sport 3 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42191&extension=ts
+#EXTINF:0,Telekom Sport BBL Sport 4 HD DE [nur Spiel Tag]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42190&extension=ts
+#EXTINF:0,Prime 1 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231386&extension=ts
+#EXTINF:0,Prime 1 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231385&extension=ts
+#EXTINF:0,Prime 2 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231388&extension=ts
+#EXTINF:0,Prime 2 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231387&extension=ts
+#EXTINF:0,Prime 3 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231390&extension=ts
+#EXTINF:0,Prime 3 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231389&extension=ts
+#EXTINF:0,Prime 4 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231392&extension=ts
+#EXTINF:0,Prime 4 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231391&extension=ts
+#EXTINF:0,Prime 5 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231394&extension=ts
+#EXTINF:0,Prime 5 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231393&extension=ts
+#EXTINF:0,Prime 6 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231396&extension=ts
+#EXTINF:0,Prime 6 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231395&extension=ts
+#EXTINF:0,Prime 7 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231398&extension=ts
+#EXTINF:0,Prime 7 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231397&extension=ts
+#EXTINF:0,Prime 8 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231400&extension=ts
+#EXTINF:0,Prime 8 FHD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=231399&extension=ts
+#EXTINF:0,RTL+ 1 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=232982&extension=ts
+#EXTINF:0,RTL+ 2 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=232983&extension=ts
+#EXTINF:0,RTL+ 3 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=232984&extension=ts
+#EXTINF:0,RTL+ 4 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=232985&extension=ts
+#EXTINF:0,RTL+ 5 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=232986&extension=ts
+#EXTINF:0,RTL+ 6 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=232987&extension=ts
+#EXTINF:0,RTL+ 7 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=232988&extension=ts
+#EXTINF:0,RTL+ 8 HD DE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=232989&extension=ts
+#EXTINF:0,Sky 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42709&extension=ts
+#EXTINF:0,Sky Action HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42710&extension=ts
+#EXTINF:0,Sky Atlantic HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42711&extension=ts
+#EXTINF:0,Sky Cinema 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42720&extension=ts
+#EXTINF:0,Sky Cinema 24 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42721&extension=ts
+#EXTINF:0,Sky Cinema Action FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11746&extension=ts
+#EXTINF:0,Sky Cinema Classics DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202094&extension=ts
+#EXTINF:0,Sky Cinema Family FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11744&extension=ts
+#EXTINF:0,Sky Cinema FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11747&extension=ts
+#EXTINF:0,Sky Cinema Hits HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42722&extension=ts
+#EXTINF:0,Sky Cinema Nostalgie HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42719&extension=ts
+#EXTINF:0,Sky Cinema Premieren +24 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202095&extension=ts
+#EXTINF:0,Sky Cinema Premieren +24 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202096&extension=ts
+#EXTINF:0,Sky Cinema Premieren FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202098&extension=ts
+#EXTINF:0,Sky Cinema Premieren HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202099&extension=ts
+#EXTINF:0,Sky Cinema Special HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202101&extension=ts
+#EXTINF:0,Sky Cinema Special FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202100&extension=ts
+#EXTINF:0,Sky Cinema Thriller HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202103&extension=ts
+#EXTINF:0,Sky Cinema Thriller FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202102&extension=ts
+#EXTINF:0,Sky Comedy DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11745&extension=ts
+#EXTINF:0,Sky Emotion DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11742&extension=ts
+#EXTINF:0,Sky Krimi HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11741&extension=ts
+#EXTINF:0,Sky Select 1 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30832&extension=ts
+#EXTINF:0,Sky Select 2 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30831&extension=ts
+#EXTINF:0,Sky Select 3 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30830&extension=ts
+#EXTINF:0,Sky Select 4 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30829&extension=ts
+#EXTINF:0,Sky Select 5 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30828&extension=ts
+#EXTINF:0,Sky Select 6 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30827&extension=ts
+#EXTINF:0,Sky Select 7 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30826&extension=ts
+#EXTINF:0,Sky Select 8 FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30825&extension=ts
+#EXTINF:0,13th Street HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19506&extension=ts
+#EXTINF:0,13th Street FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19507&extension=ts
+#EXTINF:0,Eagle Cinema Animation HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=92346&extension=ts
+#EXTINF:0,Eagle Cinema Geschichte HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=92349&extension=ts
+#EXTINF:0,Eagle Cinema Horror FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=92343&extension=ts
+#EXTINF:0,Eagle Cinema L�cheln HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=92348&extension=ts
+#EXTINF:0,Eagle Cinema Premiere FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=92342&extension=ts
+#EXTINF:0,Eagle Cinema Romantisch FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=92350&extension=ts
+#EXTINF:0,Eagle Cinema Sci-Fi FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=92345&extension=ts
+#EXTINF:0,Eagle Cinema Thriller FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=92344&extension=ts
+#EXTINF:0,PopCorn Select 1 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30713&extension=ts
+#EXTINF:0,PopCorn Select 2 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30712&extension=ts
+#EXTINF:0,PopCorn Select 3 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30711&extension=ts
+#EXTINF:0,PopCorn Select 4 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30710&extension=ts
+#EXTINF:0,PopCorn Select 5 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30709&extension=ts
+#EXTINF:0,PopCorn Select 6 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30708&extension=ts
+#EXTINF:0,Allg�u TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34963&extension=ts
+#EXTINF:0,Alpha HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35029&extension=ts
+#EXTINF:0,Animal Planet FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19509&extension=ts
+#EXTINF:0,ANIXE FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19510&extension=ts
+#EXTINF:0,Arte HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30844&extension=ts
+#EXTINF:0,Astro TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19511&extension=ts
+#EXTINF:0,Auto Motor Sport HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11721&extension=ts
+#EXTINF:0,AXN DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11737&extension=ts
+#EXTINF:0,AXN FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19504&extension=ts
+#EXTINF:0,Bergblick HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42717&extension=ts
+#EXTINF:0,Bon Gusto FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202097&extension=ts
+#EXTINF:0,Bon Gusto HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42718&extension=ts
+#EXTINF:0,Boomerang DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11731&extension=ts
+#EXTINF:0,BR HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202074&extension=ts
+#EXTINF:0,Cartoon Network DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19513&extension=ts
+#EXTINF:0,Cartoon Network FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19512&extension=ts
+#EXTINF:0,Classica DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19514&extension=ts
+#EXTINF:0,Comedy Central FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202076&extension=ts
+#EXTINF:0,Crime Investigation HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42716&extension=ts
+#EXTINF:0,Deluxe Music HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19515&extension=ts
+#EXTINF:0,Discovery Channel HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202081&extension=ts
+#EXTINF:0,Discovery Channel FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11722&extension=ts
+#EXTINF:0,Disney Channel HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11730&extension=ts
+#EXTINF:0,Disney Cinemagic FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19517&extension=ts
+#EXTINF:0,E! Entertainment HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202084&extension=ts
+#EXTINF:0,E! Entertainement FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19520&extension=ts
+#EXTINF:0,eSports One FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=95403&extension=ts
+#EXTINF:0,EuroNews Deutsch HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35008&extension=ts
+#EXTINF:0,FC Bayern TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34359&extension=ts
+#EXTINF:0,Folx TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19524&extension=ts
+#EXTINF:0,Geo TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42715&extension=ts
+#EXTINF:0,Health TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34895&extension=ts
+#EXTINF:0,Heimatkanal DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19526&extension=ts
+#EXTINF:0,History Channel FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11720&extension=ts
+#EXTINF:0,HR HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35023&extension=ts
+#EXTINF:0,Jukebox DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19528&extension=ts
+#EXTINF:0,Junior DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11726&extension=ts
+#EXTINF:0,Kabel Eins Classics FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202088&extension=ts
+#EXTINF:0,Kabel Eins Doku DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102601&extension=ts
+#EXTINF:0,Kabel Eins Doku FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19529&extension=ts
+#EXTINF:0,Kinowelt DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=19532&extension=ts
+#EXTINF:0,Kronehit TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34930&extension=ts
+#EXTINF:0,Light Channel HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34898&extension=ts
+#EXTINF:0,MDR FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=118465&extension=ts
+#EXTINF:0,MDR Th�ringen HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202090&extension=ts
+#EXTINF:0,Motorvision TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=85520&extension=ts
+#EXTINF:0,MTV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30824&extension=ts
+#EXTINF:0,MTV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34918&extension=ts
+#EXTINF:0,Musik One 2 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34922&extension=ts
+#EXTINF:0,Musik One HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34923&extension=ts
+#EXTINF:0,N24 Doku DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102671&extension=ts
+#EXTINF:0,Nat Geo Wild HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202091&extension=ts
+#EXTINF:0,Nat Geo Wild FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11724&extension=ts
+#EXTINF:0,National Geographic FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11723&extension=ts
+#EXTINF:0,NDR Hamburg DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35018&extension=ts
+#EXTINF:0,Nickelodeon HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11725&extension=ts
+#EXTINF:0,noa4 Hamburg HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34947&extension=ts
+#EXTINF:0,noa4 Norderstedt HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34946&extension=ts
+#EXTINF:0,Nrwision HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34997&extension=ts
+#EXTINF:0,Oberpfalz TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34956&extension=ts
+#EXTINF:0,OE24.TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35009&extension=ts
+#EXTINF:0,ORF 1 FHD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=25431&extension=ts
+#EXTINF:0,ORF 2 HD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=25430&extension=ts
+#EXTINF:0,ORF III HD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=25429&extension=ts
+#EXTINF:0,ORF Sport Plus HD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=25428&extension=ts
+#EXTINF:0,Phoenix HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35030&extension=ts
+#EXTINF:0,Pilatus Beatz TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34932&extension=ts
+#EXTINF:0,ProSieben Maxx DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102603&extension=ts
+#EXTINF:0,ProSieben Maxx FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11751&extension=ts
+#EXTINF:0,Radio Contact HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34915&extension=ts
+#EXTINF:0,Retro Music TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34907&extension=ts
+#EXTINF:0,RFO HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34964&extension=ts
+#EXTINF:0,Romance TV HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42708&extension=ts
+#EXTINF:0,Sachsen Fernsehen FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34987&extension=ts
+#EXTINF:0,Sat.1 Emotions FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202092&extension=ts
+#EXTINF:0,Servus TV HD AT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42702&extension=ts
+#EXTINF:0,SIXX FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202093&extension=ts
+#EXTINF:0,SIXX HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11733&extension=ts
+#EXTINF:0,Spiegel Geschichte DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202107&extension=ts
+#EXTINF:0,Spiegel TV Geschichte FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42712&extension=ts
+#EXTINF:0,Spiegel TV Wissen HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42713&extension=ts
+#EXTINF:0,Sportdigital Fussball FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202108&extension=ts
+#EXTINF:0,SR HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35025&extension=ts
+#EXTINF:0,SWR HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34926&extension=ts
+#EXTINF:0,SyFy HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11740&extension=ts
+#EXTINF:0,Tagesschau 24 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35031&extension=ts
+#EXTINF:0,Tele 5 DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=102705&extension=ts
+#EXTINF:0,TLC HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11732&extension=ts
+#EXTINF:0,TOGGO Plus DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=42705&extension=ts
+#EXTINF:0,TV HD DEM3 HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34931&extension=ts
+#EXTINF:0,TV Mainfranken W�rzburg HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34959&extension=ts
+#EXTINF:0,TV Oberfranken HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34958&extension=ts
+#EXTINF:0,U1 Tirol/ Tiroler Heimat HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34929&extension=ts
+#EXTINF:0,Universal HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11719&extension=ts
+#EXTINF:0,WB TV Comedy FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30823&extension=ts
+#EXTINF:0,WB TV Film FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=30822&extension=ts
+#EXTINF:0,WB TV Serie DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=11734&extension=ts
+#EXTINF:0,WDR Aachen HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202109&extension=ts
+#EXTINF:0,WDR Bielefeld HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202110&extension=ts
+#EXTINF:0,WDR Bonn HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202111&extension=ts
+#EXTINF:0,WDR Dortmund HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202112&extension=ts
+#EXTINF:0,WDR Duisburg HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202113&extension=ts
+#EXTINF:0,WDR D�sseldorf HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202114&extension=ts
+#EXTINF:0,WDR Essen HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202115&extension=ts
+#EXTINF:0,WDR HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35024&extension=ts
+#EXTINF:0,WDR M�nster HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202117&extension=ts
+#EXTINF:0,WDR Siegen HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202118&extension=ts
+#EXTINF:0,WDR Wuppertal HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202119&extension=ts
+#EXTINF:0,Welt Der Wunder TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202120&extension=ts
+#EXTINF:0,Welt HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=35010&extension=ts
+#EXTINF:0,Welt FHD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=202121&extension=ts
+#EXTINF:0,�cko HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34909&extension=ts
+#EXTINF:0,�cko Star HD DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=34908&extension=ts
+#EXTINF:0,Action Sports DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298341&extension=ts
+#EXTINF:0,Alle hassen Chris DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298236&extension=ts
+#EXTINF:0,Auction Hunters DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298235&extension=ts
+#EXTINF:0,Auto Motor Sport DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298320&extension=ts
+#EXTINF:0,Avatar DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298256&extension=ts
+#EXTINF:0,BBC Travel DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298318&extension=ts
+#EXTINF:0,Beat Club DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298314&extension=ts
+#EXTINF:0,Beverly Hills 90210 DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298251&extension=ts
+#EXTINF:0,Beyblade Burst DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298328&extension=ts
+#EXTINF:0,Blaze und die Monstermaschinen DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298327&extension=ts
+#EXTINF:0,Blue's Clues DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298331&extension=ts
+#EXTINF:0,Bubble Guppies DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298332&extension=ts
+#EXTINF:0,CC Made in Germany DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298301&extension=ts
+#EXTINF:0,CC Pluto TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298300&extension=ts
+#EXTINF:0,Chaos City DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298253&extension=ts
+#EXTINF:0,Cheers DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298252&extension=ts
+#EXTINF:0,Clubbing TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298313&extension=ts
+#EXTINF:0,Comedy Central South Park DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298255&extension=ts
+#EXTINF:0,Dark Matter DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298260&extension=ts
+#EXTINF:0,Doctor Who Classic DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298254&extension=ts
+#EXTINF:0,Dora TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298330&extension=ts
+#EXTINF:0,Ein Engel auf Erden DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298238&extension=ts
+#EXTINF:0,Emma, einfach magisch! DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298274&extension=ts
+#EXTINF:0,FailArmy DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298302&extension=ts
+#EXTINF:0,Focus TV Reportage DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298285&extension=ts
+#EXTINF:0,Glory Kickboxing DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298343&extension=ts
+#EXTINF:0,Goldstar TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298312&extension=ts
+#EXTINF:0,Hausmeister Krause DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298237&extension=ts
+#EXTINF:0,iCarly DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298271&extension=ts
+#EXTINF:0,Ice Pilots DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298267&extension=ts
+#EXTINF:0,IGN DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298344&extension=ts
+#EXTINF:0,Insight TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298268&extension=ts
+#EXTINF:0,Inspector Gadget DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298326&extension=ts
+#EXTINF:0,Just for Laughs DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298306&extension=ts
+#EXTINF:0,Minecraf TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298345&extension=ts
+#EXTINF:0,Motorvision TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298319&extension=ts
+#EXTINF:0,MOVIEDOME DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298245&extension=ts
+#EXTINF:0,MST3K DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298354&extension=ts
+#EXTINF:0,MTV Catfish TV Show DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298288&extension=ts
+#EXTINF:0,MTV Cribs DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298296&extension=ts
+#EXTINF:0,MTV Dating DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298352&extension=ts
+#EXTINF:0,MTV Dating DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298291&extension=ts
+#EXTINF:0,MTV Love Music DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298311&extension=ts
+#EXTINF:0,MTV Party DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298308&extension=ts
+#EXTINF:0,MTV Pluto TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298289&extension=ts
+#EXTINF:0,MTV Ridiculousness DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298297&extension=ts
+#EXTINF:0,MTV Serie DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298290&extension=ts
+#EXTINF:0,MTV Teen DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298351&extension=ts
+#EXTINF:0,MTV Teen Mom DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298293&extension=ts
+#EXTINF:0,MTV The Hills DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298353&extension=ts
+#EXTINF:0,MTV The Hills DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298294&extension=ts
+#EXTINF:0,MTV The Shores DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298295&extension=ts
+#EXTINF:0,MTV True Life DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298292&extension=ts
+#EXTINF:0,MTV Tu Fiesta Latina DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298307&extension=ts
+#EXTINF:0,MTV Unplugged DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298310&extension=ts
+#EXTINF:0,N1 Play Animals DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298278&extension=ts
+#EXTINF:0,N1 Play Anime DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298257&extension=ts
+#EXTINF:0,N1 Play Biografie DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298280&extension=ts
+#EXTINF:0,N1 Play Cats 24/7 DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298305&extension=ts
+#EXTINF:0,N1 Play Chefkoch DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298316&extension=ts
+#EXTINF:0,N1 Play Comedy DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298244&extension=ts
+#EXTINF:0,N1 Play Crime DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298264&extension=ts
+#EXTINF:0,N1 Play Documentaries DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298282&extension=ts
+#EXTINF:0,N1 Play Dogs DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298304&extension=ts
+#EXTINF:0,N1 Play Explore DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298284&extension=ts
+#EXTINF:0,N1 Play Fight DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298342&extension=ts
+#EXTINF:0,N1 Play Fitness DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298338&extension=ts
+#EXTINF:0,N1 Play Food DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298315&extension=ts
+#EXTINF:0,N1 Play History DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298279&extension=ts
+#EXTINF:0,N1 Play Home DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298317&extension=ts
+#EXTINF:0,N1 Play Indies DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298247&extension=ts
+#EXTINF:0,N1 Play Inside DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298281&extension=ts
+#EXTINF:0,N1 Play Kids DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298329&extension=ts
+#EXTINF:0,N1 Play Kultfilme DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298242&extension=ts
+#EXTINF:0,N1 Play liebt Elvis DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298234&extension=ts
+#EXTINF:0,N1 Play Live in Concert DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298309&extension=ts
+#EXTINF:0,N1 Play Lives DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298266&extension=ts
+#EXTINF:0,N1 Play Movies DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298239&extension=ts
+#EXTINF:0,N1 Play Mystery DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298261&extension=ts
+#EXTINF:0,N1 Play Nature DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298283&extension=ts
+#EXTINF:0,N1 Play Paranormal DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298263&extension=ts
+#EXTINF:0,N1 Play Power Frauen DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298233&extension=ts
+#EXTINF:0,N1 Play Retro Toons DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298258&extension=ts
+#EXTINF:0,N1 Play Romance DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298243&extension=ts
+#EXTINF:0,N1 Play Sci-Fi DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298240&extension=ts
+#EXTINF:0,N1 Play Serie DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298259&extension=ts
+#EXTINF:0,N1 Play Sitcoms DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298298&extension=ts
+#EXTINF:0,N1 Play Space DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298277&extension=ts
+#EXTINF:0,N1 Play Sports DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298334&extension=ts
+#EXTINF:0,N1 Play Star Trek DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298250&extension=ts
+#EXTINF:0,N1 Play Surf DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298337&extension=ts
+#EXTINF:0,N1 Play Thrillers DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298241&extension=ts
+#EXTINF:0,N1 Play True Crime DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298262&extension=ts
+#EXTINF:0,N1 Play Weddings DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298265&extension=ts
+#EXTINF:0,N1 Play Yoga DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298339&extension=ts
+#EXTINF:0,N24 Doku DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298286&extension=ts
+#EXTINF:0,Nick Jr. TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298333&extension=ts
+#EXTINF:0,Nick Rewind DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298275&extension=ts
+#EXTINF:0,Nick Space DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298324&extension=ts
+#EXTINF:0,Nick Spotlight DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298270&extension=ts
+#EXTINF:0,People are Awesome DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298269&extension=ts
+#EXTINF:0,Rifftrax DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298349&extension=ts
+#EXTINF:0,Sam & Cat DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298273&extension=ts
+#EXTINF:0,Simsalabim Sabrina DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298323&extension=ts
+#EXTINF:0,Slow TV DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298287&extension=ts
+#EXTINF:0,SpongeBob Schwammkopf DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298322&extension=ts
+#EXTINF:0,Strongman DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298340&extension=ts
+#EXTINF:0,Takeshi's Castle DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298299&extension=ts
+#EXTINF:0,Teen Nick DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298325&extension=ts
+#EXTINF:0,The Asylum Channel DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298246&extension=ts
+#EXTINF:0,The Pet Collective DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298303&extension=ts
+#EXTINF:0,Totally Turtles DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298276&extension=ts
+#EXTINF:0,Totally Turtles DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298350&extension=ts
+#EXTINF:0,Unbeaten Esports DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298346&extension=ts
+#EXTINF:0,Verbotene Liebe DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298248&extension=ts
+#EXTINF:0,Victorious DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298272&extension=ts
+#EXTINF:0,Waidwerk Free DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298336&extension=ts
+#EXTINF:0,Wer ist hier der Boss? DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298249&extension=ts
+#EXTINF:0,Wipeout DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298348&extension=ts
+#EXTINF:0,World Poker Tour DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://uhdtv.one:2095/play/live.php?mac=00:1A:79:10:B9:61&stream=298335&extension=ts
