@@ -1,0 +1,89 @@
+#EXTINF:-1,PRIMA COMEDY
+http://84.17.61.203:8086/udp/229.157.21.26:1234
+#EXTINF:-1,Digi Sport 1
+http://84.17.61.203:8086/udp/238.2.25.79:1234
+#EXTINF:-1,Digi Sport 2
+http://84.17.61.203:8086/udp/238.2.25.78:1234
+#EXTINF:-1,Digi Sport 3
+http://84.17.61.203:8086/udp/238.2.25.90:1234
+#EXTINF:-1,HBO Ro
+http://84.17.61.203:8086/udp/238.2.25.63:1234
+#EXTINF:-1,HBO2 RO
+http://84.17.61.203:8086/udp/238.2.25.88:1234
+#EXTINF:-1,Super One
+http://84.17.61.203:8086/udp/238.2.25.83:1234
+#EXTINF:-1 tvg-id=\"2317\" tvg-name=\"Zu TV RO\" group-title=\"Romania\",Zu TV RO
+http://srv1.roshen.live/gFp9a8aQ8T/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2540\" tvg-name=\"ZU TV HD RO\" group-title=\"Romania\",ZU TV HD RO
+http://srv1.roshen.live/YAQ3mOBGzP/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2311\" tvg-name=\"Etno TV HD RO\" group-title=\"Romania\",Etno TV HD RO
+http://srv1.roshen.live/bkUC5FHzTb/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2804\" tvg-name=\"Acasa Gold RO\" group-title=\"Romania\",Acasa Gold RO
+http://srv1.roshen.live/TMqNKiY0wW/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2088\" tvg-name=\"Acasa RO\" group-title=\"Romania\",Acasa RO
+http://srv1.roshen.live/KDK9W07veK/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2330\" tvg-name=\"Pro TV HD\" group-title=\"Romania\",Pro TV HD
+http://srv1.roshen.live/Wv6mKGESil/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2586\" tvg-name=\"LookTV ro\" group-title=\"Romania\",LookTV ro
+http://srv1.roshen.live/JsAlHpfZRq/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2108\" tvg-name=\"Antena Stars RO\" group-title=\"Romania\",Antena Stars RO
+http://srv1.roshen.live/quDJ7yuyK0/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2340\" tvg-name=\"B1 RO\" group-title=\"Romania\",B1 RO
+http://srv1.roshen.live/swb59pyyGs/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2795\" tvg-name=\"Prima TV RO\" group-title=\"Romania\",Prima TV RO
+http://srv1.roshen.live/wUjV5o09Y1/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2943\" tvg-name=\"Kanal D HD RO\" group-title=\"Romania\",Kanal D HD RO
+http://srv1.roshen.live/2ynGsfIEYO/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2944\" tvg-name=\"Magic TV HD RO\" group-title=\"Romania\",Magic TV HD RO
+http://srv1.roshen.live/vDMbAZ3T2M/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2094\" tvg-name=\"Music Channel RO\" group-title=\"Romania\",Music Channel RO
+http://srv1.roshen.live/ECpw428xnX/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2773\" tvg-name=\"Happy Channel RO\" group-title=\"Romania\",Happy Channel RO
+http://srv1.roshen.live/dQBd2mpUuZ/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3093\" tvg-name=\"UTV HD RO\" group-title=\"Moldova\",UTV HD RO
+http://srv1.roshen.live/qgYggmbtZg/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3099\" tvg-name=\"o-la-la\" group-title=\"Для взрослых\",o-la-la
+http://srv1.roshen.live/hbi7F8A78u/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2353\" tvg-name=\"Penthouse Gold HD\" group-title=\"Для взрослых\",Penthouse Gold HD
+http://srv1.roshen.live/HZwGU796tJ/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2593\" tvg-name=\"Penthouse Quickies HD\" group-title=\"Для взрослых\",Penthouse Quickies HD
+http://srv1.roshen.live/Xh9A5wibBk/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2823\" tvg-name=\"Hustler Blue (Ночной канал)\" group-title=\"Для взрослых\",Hustler Blue (Ночной канал)
+http://srv1.roshen.live/70s5oC8mvp/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2126\" tvg-name=\"Hustler HD\" group-title=\"Для взрослых\",Hustler HD
+http://srv1.roshen.live/nVJI3fCpKr/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2339\" tvg-name=\"Hustler\" group-title=\"Для взрослых\",Hustler
+http://srv1.roshen.live/X8QBMEuLLK/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2583\" tvg-name=\"Brazzers TV Europe\" group-title=\"Для взрослых\",Brazzers TV Europe
+http://srv1.roshen.live/85RloAZe65/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2164\" tvg-name=\"Passion XXX\" group-title=\"Для взрослых\",Passion XXX
+http://srv1.roshen.live/L5aNEFPFZx/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"1939\" tvg-name=\"Private TV\" group-title=\"Для взрослых\",Private TV
+http://srv1.roshen.live/WM8YyE7uxi/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3095\" tvg-name=\"Private TV HD\" group-title=\"Для взрослых\",Private TV HD
+http://srv1.roshen.live/jmThn9vXE8/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3260\" tvg-name=\"Dorcel HD\" group-title=\"Для взрослых\",Dorcel HD
+http://srv1.roshen.live/krGN98f206/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2656\" tvg-name=\"Redlight HD\" group-title=\"Для взрослых\",Redlight HD
+http://srv1.roshen.live/VFFyc8FxuQ/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3097\" tvg-name=\"Vivid Red HD\" group-title=\"Для взрослых\",Vivid Red HD
+http://srv1.roshen.live/pkaubO83NR/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"1976\" tvg-name=\"Playboy TV\" group-title=\"Для взрослых\",Playboy TV
+http://srv1.roshen.live/IFfxFjMFXO/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"2263\" tvg-name=\"SuperOne RO\" group-title=\"Для взрослых\",SuperOne RO
+http://srv1.roshen.live/qKRAxEHQjQ/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3082\" tvg-name=\"Erox\" group-title=\"Для взрослых\",Erox
+http://srv1.roshen.live/bTwBCpeM8k/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3043\" tvg-name=\"Babes TV HD\" group-title=\"Для взрослых\",Babes TV HD
+http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3225\" tvg-name=\"XXXL\" group-title=\"Для взрослых\",XXXL
+http://srv1.roshen.live/iAi0iQD4hL/mpegts?token=RCUd6QA9AY4apTsy
+#EXTINF:-1 tvg-id=\"3261\" tvg-name=\"EXXXOTICA HD\" group-title=\"Для взрослых\",EXXXOTICA HD
+http://srv1.roshen.live/8HHANhuOQc/mpegts?token=RCUd6QA9AY4apTsy
+#EXTM3U
+#EXTINF:-1,Brazzers HD
+http://84.17.61.203:8086/udp/229.157.5.203:1234
+#EXTINF:-1,Vivid Red
+http://84.17.61.203:8086/udp/229.157.5.208:1234
+#EXTINF:-1,Private HD
+http://84.17.61.203:8086/udp/229.157.5.219:1234
