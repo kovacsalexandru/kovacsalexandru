@@ -1,0 +1,264 @@
+#EXTM3U
+#EXTINF:0 tvg-id="RTLKlub.hu" group-title="DIGI",RTL Klub HD
+http://193.226.196.2:54685/udp/239.1.10.127:2000
+#EXTINF:0 tvg-id="tv2.hu" group-title="DIGI",TV2 HD
+http://193.226.196.2:54685/udp/239.1.10.17:2000
+#EXTINF:0 tvg-id="SuperTV2.hu" group-title="DIGI",SuperTV2 HD
+http://193.226.196.2:54685/udp/239.1.10.113:2000
+#EXTINF:0 tvg-id="FilmPlus.hu" group-title="DIGI",FILM+ HD
+http://193.226.196.2:54685/udp/239.1.10.126:2000
+#EXTINF:0 tvg-id="MoziPlus.hu" group-title="DIGI",MOZI+
+http://193.226.196.2:54685/udp/239.1.10.64:2000
+#EXTINF:0 tvg-id="Moziverzum.hu" group-title="DIGI",MOZIVERZUM
+http://193.226.196.2:54685/udp/239.1.10.158:2000
+#EXTINF:0 tvg-id="HBO.hu" group-title="DIGI",HBO
+http://193.226.196.2:54685/udp/239.1.10.37:2000
+#EXTINF:0 tvg-id="HBO2.hu" group-title="DIGI",HBO2
+http://193.226.196.2:54685/udp/239.1.10.38:2000
+#EXTINF:0 tvg-id="HBO3.hu" group-title="DIGI",HBO3
+http://193.226.196.2:54685/udp/239.1.10.39:2000
+#EXTINF:0 tvg-id="Cinemax.hu" group-title="DIGI",Cinemax
+http://193.226.196.2:54685/udp/239.1.10.40:2000
+#EXTINF:0 tvg-id="FilmboxExtra.hu" group-title="DIGI",FILMBOX EXTRA HD
+http://193.226.196.2:54685/udp/239.1.10.174:2000
+#EXTINF:0 tvg-id="FilmBoxStars.hu" group-title="DIGI",FILMBOX Stars
+http://193.226.196.2:54685/udp/239.1.10.175:2000
+#EXTINF:0 tvg-id="FilmboxFamily.hu" group-title="DIGI",FILMBOX Premium
+http://193.226.196.2:54685/udp/239.1.10.176:2000
+#EXTINF:0 tvg-id="FilmboxPremium.hu" group-title="DIGI",FILMBOX Family
+http://193.226.196.2:54685/udp/239.1.10.177:2000
+#EXTINF:0 tvg-id="ParamountChannel.hu" group-title="DIGI",Paramount Network
+http://193.226.196.2:54685/udp/239.1.10.119:2000
+#EXTINF:0 tvg-id="FilmCafe.hu" group-title="DIGI",FILM CAFE
+http://193.226.196.2:54685/udp/239.1.10.136:2000
+#EXTINF:0 tvg-id="AMC.hu" group-title="DIGI",AMC
+http://193.226.196.2:54685/udp/239.1.10.139:2000
+#EXTINF:0 tvg-id="AXN.hu" group-title="DIGI",AXN
+http://193.226.196.2:54685/udp/239.1.10.132:2000
+#EXTINF:0 tvg-id="RTL2.hu" group-title="DIGI",RTL 2 HD
+http://193.226.196.2:54685/udp/239.1.10.124:2000
+#EXTINF:0 tvg-id="Cool.hu" group-title="DIGI",COOL TV HD
+http://193.226.196.2:54685/udp/239.1.10.125:2000
+#EXTINF:0 tvg-id="Viasat3.hu" group-title="DIGI",VIASAT 3
+http://193.226.196.2:54685/udp/239.1.10.16:2000
+#EXTINF:0 tvg-id="VIASAT6.hu" group-title="DIGI",VIASAT 6
+http://193.226.196.2:54685/udp/239.1.10.79:2000
+#EXTINF:0 tvg-id="ViasatFilm.hu" group-title="DIGI",VIASAT FILM
+http://193.226.196.2:54685/udp/239.1.10.117:2000
+#EXTINF:0 tvg-id="Viasat2.hu" group-title="DIGI",VIASAT2
+http://193.226.196.2:54685/udp/239.1.10.118:2000
+#EXTINF:0 tvg-id="Prime.hu" group-title="DIGI",PRIME
+http://193.226.196.2:54685/udp/239.1.10.63:2000
+#EXTINF:0 tvg-id="Spektrum.hu" group-title="DIGI",SPEKTRUM HD
+http://193.226.196.2:54685/udp/239.1.10.165:2000
+#EXTINF:0 tvg-id="HISTORY.hu" group-title="DIGI",History HD
+http://193.226.196.2:54685/udp/239.1.10.116:2000
+#EXTINF:0 tvg-id="BBCEarth.hu" group-title="DIGI",BBC earth HD
+http://87.118.164.52:8888/udp/238.194.3.4:5501
+#EXTINF:0 tvg-id="BBCEarth.hu" group-title="DIGI",BBC earth
+http://193.226.196.2:54685/udp/239.1.10.106:2000
+#EXTINF:0 tvg-id="NationalGeographic.hu" group-title="DIGI",NATIONAL GEOGRAPHIC HD
+http://193.226.196.2:54685/udp/239.1.10.57:2000
+#EXTINF:0 tvg-id="NatGeoWild.hu" group-title="DIGI",NAT GEO WILD HD
+http://193.226.196.2:54685/udp/239.1.10.60:2000
+#EXTINF:0 tvg-id="ViasatHistory.hu" group-title="DIGI",VIASAT HISTORY
+http://193.226.196.2:54685/udp/239.1.10.78:2000
+#EXTINF:0 tvg-id="ViasatExplorer.hu" group-title="DIGI",VIASAT EXPLORE
+http://193.226.196.2:54685/udp/239.1.10.28:2000
+#EXTINF:0 tvg-id="ViasatNature.hu" group-title="DIGI",VIASAT NATURE HD
+http://193.226.196.2:54685/udp/239.1.10.65:2000
+#EXTINF:0 tvg-id="DiscoveryChannel.hu" group-title="DIGI",DISCOVERY CHANNEL
+http://193.226.196.2:54685/udp/239.1.10.150:2000
+#EXTINF:0 tvg-id="IDXtra.hu" group-title="DIGI",ID HD
+http://193.226.196.2:54685/udp/239.1.10.70:2000
+#EXTINF:0 tvg-id="TravelChannel.hu" group-title="DIGI",Travel CHANNEL
+http://193.226.196.2:54685/udp/239.1.10.104:2000
+#EXTINF:0 tvg-id="Lifenetwork.hu" group-title="DIGI",LIFE NETWORK
+http://193.226.196.2:54685/udp/239.1.10.90:2000
+#EXTINF:0 tvg-id="TLC.hu" group-title="DIGI",TLC
+http://193.226.196.2:54685/udp/239.1.10.151:2000
+#EXTINF:0 tvg-id="AnimalPlanet.hu" group-title="DIGI",Animal Planet HD
+http://193.226.196.2:54685/udp/239.1.10.102:2000
+#EXTINF:0 tvg-id="HGTV.hu" group-title="DIGI",HGTV
+http://193.226.196.2:54685/udp/239.1.10.162:2000
+#EXTINF:0 tvg-id="SpektrumHome.hu" group-title="DIGI",SPEKTRUM HOME
+http://193.226.196.2:54685/udp/239.1.10.166:2000
+#EXTINF:0 tvg-id="Cbsreality.hu" group-title="DIGI",CBS Reality
+http://87.118.164.52:8888/udp/238.194.13.1:5501
+#EXTINF:0 tvg-id="FishingHunting.hu" group-title="DIGI",FISHING AND HUNTING HD
+http://193.226.196.2:54685/udp/239.1.10.67:2000
+#EXTINF:0 tvg-id="TVPaprika.hu" group-title="DIGI",TV PAPRIKA
+http://193.226.196.2:54685/udp/239.1.10.35:2000
+#EXTINF:0 tvg-id="TV2Séf.hu" group-title="DIGI",TV2 Sef
+http://193.226.196.2:54685/udp/239.1.10.147:2000
+#EXTINF:0 tvg-id="FoodNetwork.hu" group-title="DIGI",Food Network
+http://193.226.196.2:54685/udp/239.1.10.173:2000
+#EXTINF:0 tvg-id="DaVinciLearning.hu" group-title="DIGI",DA VINCI LEARNING
+http://193.226.196.2:54685/udp/239.1.10.141:2000
+#EXTINF:0 tvg-id="M4Sport.hu" group-title="DIGI",M4 Sport HD
+http://193.226.196.2:54685/udp/239.1.10.135:2000
+#EXTINF:0 tvg-id="Arena4.hu" group-title="DIGI",ARENA4 HD
+http://193.226.196.2:54685/udp/239.1.10.62:2000
+#EXTINF:0 tvg-id="Match4.hu" group-title="DIGI",MATCH4 HD
+http://193.226.196.2:54685/udp/239.1.10.19:2000
+#EXTINF:0 tvg-id="SpilerTV.hu" group-title="DIGI",SPILER
+http://193.226.196.2:54685/udp/239.1.10.154:2000
+#EXTINF:0 tvg-id="SpilerTV2.hu" group-title="DIGI",SPILER 2
+http://193.226.196.2:54685/udp/239.1.10.155:2000
+#EXTINF:0 tvg-id="Sport1.hu" group-title="DIGI",SPORT1 HD
+http://193.226.196.2:54685/udp/239.1.10.109:2000
+#EXTINF:0 tvg-id="Sport2.hu" group-title="DIGI",SPORT2 HD
+http://193.226.196.2:54685/udp/239.1.10.167:2000
+#EXTINF:0 tvg-id="Eurosport1.hu" group-title="DIGI",Eurosport HD
+http://193.226.196.2:54685/udp/239.1.10.120:2000
+#EXTINF:0 tvg-id="Eurosport2.hu" group-title="DIGI",Eurosport 2 HD
+http://193.226.196.2:54685/udp/239.1.10.121:2000
+#EXTINF:0 tvg-id="KiwiTV.hu" group-title="DIGI",TV2 Kids
+http://193.226.196.2:54685/udp/239.1.10.148:2000
+#EXTINF:0 tvg-id="Minimax.hu" group-title="DIGI",MINIMAX
+http://193.226.196.2:54685/udp/239.1.10.26:2000
+#EXTINF:0 tvg-id="JimJam.hu" group-title="DIGI",JIM JAM
+http://193.226.196.2:54685/udp/239.1.10.46:2000
+#EXTINF:0 tvg-id="CartoonNetworkTCM.hu" group-title="DIGI",CARTOON NETWORK
+http://193.226.196.2:54685/udp/239.1.10.74:2000
+#EXTINF:0 tvg-id="Boomerang.hu" group-title="DIGI",BOOMERANG
+http://193.226.196.2:54685/udp/239.1.10.87:2000
+#EXTINF:0 tvg-id="DisneyChannel.hu" group-title="DIGI",DISNEY CHANNEL
+http://193.226.196.2:54685/udp/239.1.10.88:2000
+#EXTINF:0 tvg-id="TeenNick.hu" group-title="DIGI",TEEN NICK
+http://193.226.196.2:54685/udp/239.1.10.153:2000
+#EXTINF:0 tvg-id="Nicktoons.hu" group-title="DIGI",NICK TOONS
+http://193.226.196.2:54685/udp/239.1.10.112:2000
+#EXTINF:0 tvg-id="NickJr.hu" group-title="DIGI",NICK JR
+http://193.226.196.2:54685/udp/239.1.10.140:2000
+#EXTINF:0 tvg-id="Nickelodeon.hu" group-title="DIGI",NICKELODEON
+http://193.226.196.2:54685/udp/239.1.10.105:2000
+#EXTINF:0 tvg-id="Ducktv.hu" group-title="DIGI",duck tv
+http://193.226.196.2:54685/udp/239.1.10.97:2000
+#EXTINF:0 tvg-id="IzauraTV.hu" group-title="DIGI",IZAURA TV
+http://193.226.196.2:54685/udp/239.1.10.145:2000
+#EXTINF:0 tvg-id="JockyTV.hu" group-title="DIGI",JOCKY TV
+http://193.226.196.2:54685/udp/239.1.10.159:2000
+#EXTINF:0 tvg-id="EpicDrama.hu" group-title="DIGI",EPIC DRAMA HD
+http://193.226.196.2:54685/udp/239.1.10.163:2000
+#EXTINF:0 tvg-id="Humor+.hu" group-title="DIGI",TV2 COMEDY
+http://193.226.196.2:54685/udp/239.1.10.146:2000
+#EXTINF:0 tvg-id="ComedyCentral.hu" group-title="DIGI",Comedy Central
+http://193.226.196.2:54685/udp/239.1.10.114:2000
+#EXTINF:0 tvg-id="ComedyCentralFamily.hu" group-title="DIGI",COMEDY CENTRAL FAMILY
+http://193.226.196.2:54685/udp/239.1.10.59:2000
+#EXTINF:0 tvg-id="Sorozat.hu" group-title="DIGI",SOROZAT +
+http://193.226.196.2:54685/udp/239.1.10.128:2000
+#EXTINF:0 tvg-id="Film4.hu" group-title="DIGI",FILM 4
+http://193.226.196.2:54685/udp/239.1.10.164:2000
+#EXTINF:0 tvg-id="Galaxy.hu" group-title="DIGI",GALAXY 4
+http://193.226.196.2:54685/udp/239.1.10.133:2000
+#EXTINF:0 tvg-id="STORY4.hu" group-title="DIGI",STORY 4
+http://193.226.196.2:54685/udp/239.1.10.85:2000
+#EXTINF:0 tvg-id="TV4.hu" group-title="DIGI",TV 4
+http://193.226.196.2:54685/udp/239.1.10.34:2000
+#EXTINF:0 tvg-id="RTLplus.hu" group-title="DIGI",RTL +
+http://193.226.196.2:54685/udp/239.1.10.86:2000
+#EXTINF:0 tvg-id="RTLGold.hu" group-title="DIGI",RTL GOLD
+http://193.226.196.2:54685/udp/239.1.10.129:2000
+#EXTINF:0 tvg-id="MagyarATV.hu" group-title="DIGI",ATV HD
+http://193.226.196.2:54685/udp/239.1.10.152:2000
+#EXTINF:0 tvg-id="ATVSpirit.hu" group-title="DIGI",ATV SPIRIT HD
+http://193.226.196.2:54685/udp/239.1.10.161:2000
+#EXTINF:0 tvg-id="HirTV.hu" group-title="DIGI",HIR TV
+http://193.226.196.2:54685/udp/239.1.10.23:2000
+#EXTINF:0 tvg-id="m1.hu" group-title="DIGI",M1 HD
+http://193.226.196.2:54685/udp/239.1.10.1:2000
+#EXTINF:0 tvg-id="m2.hu" group-title="DIGI",M2 HD
+http://193.226.196.2:54685/udp/239.1.10.2:2000
+#EXTINF:0 tvg-id="Duna2.hu" group-title="DIGI",DUNA WORLD HD
+http://193.226.196.2:54685/udp/239.1.10.4:2000
+#EXTINF:0 tvg-id="Duna.hu" group-title="DIGI",DUNA HD
+http://193.226.196.2:54685/udp/239.1.10.3:2000
+#EXTINF:0 tvg-id="ext" group-title="DIGI",D1 KONCERTEK
+http://193.226.196.2:54685/udp/239.1.10.6:2000
+#EXTINF:0 tvg-id="PAXTV.hu" group-title="DIGI",PAX
+http://193.226.196.2:54685/udp/239.1.10.10:2000
+#EXTINF:0 tvg-id="Hatoscsatorna.hu" group-title="DIGI",HATOS CSATORNA
+http://193.226.196.2:54685/udp/239.1.10.11:2000
+#EXTINF:0 tvg-id="Duna2.hu" group-title="DIGI",DUNA WORLD
+http://193.226.196.2:54685/udp/239.1.10.12:2000
+#EXTINF:0 tvg-id="ext" group-title="DIGI",Jazz TV
+http://193.226.196.2:54685/udp/239.1.10.11:2000
+#EXTINF:0 tvg-id="DikhTV.hu" group-title="DIGI",DIKH TV
+http://193.226.196.2:54685/udp/239.1.10.156:2000
+#EXTINF:0 tvg-id="DikhTV.hu" group-title="DIGI",DIKH TV HD
+http://193.226.196.2:54685/udp/239.1.10.157:2000
+#EXTINF:0 tvg-id="MTV00s.eu" group-title="DIGI",MTV 00S
+http://193.226.196.2:54685/udp/239.1.10.58:2000
+#EXTINF:0 tvg-id="MuzsikaTV.hu" group-title="DIGI",MUZSIKA TV
+http://193.226.196.2:54685/udp/239.1.10.130:2000
+#EXTINF:0 tvg-id="SlagerTV.hu" group-title="DIGI",SLAGER TV
+http://193.226.196.2:54685/udp/239.1.10.89:2000
+#EXTINF:0 tvg-id="Zenebutik.hu" group-title="DIGI",ZENEBUTIK
+http://193.226.196.2:54685/udp/239.1.10.149:2000
+#EXTINF:0 tvg-id="MTVHungary.hu" group-title="DIGI",MTV HUNGARY
+http://193.226.196.2:54685/udp/239.1.10.66:2000
+#EXTINF:0 tvg-id="Mezzo.hu" group-title="DIGI",MEZZO
+http://193.226.196.2:54685/udp/239.1.10.107:2000
+#EXTINF:0 tvg-id="RTL.de" group-title="DIGI",RTL DE
+http://193.226.196.2:54685/udp/239.1.10.42:2000
+#EXTINF:0 tvg-id="Pro7.at" group-title="DIGI",PRO SIEBEN
+http://193.226.196.2:54685/udp/239.1.10.82:2000
+#EXTINF:0 tvg-id="ZDF.de" group-title="DIGI",ZDF
+http://193.226.196.2:54685/udp/239.1.10.45:2000
+#EXTINF:0 tvg-id="Sat1.de" group-title="DIGI",SAT 1
+http://193.226.196.2:54685/udp/239.1.10.55:2000
+#EXTINF:0 tvg-id="MagyarATV.hu" group-title="DIGI",ATV
+http://193.226.196.2:54685/udp/239.1.10.22:2000
+#EXTINF:0 tvg-id="Cool.hu" group-title="DIGI",COOL TV
+http://193.226.196.2:54685/udp/239.1.10.24:2000
+#EXTINF:0 tvg-id="FilmPlus.hu" group-title="DIGI",FILM+
+http://193.226.196.2:54685/udp/239.1.10.25:2000
+#EXTINF:0 tvg-id="Skynewsenglish.hu" group-title="DIGI",SKY NEWS
+http://193.226.196.2:54685/udp/239.1.10.30:2000
+#EXTINF:0 tvg-id="CCTV-4.us" group-title="DIGI",CCTV4
+http://193.226.196.2:54685/udp/239.1.10.47:2000
+#EXTINF:0 tvg-id="Cnnenglish.hu" group-title="DIGI",CNN
+http://193.226.196.2:54685/udp/239.1.10.49:2000
+#EXTINF:0 tvg-id="Bloombergenglish.hu" group-title="DIGI",BLOOMBERG
+http://193.226.196.2:54685/udp/239.1.10.50:2000
+#EXTINF:0 tvg-id="Fix.hu" group-title="DIGI",FIX TV
+http://193.226.196.2:54685/udp/239.1.10.52:2000
+#EXTINF:0 tvg-id="PROTV.ro" group-title="DIGI",PRO TV
+http://193.226.196.2:54685/udp/239.1.10.54:2000
+#EXTINF:0 tvg-id="NationalGeographic.hu" group-title="DIGI",NATIONAL GEOGRAPHIC
+http://193.226.196.2:54685/udp/239.1.10.77:2000
+#EXTINF:0 tvg-id="Rai1.it" group-title="DIGI",RAI 1
+http://193.226.196.2:54685/udp/239.1.10.83:2000
+#EXTINF:0 tvg-id="Spektrum.hu" group-title="DIGI",Spektrum
+http://193.226.196.2:54685/udp/239.1.10.91:2000
+#EXTINF:0 tvg-id="TVE.sp" group-title="DIGI",TVE
+http://193.226.196.2:54685/udp/239.1.10.94:2000
+#EXTINF:0 tvg-id="FishingHunting.hu" group-title="DIGI",Fishing Hunting
+http://193.226.196.2:54685/udp/239.1.10.98:2000
+#EXTINF:0 tvg-id="HISTORY.hu" group-title="DIGI",HISTORY
+http://193.226.196.2:54685/udp/239.1.10.99:2000
+#EXTINF:0 tvg-id="NatGeoWild.hu" group-title="DIGI",Nat Geo Wild
+http://193.226.196.2:54685/udp/239.1.10.103:2000
+#EXTINF:0 tvg-id="Sport1.hu" group-title="DIGI",SPORT 1
+http://193.226.196.2:54685/udp/239.1.10.108:2000
+#EXTINF:0 tvg-id="ext" group-title="DIGI",MOSON TV
+http://193.226.196.2:54685/udp/239.1.10.122:2000
+#EXTINF:0 tvg-id="M4Sport.hu" group-title="DIGI",M4
+http://193.226.196.2:54685/udp/239.1.10.134:2000
+#EXTINF:0 tvg-id="m5.hu" group-title="DIGI",M5
+http://193.226.196.2:54685/udp/239.1.10.142:2000
+#EXTINF:0 tvg-id="m5.hu" group-title="DIGI",M5
+http://193.226.196.2:54685/udp/239.1.10.143:2000
+#EXTINF:0 tvg-id="Fem3.hu" group-title="DIGI",FEM 3
+http://193.226.196.2:54685/udp/239.1.10.144:2000
+#EXTINF:0 tvg-id="Arena4.hu" group-title="DIGI",Arena 4
+http://193.226.196.2:54685/udp/239.1.10.169:2000
+#EXTINF:0 tvg-id="ViasatNature.hu" group-title="DIGI",VIASAT NATURE
+http://193.226.196.2:54685/udp/239.1.10.53:2000
+#EXTINF:0 tvg-id="Bonumtv.hu" group-title="DIGI",Bonum TV EWTN
+http://193.226.196.2:54685/udp/239.1.10.170:2000
+
+
+
