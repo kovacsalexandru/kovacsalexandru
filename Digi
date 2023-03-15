@@ -1,0 +1,21 @@
+http://193.226.196.2:54685/udp/239.1.10.99:2000
+#EXTINF:0 tvg-id="NatGeoWild.hu" group-title="DIGI",Nat Geo Wild
+http://193.226.196.2:54685/udp/239.1.10.103:2000
+#EXTINF:0 tvg-id="Sport1.hu" group-title="DIGI",SPORT 1
+http://193.226.196.2:54685/udp/239.1.10.108:2000
+#EXTINF:0 tvg-id="ext" group-title="DIGI",MOSON TV
+http://193.226.196.2:54685/udp/239.1.10.122:2000
+#EXTINF:0 tvg-id="M4Sport.hu" group-title="DIGI",M4
+http://193.226.196.2:54685/udp/239.1.10.134:2000
+#EXTINF:0 tvg-id="m5.hu" group-title="DIGI",M5
+http://193.226.196.2:54685/udp/239.1.10.142:2000
+#EXTINF:0 tvg-id="m5.hu" group-title="DIGI",M5
+http://193.226.196.2:54685/udp/239.1.10.143:2000
+#EXTINF:0 tvg-id="Fem3.hu" group-title="DIGI",FEM 3
+http://193.226.196.2:54685/udp/239.1.10.144:2000
+#EXTINF:0 tvg-id="Arena4.hu" group-title="DIGI",Arena 4
+http://193.226.196.2:54685/udp/239.1.10.169:2000
+#EXTINF:0 tvg-id="ViasatNature.hu" group-title="DIGI",VIASAT NATURE
+http://193.226.196.2:54685/udp/239.1.10.53:2000
+#EXTINF:0 tvg-id="Bonumtv.hu" group-title="DIGI",Bonum TV EWTN
+http://193.226.196.2:54685/udp/239.1.10.170:2000
