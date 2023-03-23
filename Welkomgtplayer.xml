@@ -1,0 +1,38 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<winsat>
+<gtplayer>
+<!--  是否显示广告  -->
+<!-- <enable>true</enable> -->
+<!--  0表示全部不显示；1表示winsat设备显示；2表示全部显示；3表示非winsat设备显示 -->
+<device_model>3</device_model>
+<!--  版本号  -->
+<version>3</version>
+<!--  position标记当前广告的位置，LAUNCHER表示启动页；PLAYER表示播放节目前显示；  -->
+<!--  enable属性true表示启动广告，false表示关闭广告  -->
+<!--  type属性表示广告的类型，PIC表示图片；VIDEO表示视频  -->
+<ad type="PIC" position="WELCOME" enable="true" duration="5000">
+<pictures>
+<!--  duration表示显示的时间  -->
+<item path="https://ibb.co/qmLv2dX" md5="0d85f2e1052a393ba702de6d8676b953" name="qmLv2dX" duration="5000"/>
+<!--        
+ 		<item path="http://www.gtmedia.tv:8080/gtplayer/ad_welcome1.png" md5="eb3113f31548f09d3cbeb372f0f544f0" name="ad_welcome1.png" duration="1500"/>
+          -->
+</pictures>
+</ad>
+<!--  播放节目前的广告暂时不可用 -->
+<ad type="VIDEO" position="PLAYER" enable="false">
+<videos>
+<item path="http://www.gtmedia.tv:8080/gtplayer/ad_video.mp4" name="ad_video.mp4"/>
+<item path="http://www.gtmedia.tv:8080/gtplayer/ad_video1.mp4" name="ad_video1.mp4"/>
+</videos>
+</ad>
+<ad type="VIDEO" position="WELCOME" enable="false" duration="4000">
+<videos>
+<item path="http://www.gtmedia.tv:8080/gtplayer/ad_test1.mp4" md5="3878a998c086b7dc66d894b75432560a" name="ad_test1.mp4" duration="94000"/>
+<!--   -->
+<item path="http://www.gtmedia.tv:8080/gtplayer/ad_test2.mp4" md5="146167b000c9db7960118056e63eab23" name="ad_test2.mp4" duration="6000"/>
+<!--   -->
+</videos>
+</ad>
+</gtplayer>
+</winsat>
